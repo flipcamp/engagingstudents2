@@ -11,9 +11,9 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 
 ### Authors ###
 
-[Brian Alegant](essays/alegant.html), Oberlin College  
-[Scott M. Strovas](essays/strovas.html), Wayland Baptist University  
-[Aaron Ziegel](essays/ziegel.html), Towson University  
+[Brian Alegant]({{ site.baseurl }}/essays/alegant.html), Oberlin College  
+[Scott M. Strovas]({{ site.baseurl }}/essays/strovas.html), Wayland Baptist University  
+[Aaron Ziegel]({{ site.baseurl }}/essays/ziegel.html), Towson University  
 
 ### Editorial Board ###
 
