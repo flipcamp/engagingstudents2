@@ -9,13 +9,16 @@ title: Editorial Board
 
 Sean Atkinson, University of Texas–Arlington  
 Carla Colletti, Webster University  
-Philip Duker, University of Delaware  
-Gretchen Foley, University of Nebraska–Lincoln  
-Anna Gawboy, Ohio State University  
-Stephen Gosden, University of North Florida  
+Philip Duker, University of Delaware, coordinator  
+Dave Easley, Oklahoma City University  
+Anna Gawboy, Ohio State University, coordinator  
+Philip Gentry, University of Delaware  
+Stephen Gosden, Oberlin College  
 Bryn Hughes, University of Miami, coordinator  
 Enoch Jacobus, independent scholar, Berea, Kentucky  
-Brian Moseley, Furman University  
+Daniel Jenkins, University of South Carolina  
+Brian Moseley, University of Buffalo  
 Meghan Naxer, University of Oregon  
-Deborah Rifkin, Ithaca College  
+Colin Roust, Roosevelt University  
 Kris Shaffer, University of Colorado–Boulder, coordinator  
+Daniel Stevens, University of Delaware
