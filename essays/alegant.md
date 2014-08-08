@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On “scuba diving,” or the advantages of a less-is-more approach
-author: Brian Alegant
+author: Brian Alegant, Oberlin College
 ---
 
 {{ page.title }}
