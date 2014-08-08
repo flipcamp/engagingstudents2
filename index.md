@@ -11,12 +11,7 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 
 ### Authors ###
 
-[Brian Alegant](alegantSawhill.html), Oberlin College  
-[Trevor de Clercq](deClercq.html), Middle Tennessee State University  
-[Philip Duker](duker.html), The University of Delaware  
-[Deborah Rifkin](rifkin.html), Ithaca College  
-[Peter Schubert](schubert.html), Schulich School of Music, McGill University  
-[Kris Shaffer](shafferintro.html), University of Colorado–Boulder
+...
 
 ### Editorial Board ###
 
