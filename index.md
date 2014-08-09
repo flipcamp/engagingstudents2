@@ -12,12 +12,19 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 ### Authors ###
 
 [Brian Alegant]({{ site.baseurl }}/essays/alegant.html), Oberlin College  
+[Sara Bakker and Timothy Chenette]({{ site.baseurl }}/essays/bakkerchenette.html), Utah State University
+[Janet Bourne]({{ site.baseurl }}/essays/bourne.html), Northwestern University  
+[Trevor de Clercq]({{ site.baseurl }}/essays/declercq.html), Middle Tennessee State University  
+[Philip Duker]({{ site.baseurl }}/essays/duker.html), University of Delaware  
+[Roger Graybill]({{ site.baseurl }}/essays/graybill.html), New England Conservatory  
+[John Hausmann]({{ site.baseurl }}/essays/hausmann.html), University of Louisville  
 [Scott M. Strovas]({{ site.baseurl }}/essays/strovas.html), Wayland Baptist University  
 [Aaron Ziegel]({{ site.baseurl }}/essays/ziegel.html), Towson University  
 
+
 ### Editorial Board ###
 
-Sean Atkinson, University of Texas–Arlington  
+Sean Atkinson, Texas Christian University
 Carla Colletti, Webster University  
 Philip Duker, University of Delaware, coordinator  
 Dave Easley, Oklahoma City University  
