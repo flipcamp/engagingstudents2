@@ -166,6 +166,12 @@ section {
   padding-bottom:50px;
 }
 
+.tableSection {
+  width:860px;
+  float:right;
+  padding-bottom:50px;
+}
+
 small {
   font-size:11px;
 }
@@ -207,7 +213,14 @@ footer {
     padding:20px 0;
     margin:0 0 20px;
   }
-  
+
+  .tableSection {
+    border:1px solid #e5e5e5;
+    border-width:1px 0;
+    padding:20px 0;
+    margin:0 0 20px;
+  }
+
   header a small {
     display:inline;
   }
