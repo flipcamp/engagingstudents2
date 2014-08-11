@@ -24,7 +24,11 @@ title: Table of Contents
 - [Part 2: Types and Examples of PBL problems]({{ site.baseurl }}/essays/duker.html), Philip Duker  
 - [Part 3: Assessing Problem-Based Learning]({{ site.baseurl }}/essays/shaffer.html), Kris Shaffer
 
+[Cultivating Creativity in the Music Theory Classroom&#58; Telling Tales with Texture and Timbre]({{ site.baseurl }}/essays/rifkin.html)  
+*Deborah Rifkin*
 
+[Teaching Music Analysis through Improvisation]({{ site.baseurl }}/essays/schubert.html)  
+*Peter Schubert*
 
 [Towards a Philosophy of Student-Centered Music and Social Justice Learning]({{ site.baseurl }}/essays/stamatis.html)  
 *Yona Stamatis*

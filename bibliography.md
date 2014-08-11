@@ -9,6 +9,14 @@ title: Bibliography
 
 Allbaugh, Thomas. 2013. [*Pretexts for Writing*](http://www.google.com/url?q=http%3A%2F%2Fwww.thomasallbaugh.com%2Fpretexts-for-writing%2F&sa=D&sntz=1&usg=AFQjCNGsoHRi4hdNQFkjvQ9x7hnVQpfD4w). 2nd ed. Dubuque, Iowa: Kendall Hunt Publishing.
 
+Amabile, Teresa. 1979. “[Effects of External Evaluation on Artistic Creativity](http://www.google.com/url?q=http%3A%2F%2Fpsycnet.apa.org%2Fjournals%2Fpsp%2F37%2F2%2F221%2F&sa=D&sntz=1&usg=AFQjCNH69IWgmGtZCxk2gqO0GmM_rKGn0A).” In *Journal of Personality and Social Psychology* 37: 221–33.
+
+———. 1983. “[The Social Psychology of Creativity: A Componential Conceptualization.](http://www.google.com/url?q=http%3A%2F%2Fpsycnet.apa.org%2Fjournals%2Fpsp%2F45%2F2%2F357%2F&sa=D&sntz=1&usg=AFQjCNHMncp_RhtlKuIeaZ_AKj_PbzsCSw)” In *Journal of Personality and Social Psychology* 45: 357–76.
+
+———. 1995. “[Discovering the Unknowable, Managing the Unmanageable.](http://www.google.com/url?q=http%3A%2F%2Fwww.hbs.edu%2Ffaculty%2FPages%2Fitem.aspx%3Fnum%3D465&sa=D&sntz=1&usg=AFQjCNHxyGkm73q7qSnIoIwNT8KTjiAcxQ)” In *Creative Action in Organizations: Ivory Tower Visions and Real World Voices*, edited by Cameron Ford and Dennis Gioia, 77–82. Thousand Oaks, CA: Sage Publications, Inc.
+
+———. 2000. “[A Model of Creativity and Innovation in Organizations.](http://www.google.com/url?q=http%3A%2F%2Fwww.hbs.edu%2Ffaculty%2FPages%2Fitem.aspx%3Fnum%3D7441&sa=D&sntz=1&usg=AFQjCNHIKlrnLXhltJrUr3SH9G9WypiXRA)” In *Research in Organizational Behavior*, edited by B. Staw and L. Cummings, 123–167. Greenwich, CT: Cambridge University Press.
+
 Aristotle. [*Metaphysics*](http://www.google.com/url?q=http%3A%2F%2Fclassics.mit.edu%2FAristotle%2Fmetaphysics.1.i.html&sa=D&sntz=1&usg=AFQjCNEvlbo6yjhi2z4zmPaDEbdpq_at7Q). Translated by W.D. Ross. The Internet Classics Archive. Accessed July 11, 2014.
 
 Bean, John C. 2001. [*Engaging Ideas: The Professor’s Guide to Integrating Writing, Critical Thinking, and Active Learning in the Classroom*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL12338350W%2FEngaging_ideas&sa=D&sntz=1&usg=AFQjCNH5Y2kQSMVyruZNJEz6lLFMgFI-WA). San Francisco: Jossey-Bass.  
@@ -28,6 +36,8 @@ Campbell, Don G. 1983. [*Introduction to the Musical Brain*](http://www.google.c
 CAST (Center for Applied Special Technology). 2011. [*Universal Design for Learning Guidelines version 2.0.*](http://www.google.com/url?q=http%3A%2F%2Fwww.udlcenter.org%2Faboutudl%2Fudlguidelines%2F&sa=D&sntz=1&usg=AFQjCNGELP3JbO3ssOUNx9Hf92SEbq8_Og) Wakefield, MA: Author. Updated July 16, 2013. Accessed July 16, 2014.
 
 Cormier, David. 2012. [“Avoiding Resistance to Grading Contracts.”](http://www.google.com/url?q=http%3A%2F%2Fdavecormier.com%2Fedblog%2F2012%2F05%2F07%2Fgrading_contract%2F&sa=D&sntz=1&usg=AFQjCNG7wLyUqlgI58WAvFq2UrCc-JZRmQ) Personal blog. May 7, 2012. Accessed July 16, 2014.
+
+Crutchfield, R. 1962. “[Conformity and Creative Thinking](http://www.google.com/url?q=http%3A%2F%2Fpsycnet.apa.org%2Fbooks%2F13117%2F004&sa=D&sntz=1&usg=AFQjCNGaPJfHx-ziPYK9rL2U1-0Nx8wtqg).” In *Contemporary Approaches to Creative Thinking*, edited by H. Gruber, G. Terell, and M. Wertheimer, 120–140. New York, NY: Atherton Press.
 
 Cusick, Susan. 2006. [“Music as Torture, Music as Weapon.”](http://www.google.com/url?q=http%3A%2F%2Fwww.redalyc.org%2Farticulo.oa%3Fid%3D82201011&sa=D&sntz=1&usg=AFQjCNGHsUGUp0mNEhhgL9c7AgOiinUBpA) Trans. Revista Transcultural de Música, Vol. 10, 1-13.
 
@@ -61,11 +71,17 @@ Hanslick, Eduard. 1854. [*The Beautiful in Music*](https://www.google.com/url?q=
 
 Hess, Carol A. 2002. [“Score and Word: Writing about Music.”](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL8477219W%2FTeaching_Music_History&sa=D&sntz=1&usg=AFQjCNEhnbN8VSpmqbJ7KYmsa3W2FOvyqA) In *Teaching Music History*. Ed. Mary Natvig, 193–204. Aldershot, Hants, England: Ashgate.
 
+Higdon, Jennifer. 2000. “[Program Notes for Blue Cathedral](http://www.google.com/url?q=http%3A%2F%2Fwww.jenniferhigdon.com%2Fpdf%2Fprogram-notes%2Fblue-cathedral.pdf&sa=D&sntz=1&usg=AFQjCNG0xv0glgbxuRCBqmpYrnjtkdd6Vw).”
+
 Jacobus, Enoch. 2013. [“Grammatica, Dialectica, Rhetorica: the Trivium in Music Theory Pedagogy.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fjacobus.html&sa=D&sntz=1&usg=AFQjCNHLEqNFqV9Gq5sNn2XsOwM-lMmgeg) In *Engaging Students: Essays in Music Pedagogy*.
+
+Karpinski, Gary. 2000. [A*ural Skills Acquisition: The Development of Listening, Reading, and Performing Skills in College-Level Musicians*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL5736751W%2FAural_Skills_Acquisition&sa=D&sntz=1&usg=AFQjCNELhXpV3Zni9YDgJwvCmB1Gxcr_ZQ). New York, NY: Oxford University Press.
 
 Kain, Patricia. 1998. [“How to Do a Close Reading"](http://www.google.com/url?q=http%3A%2F%2Fwritingcenter.fas.harvard.edu%2Fpages%2Fhow-do-close-reading&sa=D&sntz=1&usg=AFQjCNHjTdDbVfnzHWW8NpY6r1QS4c65Fg). Accessed August 1, 2014.
 
 King, Patricia M. & Karen Strohm. 1994. [*Developing Reflective Judgment: Understanding and Promoting Intellectual Growth and Critical Thinking in Adolescents and Adults*.](http://www.google.com/url?q=http%3A%2F%2Feric.ed.gov%2F%3Fid%3DED368925&sa=D&sntz=1&usg=AFQjCNFLzDIx_xgLQ6_LaIgiczGic63Kxg) San Francisco, CA: Jossey Bass.
+
+Kivy, Peter. 1993. [*The Fine Art of Repetition: Essays in the Philosophy of Music*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL3334186W%2FThe_fine_art_of_repetition&sa=D&sntz=1&usg=AFQjCNGBXHGXHX8UErfojh5TJpcbqRREvw). Cambridge: Cambridge University Press.
 
 Knyt, Erinn E. 2013. [“Rethinking the Music History Research Paper Assignment.”](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F95%2F123&sa=D&sntz=1&usg=AFQjCNEo0hh07Ue38G7QL5GsDDA7XR53nQ) *Journal of Music History Pedagogy* 4 (1): 23-37. Accessed July 31, 2014.
 
@@ -90,9 +106,13 @@ November, Nancy Rachel. 2011.  [“Literacy Loops and Online Groups: Promoting W
 
 Peebles, Crystal. 2013. [“Using Audacity to Participate in Active Music Listening.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fpeebles.html&sa=D&sntz=1&usg=AFQjCNE8NUmnYZRGs7F-sW3j3Sxp01c2Bg) In *Engaging Students: Essays in Music Pedagogy*.
 
+Osborn, A. 1963. [*Applied Imagination: Principles and Procedures of Creative Thinking. Principles and Procedures of Creative Thinking*](https://www.google.com/url?q=https%3A%2F%2Farchive.org%2Fdetails%2Fappliedimaginati00osborich&sa=D&sntz=1&usg=AFQjCNGUeS_ItecV8j7FklGaB52m2bsEsw). New York, NY: Schribners.
+
 Rawls, John. 1971. [*A Theory of Justice*](http://books.google.com/books/about/A_THEORY_OF_JUSTICE_ORIG_EDN.html?id=vcVEPc30ut0C&redir_esc=y). Cambridge, MA: Harvard University Press.
 
 Roden, Timothy, Craig Wright, and Bryan Simms, eds. 2006. [*Anthology for Music in Western Civilization*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL12405724W%2FAnthology_for_music_in_western_civilization&sa=D&sntz=1&usg=AFQjCNHlEbtfnxTRBt3EHPEXW_Hv8ZNgsA). Belmont, California: Thomson/Schirmer.
+
+Rogers, Carl. 1954. “[Towards a Theory of Creativity.](http://www.google.com/url?q=http%3A%2F%2Fpsycnet.apa.org%2Findex.cfm%3Ffa%3Dsearch.displayRecord%26UID%3D1955-05283-001&sa=D&sntz=1&usg=AFQjCNFgQRIYPPh8gJGNPhBDWBHDMjJwEw)” In *ETC: A Review of General Semantics* 11: 249–60.
 
 Rust, Chris. 2002. [*The impact of assessment on student learning*](http://www.google.com/url?q=http%3A%2F%2Funcw.edu%2Fcas%2Fdocuments%2FRust2002.pdf&sa=D&sntz=1&usg=AFQjCNESn-MfTxtf0-TheKNNeeDhDmSBCw). The Institute for Learning and Teaching in Higher Education and Sage Publications. Vol 3(2) 145–58. London: Sage.
 
