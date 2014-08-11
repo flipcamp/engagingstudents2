@@ -13,9 +13,15 @@ Aristotle. [*Metaphysics*](http://www.google.com/url?q=http%3A%2F%2Fclassics.mit
 
 Bean, John C. 2001. [*Engaging Ideas: The Professor’s Guide to Integrating Writing, Critical Thinking, and Active Learning in the Classroom*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL12338350W%2FEngaging_ideas&sa=D&sntz=1&usg=AFQjCNH5Y2kQSMVyruZNJEz6lLFMgFI-WA). San Francisco: Jossey-Bass.  
 
+Berkowitz, Sol, Gabriel Fontrier, Leo Kraft, Perry Goldstein, and Edward Smaldone. 2011. [*A New Approach to Sight Singing*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16010686W%2FA_new_approach_to_sight_singing&sa=D&sntz=1&usg=AFQjCNGQ-UXOOBwtXfkvvP0xkspyvaDOjQ), 5th ed. New York: W.W. Norton.
+
+Black, Alison. 2010. [“Gen Y: Who They Are and How They Learn.”](http://www.google.com/url?q=http%3A%2F%2Feric.ed.gov%2F%3Fid%3DEJ872487&sa=D&sntz=1&usg=AFQjCNFe8HDTUcgFxiePmkBBklpbZ9if3Q) *Educational Horizons* 88, no. 2, 92-101.
+
 Bonds, Mark Evan. 2009. [*A History of Music in Western Culture*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL22543533M%2FA_history_of_music_in_Western_culture&sa=D&sntz=1&usg=AFQjCNF0wFMD44dwUI_MU8jVhlokdwdNww), 3rd ed. Upper Saddle River, NJ: Prentice Hall.
 
 Brewer, Carol A. and Diane Smith, eds. 2009. [*Vision and Change in Undergraduate Biology Education: A Call to Arms*](http://www.google.com/url?q=http%3A%2F%2Fvisionandchange.org%2Ffiles%2F2013%2F11%2Faaas-VISchange-web1113.pdf&sa=D&sntz=1&usg=AFQjCNH3vxUYkztRo5EoBAEzmngP9Peq3w). Report organized jointly by the American Association for the Advancement of Science and the National Science Foundation.
+
+de Clercq, Trevor. 2013. [“Towards a Flipped Aural Skills Classroom: Harnessing Recording Technology for Performance-Based Homework.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2FdeClercq.html&sa=D&sntz=1&usg=AFQjCNFS5ln7dEHE87dnYbodtijucAWSaw) In *Engaging Students: Essays in Music Pedagogy*.
 
 Fink, Dee. 2014. [“A Self-Directed Guide to Designing Courses for Significant Learning.”](http://www.google.com/url?q=http%3A%2F%2Fwww.deefinkandassociates.com%2FGuidetoCourseDesignAug05.pdf&sa=D&sntz=1&usg=AFQjCNFMThAmMrEN3yhnRzc1BIsIcCI5cA)[ accessed August 1, 2014.](http://www.google.com/url?q=http%3A%2F%2Fwww.deefinkandassociates.com%2FGuidetoCourseDesignAug05.pdf&sa=D&sntz=1&usg=AFQjCNFMThAmMrEN3yhnRzc1BIsIcCI5cA)
 
@@ -51,7 +57,11 @@ Natvig, Mary. 2012. [“Classroom Activities.”](https://www.google.com/url?q=h
 
 November, Nancy Rachel. 2011.  [“Literacy Loops and Online Groups: Promoting Writing Skills in Large Undergraduate Music Classes.”](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F31%2F59&sa=D&sntz=1&usg=AFQjCNG0HGg_HSh7mvEqLmjYeJ8JqrrBRg) *Journal of Music History Pedagogy* 2 (1): 5-23. Accessed July 31, 2014.
 
+Peebles, Crystal. 2013. [“Using Audacity to Participate in Active Music Listening.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fpeebles.html&sa=D&sntz=1&usg=AFQjCNE8NUmnYZRGs7F-sW3j3Sxp01c2Bg) In *Engaging Students: Essays in Music Pedagogy*.
+
 Roden, Timothy, Craig Wright, and Bryan Simms, eds. 2006. [*Anthology for Music in Western Civilization*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL12405724W%2FAnthology_for_music_in_western_civilization&sa=D&sntz=1&usg=AFQjCNHlEbtfnxTRBt3EHPEXW_Hv8ZNgsA). Belmont, California: Thomson/Schirmer.
+
+Shaffer, Kris and Bryn Hughes. 2013. [“Flipping the Classroom: Three Methods.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fshafferintro.html&sa=D&sntz=1&usg=AFQjCNHdo8F-0-l1EfsZ7XkcIsQnd1IutQ) In *Engaging Students: Essays in Music Pedagogy*.
 
 Strovas, Scott M.  2011. [“Music in the First-Year Writing Classroom.”](https://www.google.com/url?q=https%3A%2F%2Fjournals.tdl.org%2Fceaforum%2Findex.php%2Fceaforum%2Farticle%2Fview%2F6340%2F5967https%3A%2Fjournals.tdl.org%2Fceaforum%2Findex.php%2Fceaforum%2Farticle%2Fview%2F6340%2F5967&sa=D&sntz=1&usg=AFQjCNFR8o8fH5__ZpssUVH3bTHt1AODQQ) *The CEA Forum* 40 (2): 24-42. Accessed July 11, 2014.
 

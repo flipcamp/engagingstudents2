@@ -20,7 +20,7 @@ As with all pedagogical techniques, the set up is key. On Philip Duker’s produ
 
 Example 1: Philip Duker’s Production Time vs. Longevity Axis
 
-![Production Longevity Axis.tiff](images/image00.jpg)
+![Production Longevity Axis.tiff](images/JM-image00.jpg)
 
 Here are six tried-and-true guidelines for creating and incorporating podcasts into a mini-flipped course.
 
@@ -34,7 +34,7 @@ Here are six tried-and-true guidelines for creating and incorporating podcasts i
 
 Example 2a. A course management system presentation of a podcast
 
-![Example1a.tiff](images/image01.jpg)
+![Example1a.tiff](images/JM-image01.jpg)
 
 Example 2b. [Example of a podcast from Theory 2.](https://drive.google.com/file/d/0B5EJ9_DmZ6CBVDRTTkVyU3drVFk/edit?usp=sharing)
 
@@ -42,7 +42,7 @@ Example 2b. [Example of a podcast from Theory 2.](https://drive.google.com/file/
 
 Example 3. “Tiny Quiz” on podcast.
 
-![Example2.tiff](images/image02.jpg)
+![Example2.tiff](images/JM-image02.jpg)
 
 ​(6) Include a "nuts-and-bolts" homework dependent on the contents of the podcast. These assignments should engage students on the three lowest levels of knowledge: remembering, understanding, and applying. Using [verbs associated with Bloom’s](http://www.google.com/url?q=http%3A%2F%2Fanethicalisland.wordpress.com%2F2014%2F06%2F05%2Fblooms-revised-taxonomy-with-verbs%2F&sa=D&sntz=1&usg=AFQjCNFggYnlp29uv7ZFjK_Vi1PkrhfrBg)[taxonomy](http://www.google.com/url?q=http%3A%2F%2Fanethicalisland.wordpress.com%2F2014%2F06%2F05%2Fblooms-revised-taxonomy-with-verbs%2F&sa=D&sntz=1&usg=AFQjCNFggYnlp29uv7ZFjK_Vi1PkrhfrBg) helps in writing nuts-and-bolts assignments and planning in-class activities based on the higher levels of knowledge. Example 2a contains the nuts-and-bolts homework that was attached to the information in the podcast.
 
