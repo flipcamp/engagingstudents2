@@ -21,6 +21,14 @@ Bonds, Mark Evan. 2009. [*A History of Music in Western Culture*](https://www.go
 
 Brewer, Carol A. and Diane Smith, eds. 2009. [*Vision and Change in Undergraduate Biology Education: A Call to Arms*](http://www.google.com/url?q=http%3A%2F%2Fvisionandchange.org%2Ffiles%2F2013%2F11%2Faaas-VISchange-web1113.pdf&sa=D&sntz=1&usg=AFQjCNH3vxUYkztRo5EoBAEzmngP9Peq3w). Report organized jointly by the American Association for the Advancement of Science and the National Science Foundation.
 
+Burden, Paul R. 2000. [*Powerful Classroom Management Strategies: Motivating Students to Learn*](http://books.google.com/books?id=BbJJzPLe_9IC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false). Thousand Oaks, CA: Corwin Press.
+
+Campbell, Don G. 1983. [*Introduction to the Musical Brain*](http://www.google.com/url?q=http%3A%2F%2Fwww.amazon.com%2FIntroduction-Musical-Brain-Don-Campbell%2Fdp%2F0918812283&sa=D&sntz=1&usg=AFQjCNFgTMTgqHcb9-i30Zq8kDVMUip54A). St. Louis: Magnamusic Baton.
+
+Cusick, Susan. 2006. [“Music as Torture, Music as Weapon.”](http://www.google.com/url?q=http%3A%2F%2Fwww.redalyc.org%2Farticulo.oa%3Fid%3D82201011&sa=D&sntz=1&usg=AFQjCNGHsUGUp0mNEhhgL9c7AgOiinUBpA) Trans. Revista Transcultural de Música, Vol. 10, 1-13.
+
+d’Agostino, Fred and Gerald Gaus and John Thrasher. 2011. [“Contemporary Approaches to the Social Contract.”](http://www.google.com/url?q=http%3A%2F%2Fplato.stanford.edu%2Fentries%2Fcontractarianism-contemporary%2F&sa=D&sntz=1&usg=AFQjCNHpBdGT1qBL1WH4SnmYd83r0JAolw) *Stanford Encyclopedia of Philosophy*. Accessed July 12, 2014.
+
 de Clercq, Trevor. 2013. [“Towards a Flipped Aural Skills Classroom: Harnessing Recording Technology for Performance-Based Homework.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2FdeClercq.html&sa=D&sntz=1&usg=AFQjCNFS5ln7dEHE87dnYbodtijucAWSaw) In *Engaging Students: Essays in Music Pedagogy*.
 
 Fink, Dee. 2014. [“A Self-Directed Guide to Designing Courses for Significant Learning.”](http://www.google.com/url?q=http%3A%2F%2Fwww.deefinkandassociates.com%2FGuidetoCourseDesignAug05.pdf&sa=D&sntz=1&usg=AFQjCNFMThAmMrEN3yhnRzc1BIsIcCI5cA)[ accessed August 1, 2014.](http://www.google.com/url?q=http%3A%2F%2Fwww.deefinkandassociates.com%2FGuidetoCourseDesignAug05.pdf&sa=D&sntz=1&usg=AFQjCNFMThAmMrEN3yhnRzc1BIsIcCI5cA)
@@ -30,6 +38,8 @@ Fink, Dee. 2014. [“A Self-Directed Guide to Designing Courses for Significant 
 Francis, Kimberly. 2013. [“E-Publishing in the Undergraduate Music History Classroom: The University of Guelph Book Review Project.”](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F92%2F124&sa=D&sntz=1&usg=AFQjCNH57fQO0X91PmfSxWYrq-HVEmPvog) *Journal of Music History Pedagogy* 4 (1): 1-22. Accessed July 11, 2014.
 
 Gaillet, Lynée Lewis. 2011. [*Interview by Florida State University graduate students in rhetoric and composition*](http://www.google.com/url?q=http%3A%2F%2Fwww.english.fsu.edu%2Frhetcomp%2Ftranscripts%2Fgaillet.pdf&sa=D&sntz=1&usg=AFQjCNHbP4BTArMzNSWsrWi9JwA8d0LXxg). Florida State University Rhetoric and Composition Community. Accessed August 1, 2014.  
+
+Genther, Eileen. 2011. [“Music and Social Justice Syllabus, Summer, 2011.”](http://www.google.com/url?q=http%3A%2F%2Fwww.wesleyseminary.edu%2FPortals%2F0%2FDocuments%2FSummer%2520Programs%2FMusic%2520and%2520Social%2520Justice%2520summer11.pdf&sa=D&sntz=1&usg=AFQjCNF98CNlsCeKhOU_qHJITYdAhgyXyA) Accessed July 10, 2014.
 
 Hacker, Diana, and Nancy Sommers. 2011. [*A Writer’s Reference*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16082083W%2FA_writer%2527s_reference&sa=D&sntz=1&usg=AFQjCNFjU6u4KDh7cD2REdrsKYkk251vAQ). 7th ed. Boston: Bedford/St. Martins.
 
@@ -41,15 +51,22 @@ Hess, Carol A. 2002. [“Score and Word: Writing about Music.”](https://www.go
 
 Kain, Patricia. 1998. [“How to Do a Close Reading"](http://www.google.com/url?q=http%3A%2F%2Fwritingcenter.fas.harvard.edu%2Fpages%2Fhow-do-close-reading&sa=D&sntz=1&usg=AFQjCNHjTdDbVfnzHWW8NpY6r1QS4c65Fg). Accessed August 1, 2014.
 
+King, Patricia M. & Karen Strohm. 1994. [*Developing Reflective Judgment: Understanding and Promoting Intellectual Growth and Critical Thinking in Adolescents and Adults*.](http://www.google.com/url?q=http%3A%2F%2Feric.ed.gov%2F%3Fid%3DED368925&sa=D&sntz=1&usg=AFQjCNFLzDIx_xgLQ6_LaIgiczGic63Kxg) San Francisco, CA: Jossey Bass.
+
 Knyt, Erinn E. 2013. [“Rethinking the Music History Research Paper Assignment.”](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F95%2F123&sa=D&sntz=1&usg=AFQjCNEo0hh07Ue38G7QL5GsDDA7XR53nQ) *Journal of Music History Pedagogy* 4 (1): 23-37. Accessed July 31, 2014.
 
 Liszt, Franz. 1855. “[*Berlioz and His Harold Symphony*](https://www.google.com/url?q=https%3A%2F%2Fis.muni.cz%2Fel%2F1421%2Fpodzim2008%2FVH_751%2Fliszt.html&sa=D&sntz=1&usg=AFQjCNGn8aqH1-BRrDbAkqtsdZn540bd8w)”.
 
 Ludwig, Alexander R. 2013. [“Using Twitter in the Music History Classroom.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fludwig.html&sa=D&sntz=1&usg=AFQjCNHmb5gNPvqGZFWeD6k8fpvJZmKsyg) In *Engaging Students: Essays in Music Pedagogy*, edited by Sean Atkinson, et. al. Vol. 1. Accessed July 11, 2014.
 
+Maclellan, Effie and Soden, R. 2004. [*The importance of epistemic cognition in student-centered learning*](http://www.google.com/url?q=http%3A%2F%2Fstrathprints.strath.ac.uk%2F5509%2F1%2Fstrathprints005509.pdf&sa=D&sntz=1&usg=AFQjCNH1fbS20tLx9YYbSMA14_Go9UX4Zg). *Instructional Science* 32 (3). 253-68.
+
 Major, Claire H. 2002. [“Problem-Based Learning in General Education at Samford University: A Case Study of Changing Faculty Culture through Targeted Improvement Efforts.”](http://www.google.com/url?q=http%3A%2F%2Fwww.jstor.org%2Fstable%2F27797926&sa=D&sntz=1&usg=AFQjCNFyQ4SMr3DDvGbGmKPiwwo6sDYmEw) In *The Journal of General Education* 51 (4): 235-256.
 
+McLeod, Saul. [“Jean Piaget.”](http://www.google.com/url?q=http%3A%2F%2Fwww.simplypsychology.org%2Fpiaget.html&sa=D&sntz=1&usg=AFQjCNFcZtkiQfdA9WoMXhDIeObju4-eZw) *Simply Psychology*. Last modified, 2012. Accessed July 14, 2014.
 Mendelssohn, Felix. 1842. “[Letter to Marc-André Souchay](https://www.google.com/url?q=https%3A%2F%2Farchive.org%2Fdetails%2Flettersoffelixm00mend&sa=D&sntz=1&usg=AFQjCNFElrGlmwa5bGAMNWcfvqgYrRgVpw)” (15 October 1842).
+
+Mindlin, Galina and Don Du Rousseau and Joseph Cardillo. 2012.[ ](http://books.google.com/books/about/Your_Playlist_Can_Change_Your_Life.html?id=RCK5VYfL79gC&redir_esc=y)[*Your Playlist Can Change Your Life: Ten Proven Ways Your Favorite Music Can Revolutionize Your Health, Memory, Organization, Alertness, and More*](http://books.google.com/books/about/Your_Playlist_Can_Change_Your_Life.html?id=RCK5VYfL79gC&redir_esc=y). Sourcebooks, Inc.
 
 Morrison, Charles D. 2009. [“Music Listening as Music Making.”](http://www.google.com/url?q=http%3A%2F%2Fmuse.jhu.edu%2Fjournals%2Fthe_journal_of_aesthetic_education%2Fv043%2F43.1.morrison.html&sa=D&sntz=1&usg=AFQjCNG3oRxeJJcRla2Y-zEalsXS6npEOw) *Journal of Aesthetic Education* 43, no. 1: 77–91.
 
@@ -59,9 +76,15 @@ November, Nancy Rachel. 2011.  [“Literacy Loops and Online Groups: Promoting W
 
 Peebles, Crystal. 2013. [“Using Audacity to Participate in Active Music Listening.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fpeebles.html&sa=D&sntz=1&usg=AFQjCNE8NUmnYZRGs7F-sW3j3Sxp01c2Bg) In *Engaging Students: Essays in Music Pedagogy*.
 
+Rawls, John. 1971. [*A Theory of Justice*](http://books.google.com/books/about/A_THEORY_OF_JUSTICE_ORIG_EDN.html?id=vcVEPc30ut0C&redir_esc=y). Cambridge, MA: Harvard University Press.
+
 Roden, Timothy, Craig Wright, and Bryan Simms, eds. 2006. [*Anthology for Music in Western Civilization*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL12405724W%2FAnthology_for_music_in_western_civilization&sa=D&sntz=1&usg=AFQjCNHlEbtfnxTRBt3EHPEXW_Hv8ZNgsA). Belmont, California: Thomson/Schirmer.
 
+Rust, Chris. 2002. [*The impact of assessment on student learning*](http://www.google.com/url?q=http%3A%2F%2Funcw.edu%2Fcas%2Fdocuments%2FRust2002.pdf&sa=D&sntz=1&usg=AFQjCNESn-MfTxtf0-TheKNNeeDhDmSBCw). The Institute for Learning and Teaching in Higher Education and Sage Publications. Vol 3(2) 145–58. London: Sage.
+
 Shaffer, Kris and Bryn Hughes. 2013. [“Flipping the Classroom: Three Methods.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fshafferintro.html&sa=D&sntz=1&usg=AFQjCNHdo8F-0-l1EfsZ7XkcIsQnd1IutQ) In *Engaging Students: Essays in Music Pedagogy*.
+
+Sharp, Gene. 1973. [*The Politics of Nonviolent Action*.](http://books.google.com/books/about/The_Politics_of_Nonviolent_Action.html?id=gA0XAAAAIAAJ&redir_esc=y) (3 vols.) Boston: Porter Sargent.
 
 Strovas, Scott M.  2011. [“Music in the First-Year Writing Classroom.”](https://www.google.com/url?q=https%3A%2F%2Fjournals.tdl.org%2Fceaforum%2Findex.php%2Fceaforum%2Farticle%2Fview%2F6340%2F5967https%3A%2Fjournals.tdl.org%2Fceaforum%2Findex.php%2Fceaforum%2Farticle%2Fview%2F6340%2F5967&sa=D&sntz=1&usg=AFQjCNFR8o8fH5__ZpssUVH3bTHt1AODQQ) *The CEA Forum* 40 (2): 24-42. Accessed July 11, 2014.
 
@@ -69,4 +92,9 @@ Walvoord, Barbara E. Fassler. 1986. [*Helping Students Write Well*](https://www.
 
 Warfield, Scott. 2012. [“The Research Paper.”](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16557937W%2FThe_music_history_classroom&sa=D&sntz=1&usg=AFQjCNE-PrdoQcwihlzYZJbAyp8Cfl59pA) In *The Music History Classroom*, edited by James A. Davis, 125-140. Farnham, Surrey, England: Ashgate.
 
+Weimer, Maryellen. 2008. [*Learner-Centered Teaching: Five Key Changes to Practice*](http://books.google.com/books?id=X6IfawF1RNwC&pg=PR5&source=gbs_selected_pages&cad=3#v=onepage&q&f=false). San Francisco: John Wiley & Sons.
+
 Wright, Craig, and Bryan Simms. 2010. [*Music in Western Civilization.*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL23677043M%2FMusic_in_western_civilization&sa=D&sntz=1&usg=AFQjCNHv2ec5rQCmQrbKZdi2EH2K_-yyIQ) Media update. Boston: Schirmer Cengage Learning.
+
+Zablotsky, Diane L. 1990. [“Gender, Race, and Cultural Literacy: Consequences for Academic Performance.”](http://www.google.com/url?q=http%3A%2F%2Fwww.jstor.org%2Fdiscover%2F10.2307%2F1317739%3Fuid%3D3738128%26uid%3D2129%26uid%3D2%26uid%3D70%26uid%3D4%26sid%3D21104352446847&sa=D&sntz=1&usg=AFQjCNGLKBUZeRx7HX5-ft_hAhF9Ip655Q) *Teaching Sociology*, Vol. 18(3) 362-71.
+
