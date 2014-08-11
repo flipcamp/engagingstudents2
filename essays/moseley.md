@@ -23,7 +23,7 @@ As I hope I captured in my description of the opening of Op. 18, No. 4, my hope 
 
 We can encourage more active listening by aligning listening opportunities with a set of formal concepts that also form the basis for student evaluation. [Criterion-referenced assessment](http://www.google.com/url?q=http%3A%2F%2Fkris.shaffermusic.com%2F2012%2F08%2Fintroduction-to-criterion-referenced-grading%2F&sa=D&sntz=1&usg=AFQjCNFGQgI-kO8qmJObwjkr0JxKEA9QZg) (CRA) evaluates student work according to a set of standards, concepts, or skills. Those criterion form the basis for the student’s grade—as opposed to “assignments” and “quizzes.” Typically, students receive multiple grades on an assignment that reflect their performance on the of relevant criteria. A primary intention is to measure *understanding* or *mastery* of a set of criteria that a teacher believes to be relevant to the larger goals of the course. (With my students, I describe CRA as something like a driver’s test, where each of the skills tested—signaling, changing lanes, and so on—is necessary in order to show ability to drive.) Here are the thirteen concepts I expected my students to master in my unit on classical form:
 
-![](images/BM-image01.png)
+[![](images/BM-image01.png)](images/BM-image01.png)
 
 These thirteen concepts reflect the building blocks of formal structure at multiple levels and encompass three different movement types. My belief is that students that master each of these concepts will be able to listen to and interpret classical form effectively. Teachers might also include performance skills, such as the ability to improvise a consequent phrase given the antecedent, or composition skills, perhaps including the ability to compose a short phrase for piano given one of Robert Gjerdingen’s *schemas*.
 
@@ -31,7 +31,7 @@ These thirteen concepts reflect the building blocks of formal structure at multi
 
 In my course, students were told which concepts were relevant each time they were assessed. Because students  received multiple grades that reflect their performance on each of the concepts, they are coaxed into treating local and global levels of form equally. Consider the following assignment, which assesses student understanding of “sentence,” “period,” and “hybrid” types of phrase:
 
-![](images/BM-image04.png)
+[![](images/BM-image04.png)](images/BM-image04.png)
 
 [Resource: Using Variations Audio Timeliner in your Classical Form Unit](https://docs.google.com/document/d/1FK4SI6tQtRHI0w56CR9dM9Yc9zm6TsPlHdTRcgeVod8/edit)
 
@@ -45,7 +45,7 @@ Establishing a particular pathway for listening makes it easier to diagnose conc
 
 Given a particular listening pathway, a CRA grade sheet can capture *conceptual* misunderstandings at higher formal levels in relation to lower ones. Below is the grade sheet for the student assignment above, where the student was asked to listen from the cadence and sub-phrase levels up.
 
-![](images/BM-image02.png)
+[![](images/BM-image02.png)](images/BM-image02.png)
 
 [Resource: Using Google Drive to Automate the Creation of CRA Grade Sheets](https://docs.google.com/document/d/10Wm3mLSpSIVQbibIdYDSy98_Co4N5BAWZ23sBk2UT70/edit?usp=sharing)
 
@@ -57,7 +57,7 @@ As students learn to listen to classical form in this way, they quickly learn th
 
 Students, of course, learn this dependence at different paces, which may or may not conform to the pace of our class in general. CRA allows you to easily tailor assessment opportunities to students’  ability levels—allowing students that learn quickly to move on, and those that need extra time with a concept to linger behind. The following assignment, which asks students to diagram a sonata exposition, allows students to determine the concepts they’d like to have assessed based on prior performance. Students that have already mastered sub-phrases and phrases are allowed to leave those concepts are allowed to skip over those concepts, while others can continue to practice those skills.
 
-![](images/BM-image03.png)
+[![](images/BM-image03.png)](images/BM-image03.png)
 
 #vCRA as a Way to Fuse Written and Aural Skills
 
@@ -69,13 +69,13 @@ Fusing written and aural theory through *concepts* helps in other ways as well:
 
 Because mastery of concepts is the goal of a CRA class, many implementations of this type of assessment evaluate performance on a “pass/fail” basis, count only the most recent attempt in the final grade, and assign a final grade based on the number of concepts mastered. As an example, the first grade book below, which resembles [Kris Shaffer’s approach to teaching a similar course](http://www.google.com/url?q=http%3A%2F%2Fkris.shaffermusic.com%2Fcourses%2Fmt4-unit1.html&sa=D&sntz=1&usg=AFQjCNGdD-GCSzt3URVQ0ckEFgkWTkYzPw), shows a student’s attempts at the “cadence” concept. In seven attempts, the student passed the cadence objective once, and not in the most recent attempt. Therefore, the student receives a “fail” for that concept in the grade book. Because the student successfully passed 11 of the 13 concepts, that student received a B.
 
-![Pass:Fail Gradesheet.jpg](images/BM-image05.jpg)
+[![Pass:Fail Gradesheet.jpg](images/BM-image05.jpg)](images/BM-image05.png)
 
 But it is also possible to use CRA in an “average-based” assessment environment as well. And for teaching classical form, I have found that averages have some advantages. First, it encourages students to learn concepts as quickly as possible because every attempt will impact their final grade. Learning concepts quickly is important because new concepts are dependent on old ones. Second, analytical listening assignments are often *graded* from simple to complex, and I want to reward students for performing well on earlier assignments even if they have difficulty with later ones.
 
 The second grade book below is average-based, and shows the same cadence category. Assignments that made use of the concept generally grew more difficult as the term progressed—from simple identification in the context of short themes, to phrase deviations, and then to identification within full movements. Averaging gives a better indication of a student’s *overall* performance, which I think is important when the concept is assessed in a variety of listening situations with varying levels of difficulty.
 
-![Average Based Sheet.jpg](images/image00.jpg)
+[![Average Based Sheet.jpg](images/image00.jpg)](images/BM-image00.png)
 
 [Resource: Using Google Drive to keep a grade book that automatically shares an individualized gradebook with each student.](https://docs.google.com/document/d/1usSpMF8C6ytuifkVpfH1VzCMeMSYMJ_Fyb57pR_qR1Q/edit?usp=sharing)
 
