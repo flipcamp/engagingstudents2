@@ -45,6 +45,8 @@ Fink, Dee. 2014. [“A Self-Directed Guide to Designing Courses for Significant 
 
 ———. 2003. *Creating Significant Learning Experiences: An Integrated Approach to Designing College Courses.* San Francisco: Jossey-Bass.
 
+Fischer, Wilhelm. 1915. [“Zur Entwicklung des Wiener klassischen Stils.”](http://www.jstor.org/stable/41460317) In *Studien zur Musikwissenschaft* 3: 24–84.
+
 Francis, Kimberly. 2013. [“E-Publishing in the Undergraduate Music History Classroom: The University of Guelph Book Review Project.”](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F92%2F124&sa=D&sntz=1&usg=AFQjCNH57fQO0X91PmfSxWYrq-HVEmPvog) *Journal of Music History Pedagogy* 4 (1): 1-22. Accessed July 11, 2014.
 
 Gaillet, Lynée Lewis. 2011. [*Interview by Florida State University graduate students in rhetoric and composition*](http://www.google.com/url?q=http%3A%2F%2Fwww.english.fsu.edu%2Frhetcomp%2Ftranscripts%2Fgaillet.pdf&sa=D&sntz=1&usg=AFQjCNHbP4BTArMzNSWsrWi9JwA8d0LXxg). Florida State University Rhetoric and Composition Community. Accessed August 1, 2014.  
@@ -94,6 +96,10 @@ Roden, Timothy, Craig Wright, and Bryan Simms, eds. 2006. [*Anthology for Music 
 
 Rust, Chris. 2002. [*The impact of assessment on student learning*](http://www.google.com/url?q=http%3A%2F%2Funcw.edu%2Fcas%2Fdocuments%2FRust2002.pdf&sa=D&sntz=1&usg=AFQjCNESn-MfTxtf0-TheKNNeeDhDmSBCw). The Institute for Learning and Teaching in Higher Education and Sage Publications. Vol 3(2) 145–58. London: Sage.
 
+Schubert, Peter. 2011. ["Global Perspective on Music Theory Pedagogy: Thinking in Music."](http://jmtp.ou.edu/journal-article/global-perspective-music-theory-pedagogy-thinking-music) In *Journal of Music Theory Pedagogy* 25: 217–33.
+
+Schubert, Peter and Christoph Neidhoefer. 2006. [*Baroque Counterpoint*.](https://openlibrary.org/works/OL1894222W/Baroque_counterpoint) Upper Saddle River, New Jersey: Prentice-Hall.
+
 Shaffer, Kris. 2014. [“An Open Letter to My Students.”](http://www.google.com/url?q=http%3A%2F%2Fwww.hybridpedagogy.com%2Fjournal%2Fopen-letter-students%2F&sa=D&sntz=1&usg=AFQjCNEdcieM9a081wJYVxq8VQAcJaCdSQ) In *Hybrid Pedagogy*. January 6, 2014.
 
 ———. 2013. [“Promoting musical fluency -or- Why I de-emphasize sight-singing and dictation in class.”](http://www.google.com/url?q=http%3A%2F%2Fkris.shaffermusic.com%2F2013%2F04%2Fpromoting-musical-fluency-or-why-i-de-emphasize-sight-singing-and-dictation-in-class%2F&sa=D&sntz=1&usg=AFQjCNEtCvUax91TL_nfu3SVUVnqKj-qaw) Personal blog. April 1, 2013. Accessed July 17, 2014.
@@ -107,6 +113,8 @@ Sharp, Gene. 1973. [*The Politics of Nonviolent Action*.](http://books.google.co
 Stommel, Jesse. 2014. [“MMDU: ‘I Would Prefer Not To.’”](http://www.google.com/url?q=http%3A%2F%2Fwww.hybridpedagogy.com%2Fpage-two%2Fmmdu-prefer%2F&sa=D&sntz=1&usg=AFQjCNHLl6RDdPQDZfuB60l2LxxHO3kf3w) In *Hybrid Pedagogy*. February 10, 2014.
 
 Strovas, Scott M.  2011. [“Music in the First-Year Writing Classroom.”](https://www.google.com/url?q=https%3A%2F%2Fjournals.tdl.org%2Fceaforum%2Findex.php%2Fceaforum%2Farticle%2Fview%2F6340%2F5967https%3A%2Fjournals.tdl.org%2Fceaforum%2Findex.php%2Fceaforum%2Farticle%2Fview%2F6340%2F5967&sa=D&sntz=1&usg=AFQjCNFR8o8fH5__ZpssUVH3bTHt1AODQQ) *The CEA Forum* 40 (2): 24-42. Accessed July 11, 2014.
+
+Talbot, Michael. 1990. [*Tomaso Albinoni: The Venetian Composer and his World*](https://openlibrary.org/works/OL12411555W/Tomaso_Albinoni). Oxford: Oxford University Press.
 
 Walvoord, Barbara E. Fassler. 1986. [*Helping Students Write Well*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL2719190M%2FHelping_students_write_well&sa=D&sntz=1&usg=AFQjCNFyIZZfDs5MQkGtMC8a_rwpDPBgXw). 2nd ed. New York: The Modern Language Association of America.
 
