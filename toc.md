@@ -60,6 +60,9 @@ title: Table of Contents
 [Weekly (or more) Writing in the Music Theory Classroom]({{ site.baseurl }}/essays/miyake2.html)  
 *Jan Miyake*  
 
+[Using Criterion-Referenced Assessment to Encourage Active Analytical Listening]({{ site.baseurl }}/essays/moseley.html)  
+*Brian Moseley*
+
 [Towards a Philosophy of Student-Centered Music and Social Justice Learning]({{ site.baseurl }}/essays/stamatis.html)  
 *Yona Stamatis*
 

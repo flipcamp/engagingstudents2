@@ -9,6 +9,8 @@ title: Bibliography
 
 Aldwell, Edward, Carl Schachter, and Allen Cadwallader. 2011. [*Harmony and Voice Leading*.](http://www.google.com/url?q=http%3A%2F%2Fwww.cengage.com%2Fsearch%2FproductOverview.do%3FNtt%3Daldwell%257C%257C1196292628150329021914958045011389409785%26N%3D16%26Ntk%3DAPG%257C%257CP_EPI%26Ntx%3Dmode%252Bmatchallpartial&sa=D&sntz=1&usg=AFQjCNFGZypzQ4FvSht8yeDqd0dNhFMOYQ) Fourth edition. Boston: Schirmer Cengage Learning.
 
+Alegant, Brian. 2008. “[Listen Up! Thoughts on iPods, Sonata Form, and Analysis Without the Score](http://www.google.com/url?q=http%3A%2F%2Fjmtp.ou.edu%2Fjournal-article%2Flisten-thoughts-ipods-sonata-form-and-analysis-without-score&sa=D&sntz=1&usg=AFQjCNFJHQKN_y8cXcPY2_S8b0BjKESMXg).” In *Journal of Music Theory Pedagogy* 22: 149–76.
+
 Allbaugh, Thomas. 2013. [*Pretexts for Writing*](http://www.google.com/url?q=http%3A%2F%2Fwww.thomasallbaugh.com%2Fpretexts-for-writing%2F&sa=D&sntz=1&usg=AFQjCNGsoHRi4hdNQFkjvQ9x7hnVQpfD4w). 2nd ed. Dubuque, Iowa: Kendall Hunt Publishing.
 
 Amabile, Teresa. 1979. “[Effects of External Evaluation on Artistic Creativity](http://www.google.com/url?q=http%3A%2F%2Fpsycnet.apa.org%2Fjournals%2Fpsp%2F37%2F2%2F221%2F&sa=D&sntz=1&usg=AFQjCNH69IWgmGtZCxk2gqO0GmM_rKGn0A).” In *Journal of Personality and Social Psychology* 37: 221–33.
@@ -23,6 +25,8 @@ Aristotle. [*Metaphysics*](http://www.google.com/url?q=http%3A%2F%2Fclassics.mit
 
 Bean, John C. 2001. [*Engaging Ideas: The Professor’s Guide to Integrating Writing, Critical Thinking, and Active Learning in the Classroom*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL12338350W%2FEngaging_ideas&sa=D&sntz=1&usg=AFQjCNH5Y2kQSMVyruZNJEz6lLFMgFI-WA). San Francisco: Jossey-Bass.  
 
+Benward, Bruce. 1977. [*Music in Theory and Practice*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL11184772M%2FMusic_in_Theory_and_Practice&sa=D&sntz=1&usg=AFQjCNEEqcRVKhqcZguyhswc4YQUMw0gyA). 2nd edition. St. Louis, MO: William C Brown Pub.
+
 Berkowitz, Sol, Gabriel Fontrier, Leo Kraft, Perry Goldstein, and Edward Smaldone. 2011. [*A New Approach to Sight Singing*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16010686W%2FA_new_approach_to_sight_singing&sa=D&sntz=1&usg=AFQjCNGQ-UXOOBwtXfkvvP0xkspyvaDOjQ), 5th ed. New York: W.W. Norton.
 
 Black, Alison. 2010. [“Gen Y: Who They Are and How They Learn.”](http://www.google.com/url?q=http%3A%2F%2Feric.ed.gov%2F%3Fid%3DEJ872487&sa=D&sntz=1&usg=AFQjCNFe8HDTUcgFxiePmkBBklpbZ9if3Q) *Educational Horizons* 88, no. 2, 92-101.
@@ -33,11 +37,15 @@ Brewer, Carol A. and Diane Smith, eds. 2009. [*Vision and Change in Undergraduat
 
 Burden, Paul R. 2000. [*Powerful Classroom Management Strategies: Motivating Students to Learn*](http://books.google.com/books?id=BbJJzPLe_9IC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false). Thousand Oaks, CA: Corwin Press.
 
+Burke, Kevin. 2013. “[Hacking the Listening Guides: Bloom’s Taxonomy and Aural Learning](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fburke.html&sa=D&sntz=1&usg=AFQjCNGeeQUeL3f1ydtHzxadxhmGiT3uDA).” In *Engaging Students: Essays in Music Pedagogy*.
+
 Burstein, L. Poundie. 2013. ["Music Theory Pedagogy in the iPhone Generation."](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fburstein.html&sa=D&sntz=1&usg=AFQjCNEb50IbhB8YxHBUYJqUPDfGDR6dnA) In *Engaging Students: Essays in Music Pedagogy*. Accessed July 29, 2014.
 
 Callcot, John Wall. 1809. [*A Musical Grammar: In Four Parts.*](http://books.google.com/books?id=ESc_AQAAMAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) Second edition. London: Robert Birchall, Music Seller.
 
 Campbell, Don G. 1983. [*Introduction to the Musical Brain*](http://www.google.com/url?q=http%3A%2F%2Fwww.amazon.com%2FIntroduction-Musical-Brain-Don-Campbell%2Fdp%2F0918812283&sa=D&sntz=1&usg=AFQjCNFgTMTgqHcb9-i30Zq8kDVMUip54A). St. Louis: Magnamusic Baton.
+
+Caplin, William E. 2013. “[Teaching Classical Form: Strict Categories vs. Flexible Analysis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAA&url=http%3A%2F%2Fupers.kuleuven.be%2Fsites%2Fupers.kuleuven.be%2Ffiles%2Fpage%2Ffiles%2F2013_3_teaching.pdf&ei=NybMU8KtPIiMyAT9soGoDQ&usg=AFQjCNEcv5rFeJZh7py-jiqcpurZuqNV0A&sig2=W5ZdsZRJX29YG0JzGpBbxQ&bvm=bv.71198958,d.aWw).” I  *Dutch Journal of Music Theory* 18 (3): 119–25.
 
 CAST (Center for Applied Special Technology). 2011. [*Universal Design for Learning Guidelines version 2.0.*](http://www.google.com/url?q=http%3A%2F%2Fwww.udlcenter.org%2Faboutudl%2Fudlguidelines%2F&sa=D&sntz=1&usg=AFQjCNGELP3JbO3ssOUNx9Hf92SEbq8_Og) Wakefield, MA: Author. Updated July 16, 2013. Accessed July 16, 2014.
 
@@ -77,7 +85,11 @@ Gaillet, Lynée Lewis. 2011. [*Interview by Florida State University graduate st
 
 Gawboy, Anna. ["Hacking the Music Theory Lecture."](http://www.google.com/url?q=http%3A%2F%2Fwww.hackingmusictheory.com%2Fgawboy.html&sa=D&sntz=1&usg=AFQjCNGU4M97fVkXn3slfg1zC7qAL7NNeQ) Hacking the Music Theory Classroom. Accessed July 17, 2014.
 
+———. 2013. “[On Standards and Assessment](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fgawboy.html&sa=D&sntz=1&usg=AFQjCNEmuGP7NpoBme7MwEIw8FVH1VlqUA).” In *Engaging Students: Essays in Music Pedagogy*.
+
 Genther, Eileen. 2011. [“Music and Social Justice Syllabus, Summer, 2011.”](http://www.google.com/url?q=http%3A%2F%2Fwww.wesleyseminary.edu%2FPortals%2F0%2FDocuments%2FSummer%2520Programs%2FMusic%2520and%2520Social%2520Justice%2520summer11.pdf&sa=D&sntz=1&usg=AFQjCNF98CNlsCeKhOU_qHJITYdAhgyXyA) Accessed July 10, 2014.
+
+Gjerdingen, Robert. 2007. [*Music in the Galant Style*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL18014958M%2FMusic_in_the_galant_style&sa=D&sntz=1&usg=AFQjCNFqyYLDwRnmxTqymgsRTvrAs9-Pig). New York: Oxford University Press.
 
 Gosden, Stephen. 2013. ["The 'Technology Tools' Session at FlipCamp Music Theory."](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fgosden.html&sa=D&sntz=1&usg=AFQjCNHcdPQjBI-EYErJWHPL1qsGEpGQSw) In *Engaging Students: Essays in Music Pedagogy*. Accessed July 17, 2014.
 
@@ -88,6 +100,8 @@ Haefeli, Sara. 2013. [“Using Blogs for Better Student Writing Outcomes.”](ht
 Hanslick, Eduard. 1854. [*The Beautiful in Music*](https://www.google.com/url?q=https%3A%2F%2Farchive.org%2Fdetails%2Fbeautifulinmusic00hans&sa=D&sntz=1&usg=AFQjCNHF00EpSCzQcP32U9qL7-fDSUBMpA).
 
 Hein, Ethan. 2014. [“How Can Traditional Music Theory Mesh With Modern Pop Music?”](http://www.google.com/url?q=http%3A%2F%2Fwww.slate.com%2Fblogs%2Fquora%2F2014%2F02%2F17%2Fteaching_music_theory_how_can_modern_music_mix_with_traditional_theory.html&sa=D&sntz=1&usg=AFQjCNGq0Ke-HCEJgcZN18e7trp8XGMjMA) *Slate*, February 17. Accessed July 29, 2014.
+
+Hepokoski, James, and Warren Darcy. 2006. [*Elements of Sonata Theory: Norms, Types, and Deformations in the Late-Eighteenth-Century Sonata*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL13667271W%2FElements_of_sonata_theory&sa=D&sntz=1&usg=AFQjCNHkPn3DNXZ19vJ8QWy5ATqQfHPRkQ). New York: Oxford University Press.
 
 Hess, Carol A. 2002. [“Score and Word: Writing about Music.”](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL8477219W%2FTeaching_Music_History&sa=D&sntz=1&usg=AFQjCNEhnbN8VSpmqbJ7KYmsa3W2FOvyqA) In *Teaching Music History*. Ed. Mary Natvig, 193–204. Aldershot, Hants, England: Ashgate.
 
@@ -142,6 +156,8 @@ Roden, Timothy, Craig Wright, and Bryan Simms, eds. 2006. [*Anthology for Music 
 
 Rogers, Carl. 1954. “[Towards a Theory of Creativity.](http://www.google.com/url?q=http%3A%2F%2Fpsycnet.apa.org%2Findex.cfm%3Ffa%3Dsearch.displayRecord%26UID%3D1955-05283-001&sa=D&sntz=1&usg=AFQjCNFgQRIYPPh8gJGNPhBDWBHDMjJwEw)” In *ETC: A Review of General Semantics* 11: 249–60.
 
+Rogers, Michael R. 2004. [*Teaching Approaches in Music Theory: An Overview of Pedagogical Philosophies*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL5595277W%2FTeaching_approaches_in_music_theory&sa=D&sntz=1&usg=AFQjCNHY4bNrS1y8uxSr-hFMBtzgJOxmRw). 2nd ed. Carbondale: Southern Illinois University Press.
+
 Roig-Francolí, Miguel A. 2011. [*Harmony in Context*.](http://www.google.com/url?q=http%3A%2F%2Fcatalogs.mhhe.com%2Fmhhe%2FviewProductDetails.do%3Fisbn%3D0073137944&sa=D&sntz=1&usg=AFQjCNGLSoLG0p-GSQb5eqjPB5zjgYP5Nw) Second edition. New York: McGraw-Hill.
 
 Rorbaugh, Pete. 2012. [“Occupy the Digital: Critical Pedagogy and New Media.”](http://www.google.com/url?q=http%3A%2F%2Fwww.hybridpedagogy.com%2Fjournal%2Foccupy-the-digital-critical-pedagogy-and-new-media%2F&sa=D&sntz=1&usg=AFQjCNGNWxWw6bcrBNbjZJ3ey0dFZ65-EA) In *Hybrid Pedagogy*, August 6.
@@ -156,7 +172,9 @@ Schubert, Peter. 2011. ["Global Perspective on Music Theory Pedagogy: Thinking i
 
 Schubert, Peter and Christoph Neidhoefer. 2006. [*Baroque Counterpoint*.](https://openlibrary.org/works/OL1894222W/Baroque_counterpoint) Upper Saddle River, New Jersey: Prentice-Hall.
 
-Shaffer, Kris. ["Online Resources in an Inverted Course."](http://www.google.com/url?q=http%3A%2F%2Fwww.hackingmusictheory.com%2Fshaffer.html&sa=D&sntz=1&usg=AFQjCNH6vnKHInIc18wybNpZonSSjBlYzQ) Hacking the Music Theory Classroom. Accessed July 17, 2014.
+Shaffer, Kris. 2012. “[Introduction to Criterion-Referenced Grading](http://www.google.com/url?q=http%3A%2F%2Fkris.shaffermusic.com%2F2012%2F08%2Fintroduction-to-criterion-referenced-grading%2F&sa=D&sntz=1&usg=AFQjCNFGQgI-kO8qmJObwjkr0JxKEA9QZg)” Personal blog. August 10. Accessed June 2014.
+
+———. 2013. ["Online Resources in an Inverted Course."](http://www.google.com/url?q=http%3A%2F%2Fwww.hackingmusictheory.com%2Fshaffer.html&sa=D&sntz=1&usg=AFQjCNH6vnKHInIc18wybNpZonSSjBlYzQ) Hacking the Music Theory Classroom. Accessed July 17, 2014.
 
 ———. 2014. [“An Open Letter to My Students.”](http://www.google.com/url?q=http%3A%2F%2Fwww.hybridpedagogy.com%2Fjournal%2Fopen-letter-students%2F&sa=D&sntz=1&usg=AFQjCNEdcieM9a081wJYVxq8VQAcJaCdSQ) In *Hybrid Pedagogy*. January 6, 2014.
 
@@ -165,6 +183,8 @@ Shaffer, Kris. ["Online Resources in an Inverted Course."](http://www.google.com
 ———. 2013. [“Promoting musical fluency -or- Why I de-emphasize sight-singing and dictation in class.”](http://www.google.com/url?q=http%3A%2F%2Fkris.shaffermusic.com%2F2013%2F04%2Fpromoting-musical-fluency-or-why-i-de-emphasize-sight-singing-and-dictation-in-class%2F&sa=D&sntz=1&usg=AFQjCNEtCvUax91TL_nfu3SVUVnqKj-qaw) Personal blog. April 1, 2013. Accessed July 17, 2014.
 
 ———. 2013. [“Species counterpoint, Twitter, Inquiry-based Learning, and the Inverted Class.”](http://www.google.com/url?q=http%3A%2F%2Fkris.shaffermusic.com%2F2013%2F01%2Fspecies-counterpoint-twitter-inquiry-based-learning-and-the-inverted-class%2F&sa=D&sntz=1&usg=AFQjCNElIHKeIs4sbRXxkwz5QW1KtmAqkA) Personal blog, January 9. Accessed July 17, 2014.
+
+———. 2014. “[Unit I: Classical Form (themes and Sonatas)](http://www.google.com/url?q=http%3A%2F%2Fkris.shaffermusic.com%2Fcourses%2Fmt4-unit1.html&sa=D&sntz=1&usg=AFQjCNGdD-GCSzt3URVQ0ckEFgkWTkYzPw)” January. Accessed June 2014
 
 ———. 2013. [“What is music theory?”](http://www.google.com/url?q=http%3A%2F%2Fkris.shaffermusic.com%2F2014%2F02%2Fwhat-is-music-theory%2F&sa=D&sntz=1&usg=AFQjCNH8DSj-Oi19DYtss6PUfr0xlSWTGg) Personal blog, February 27. Accessed July 29, 2014.
 

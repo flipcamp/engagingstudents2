@@ -24,6 +24,7 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 [Gregory R. McCandless]({{ site.baseurl }}essays/mccandless.html), Full Sail University  
 [Garrett Michaelsen]({{ site.baseurl }}/essays/michaelsen.html), University of Massachusetts Lowell  
 [Jan Miyake]({{ site.baseurl }}/essays/miyake1.html), Oberlin College and Conservatory  
+[Brian Moseley]({{ site.baseurl }}/essays/moseley.html), University of Buffalo  
 [Meghan Naxer]({{ site.baseurl }}/essays/kulmaNaxer.html), University of Oregon  
 [Deborah Rifkin]({{ site.baseurl }}/essays/rifkin.html), Ithaca College  
 [Peter Schubert]({{ site.baseurl }}/essays/schubert.html), Schulich School of Music, McGill University  
