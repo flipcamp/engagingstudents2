@@ -31,6 +31,7 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 [Kris Shaffer]({{ site.baseurl }}/essays/shaffer.html), University of Colorado–Boulder  
 [Yona Stamatis]({{ site.baseurl }}/essays/stamatis.html), University of Illinois–Springfield  
 [Anna Stephan-Robinson]({{ site.baseurl }}/essays/stephanRobinson.html), West Liberty University  
+[Daniel Stevens]({{ site.baseurl }}/essays/stevens.html), University of Delaware  
 [Scott M. Strovas]({{ site.baseurl }}/essays/strovas.html), Wayland Baptist University  
 [Aaron Ziegel]({{ site.baseurl }}/essays/ziegel.html), Towson University  
 

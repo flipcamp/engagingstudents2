@@ -66,4 +66,7 @@ Asking how to assess new kinds of student work in PBL re-opens the question that
 
 The techniques I offer here have worked in specific contexts. While they may be helpful in other contexts, I hope that those reading this article will take the opportunity first and foremost to lay out their pedagogical goals and think critically and carefully about what kinds of assessment practices raised here or elsewhere will help them accomplish those goals in the the contexts in which they teach.
 
+[Part 1: Problem-based Learning: A Rationale]({{ site.baseurl }}/essays/stevens.html), Daniel Stevens  
+[Part 2: Types and Examples of PBL problems]({{ site.baseurl }}/essays/duker.html), Philip Duker  
+
 This work is copyright ⓒ2014 Kris Shaffer and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).

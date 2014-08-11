@@ -52,5 +52,9 @@ As Peter Schubert and others have shown, improvisation can be a wonderful elemen
 
 One of the remaining challenge of adopting PBL is how to assess student work, which includes not only the acquisition of content knowledge but also group processes and the achievement of higher-level learning goals. Kris Shaffer's Part III will deal with this issue, along with the other challenges of providing meaningful feedback and translating student assessment into course grades.
 
+[Part 1: Problem-based Learning: A Rationale]({{ site.baseurl }}/essays/stevens.html), Daniel Stevens  
+[Part 3: Assessing Problem-Based Learning]({{ site.baseurl }}/essays/shaffer.html), Kris Shaffer
+
+
 This work is copyright ⓒ2014 Philip Duker and licensed under a[ ](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA)[Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).
 
