@@ -45,6 +45,9 @@ title: Table of Contents
 [Student Performance as Pedagogy in the Music History Survey Course]({{ site.baseurl }}/essays/knyt.html)  
 *Erinn Knyt*  
 
+[Beyond Part Writing&#58; Modernizing the Curriculum]({{ site.baseurl }}/essays/kulmaNaxer.html)  
+*David Kulma and Meghan Naxer*
+
 [On the Assessment of Technological Competence in Online Music Courses]({{ site.baseurl }}/essays/mccandless.html)  
 *Gregory R. McCandless*  
 
