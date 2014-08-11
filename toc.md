@@ -16,6 +16,9 @@ title: Table of Contents
 [On “scuba diving,” or the advantages of a less-is-more approach]({{ site.baseurl }}/essays/alegant.html)  
 *Brian Alegant*
 
+[Towards a Philosophy of Student-Centered Music and Social Justice Learning]({{ site.baseurl }}/essays/stamatis.html)  
+*Yona Stamatis*
+
 [Enhanced Podcasts as a Tool for the Academic Music Classroom]({{ site.baseurl }}/essays/stephanRobinson.html)  
 *Anna Stephan-Robinson*
 

@@ -23,6 +23,7 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 [Gregory R. McCandless]({{ site.baseurl }}essays/mccandless.html), Full Sail University  
 [Garrett Michaelsen]({{ site.baseurl }}/essays/michaelsen.html), University of Massachusetts Lowell  
 [Jan Miyake]({{ site.baseurl }}/essays/miyake1.html), Oberlin College and Conservatory  
+[Yona Stamatis]({{ site.baseurl }}/essays/stamatis.html), University of Illinois–Springfield  
 [Anna Stephan-Robinson]({{ site.baseurl }}/essays/stephanRobinson.html), West Liberty University  
 [Scott M. Strovas]({{ site.baseurl }}/essays/strovas.html), Wayland Baptist University  
 [Aaron Ziegel]({{ site.baseurl }}/essays/ziegel.html), Towson University  
