@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grooves, Drones, and Loops&#58; Enhancing Aural Skills Exercises with RockMusic Contexts
+title: Grooves, Drones, and Loops&#58; Enhancing Aural Skills Exercises with Rock Music Contexts
 author: Trevor de Clercq, Middle Tennessee State University
 ---
 
