@@ -25,11 +25,21 @@ Burden, Paul R. 2000. [*Powerful Classroom Management Strategies: Motivating Stu
 
 Campbell, Don G. 1983. [*Introduction to the Musical Brain*](http://www.google.com/url?q=http%3A%2F%2Fwww.amazon.com%2FIntroduction-Musical-Brain-Don-Campbell%2Fdp%2F0918812283&sa=D&sntz=1&usg=AFQjCNFgTMTgqHcb9-i30Zq8kDVMUip54A). St. Louis: Magnamusic Baton.
 
+CAST (Center for Applied Special Technology). 2011. [*Universal Design for Learning Guidelines version 2.0.*](http://www.google.com/url?q=http%3A%2F%2Fwww.udlcenter.org%2Faboutudl%2Fudlguidelines%2F&sa=D&sntz=1&usg=AFQjCNGELP3JbO3ssOUNx9Hf92SEbq8_Og) Wakefield, MA: Author. Updated July 16, 2013. Accessed July 16, 2014.
+
+Cormier, David. 2012. [“Avoiding Resistance to Grading Contracts.”](http://www.google.com/url?q=http%3A%2F%2Fdavecormier.com%2Fedblog%2F2012%2F05%2F07%2Fgrading_contract%2F&sa=D&sntz=1&usg=AFQjCNG7wLyUqlgI58WAvFq2UrCc-JZRmQ) Personal blog. May 7, 2012. Accessed July 16, 2014.
+
 Cusick, Susan. 2006. [“Music as Torture, Music as Weapon.”](http://www.google.com/url?q=http%3A%2F%2Fwww.redalyc.org%2Farticulo.oa%3Fid%3D82201011&sa=D&sntz=1&usg=AFQjCNGHsUGUp0mNEhhgL9c7AgOiinUBpA) Trans. Revista Transcultural de Música, Vol. 10, 1-13.
 
 d’Agostino, Fred and Gerald Gaus and John Thrasher. 2011. [“Contemporary Approaches to the Social Contract.”](http://www.google.com/url?q=http%3A%2F%2Fplato.stanford.edu%2Fentries%2Fcontractarianism-contemporary%2F&sa=D&sntz=1&usg=AFQjCNHpBdGT1qBL1WH4SnmYd83r0JAolw) *Stanford Encyclopedia of Philosophy*. Accessed July 12, 2014.
 
+Davidson, Cathy. 2009. [“How to Crowdsource Grading.”](http://www.google.com/url?q=http%3A%2F%2Fwww.hastac.org%2Fblogs%2Fcathy-davidson%2Fhow-crowdsource-grading&sa=D&sntz=1&usg=AFQjCNFHS2bnEc7R59MgZ2wZuTWH2Dykjw) In HASTAC Blog. July 26, 2009. Accessed July 16, 2014.
+
+———. 2011. [“Contract Grading + Peer Review: Here’s How It Works.”](http://www.google.com/url?q=http%3A%2F%2Fwww.hastac.org%2Fblogs%2Fcathy-davidson%2Fcontract-grading-peer-review-heres-how-it-works&sa=D&sntz=1&usg=AFQjCNEQXzXVprDcszSh4lAcUdu4ce9ojg) In HASTAC Blog. January 3, 2011. Accessed July 16, 2014.
+
 de Clercq, Trevor. 2013. [“Towards a Flipped Aural Skills Classroom: Harnessing Recording Technology for Performance-Based Homework.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2FdeClercq.html&sa=D&sntz=1&usg=AFQjCNFS5ln7dEHE87dnYbodtijucAWSaw) In *Engaging Students: Essays in Music Pedagogy*.
+
+Elbow, Peter. 1993. [“Ranking, Evaluating, and Liking: Sorting out Three Forms of Judgment.”](http://www.google.com/url?q=http%3A%2F%2Fwww.jstor.org%2Fstable%2F378503&sa=D&sntz=1&usg=AFQjCNHpzqoQxt6Nh5wV4vP5GbkiKkgPLQ) In *College English* 55/2, 187–206.
 
 Fink, Dee. 2014. [“A Self-Directed Guide to Designing Courses for Significant Learning.”](http://www.google.com/url?q=http%3A%2F%2Fwww.deefinkandassociates.com%2FGuidetoCourseDesignAug05.pdf&sa=D&sntz=1&usg=AFQjCNFMThAmMrEN3yhnRzc1BIsIcCI5cA)[ accessed August 1, 2014.](http://www.google.com/url?q=http%3A%2F%2Fwww.deefinkandassociates.com%2FGuidetoCourseDesignAug05.pdf&sa=D&sntz=1&usg=AFQjCNFMThAmMrEN3yhnRzc1BIsIcCI5cA)
 
@@ -48,6 +58,8 @@ Haefeli, Sara. 2013. [“Using Blogs for Better Student Writing Outcomes.”](ht
 Hanslick, Eduard. 1854. [*The Beautiful in Music*](https://www.google.com/url?q=https%3A%2F%2Farchive.org%2Fdetails%2Fbeautifulinmusic00hans&sa=D&sntz=1&usg=AFQjCNHF00EpSCzQcP32U9qL7-fDSUBMpA).
 
 Hess, Carol A. 2002. [“Score and Word: Writing about Music.”](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL8477219W%2FTeaching_Music_History&sa=D&sntz=1&usg=AFQjCNEhnbN8VSpmqbJ7KYmsa3W2FOvyqA) In *Teaching Music History*. Ed. Mary Natvig, 193–204. Aldershot, Hants, England: Ashgate.
+
+Jacobus, Enoch. 2013. [“Grammatica, Dialectica, Rhetorica: the Trivium in Music Theory Pedagogy.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fjacobus.html&sa=D&sntz=1&usg=AFQjCNHLEqNFqV9Gq5sNn2XsOwM-lMmgeg) In *Engaging Students: Essays in Music Pedagogy*.
 
 Kain, Patricia. 1998. [“How to Do a Close Reading"](http://www.google.com/url?q=http%3A%2F%2Fwritingcenter.fas.harvard.edu%2Fpages%2Fhow-do-close-reading&sa=D&sntz=1&usg=AFQjCNHjTdDbVfnzHWW8NpY6r1QS4c65Fg). Accessed August 1, 2014.
 
@@ -82,9 +94,17 @@ Roden, Timothy, Craig Wright, and Bryan Simms, eds. 2006. [*Anthology for Music 
 
 Rust, Chris. 2002. [*The impact of assessment on student learning*](http://www.google.com/url?q=http%3A%2F%2Funcw.edu%2Fcas%2Fdocuments%2FRust2002.pdf&sa=D&sntz=1&usg=AFQjCNESn-MfTxtf0-TheKNNeeDhDmSBCw). The Institute for Learning and Teaching in Higher Education and Sage Publications. Vol 3(2) 145–58. London: Sage.
 
+Shaffer, Kris. 2014. [“An Open Letter to My Students.”](http://www.google.com/url?q=http%3A%2F%2Fwww.hybridpedagogy.com%2Fjournal%2Fopen-letter-students%2F&sa=D&sntz=1&usg=AFQjCNEdcieM9a081wJYVxq8VQAcJaCdSQ) In *Hybrid Pedagogy*. January 6, 2014.
+
+———. 2013. [“Promoting musical fluency -or- Why I de-emphasize sight-singing and dictation in class.”](http://www.google.com/url?q=http%3A%2F%2Fkris.shaffermusic.com%2F2013%2F04%2Fpromoting-musical-fluency-or-why-i-de-emphasize-sight-singing-and-dictation-in-class%2F&sa=D&sntz=1&usg=AFQjCNEtCvUax91TL_nfu3SVUVnqKj-qaw) Personal blog. April 1, 2013. Accessed July 17, 2014.
+
+———. 2014. [“Why Grade?”](http://www.google.com/url?q=http%3A%2F%2Fkris.shaffermusic.com%2F2014%2F07%2Fwhy-grade%2F&sa=D&sntz=1&usg=AFQjCNHo8hXApvRz2G7ajCEZ4JXr0y9-xw) Personal blog. July 8, 2014. Accessed July 16, 2014.
+
 Shaffer, Kris and Bryn Hughes. 2013. [“Flipping the Classroom: Three Methods.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fshafferintro.html&sa=D&sntz=1&usg=AFQjCNHdo8F-0-l1EfsZ7XkcIsQnd1IutQ) In *Engaging Students: Essays in Music Pedagogy*.
 
 Sharp, Gene. 1973. [*The Politics of Nonviolent Action*.](http://books.google.com/books/about/The_Politics_of_Nonviolent_Action.html?id=gA0XAAAAIAAJ&redir_esc=y) (3 vols.) Boston: Porter Sargent.
+
+Stommel, Jesse. 2014. [“MMDU: ‘I Would Prefer Not To.’”](http://www.google.com/url?q=http%3A%2F%2Fwww.hybridpedagogy.com%2Fpage-two%2Fmmdu-prefer%2F&sa=D&sntz=1&usg=AFQjCNHLl6RDdPQDZfuB60l2LxxHO3kf3w) In *Hybrid Pedagogy*. February 10, 2014.
 
 Strovas, Scott M.  2011. [“Music in the First-Year Writing Classroom.”](https://www.google.com/url?q=https%3A%2F%2Fjournals.tdl.org%2Fceaforum%2Findex.php%2Fceaforum%2Farticle%2Fview%2F6340%2F5967https%3A%2Fjournals.tdl.org%2Fceaforum%2Findex.php%2Fceaforum%2Farticle%2Fview%2F6340%2F5967&sa=D&sntz=1&usg=AFQjCNFR8o8fH5__ZpssUVH3bTHt1AODQQ) *The CEA Forum* 40 (2): 24-42. Accessed July 11, 2014.
 
