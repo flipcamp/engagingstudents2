@@ -92,7 +92,7 @@ Yona Stamatis is Assistant Professor of Ethnomusicology and Associated Faculty i
 
 ### Daniel Stevens
 
-Daniel B. Stevens is Assistant Professor of Music Theory at the University of Delaware, where he teaches core theory courses, keyboard harmony, and graduate seminars. As an Assessment Fellow at the University of Delaware, he has designed and implemented a music ePortfolio used by all undergraduate majors. His research focuses on performance analysis, Brahms studies, and music theory pedagogy.
+[Daniel B. Stevens](http://www.music.udel.edu/about-us/faculty-staff/Pages/daniel-b-stevens.aspx?FacultyId=59) is Assistant Professor of Music Theory at the [University of Delaware](http://www.music.udel.edu/Pages/home.aspx), where he teaches core theory courses, keyboard harmony, and graduate seminars. As an Assessment Fellow at the University of Delaware, he designed and implemented a [music ePortfolio](http://cnu.edu/jpalhe/pdf/jpalhe_volume4.pdf) used by all undergraduate majors. His research focuses on performance analysis, Brahms studies, and music theory pedagogy.
 
 ### Scott M. Strovas
 
