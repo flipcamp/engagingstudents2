@@ -38,7 +38,7 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 
 ### Editorial Board ###
 
-Sean Atkinson, Texas Christian University
+Sean Atkinson, Texas Christian University  
 Carla Colletti, Webster University  
 Philip Duker, University of Delaware, coordinator  
 Dave Easley, Oklahoma City University  

@@ -50,23 +50,6 @@ It is always a delicate balancing act between comprehensive coverage, which is m
 
 These ideas are just a few of the ways that in-class performances can bring musicking and music history together for a memorable and meaningful learning experience. Many of these methods could be applied to other repertoires and to other types of classes (including theory/aural skills/analysis classes) and guided by the particular interests of the students in the class to help them achieve the greatest level of learning possible.
 
-Bibliography
-
-Conway, Colleen M. and Thomas M. Hodgman. 2009. “Strategies for Active Learning in Music Classrooms.” in [Teaching Music in Higher Education](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL11994200W%2FTeaching_music_in_higher_education&sa=D&sntz=1&usg=AFQjCNGCeGOTd4gSjgT1Z_i0ZKVsBfZvvw). Oxford: Oxford University Press.
-
-Crain, Timothy. M. 2014.["Beyond Coverage in the Music History Classroom."](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F110&sa=D&sntz=1&usg=AFQjCNFqyh3WH3l5bHZNPlgctfBIqNNFwA)  Journal of Music History Pedagogy 4/2: 301–18.
-
-Fillerup, Jessie. 2010. “Cage and the Chaotic Classroom: Pedagogy for the Avant-garde.” [Vitalizing Music History Teaching](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL15489350W%2FVitalizing_music_history_teaching&sa=D&sntz=1&usg=AFQjCNE-1fegfThXW2AHcfOG3_ECPTKKLA).  Ed. James Briscoe. Monographs and Bibliographies in American Music. Nr. 20. Ed. Michael J. Budds. New York: Pendragon Press.
-
-Grymes, James and John Allemeir. 2014. ["Making Students Make Music: Integrating Composition and Improvisation into the Early Music Classroom."](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F122&sa=D&sntz=1&usg=AFQjCNGx-cewQenvL932f8VyXBQ8rYLeGg)Journal of Music History Pedagogy 4/2: 231-54.
-
-Maiello, James Vincent. 2013. ["Towards a Praxial Philosophy of Music History Pedagogy."](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F85&sa=D&sntz=1&usg=AFQjCNG4KofwwtmXIsfwuEI5uHbrprbe-A) Journal of Music History Pedagogy 4/1: 71-108. 
-
-Natvig, Mary. 2012. “Classroom Activities.” in [The Music History Classroom](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16557937W%2FThe_music_history_classroom&sa=D&sntz=1&usg=AFQjCNE-PrdoQcwihlzYZJbAyp8Cfl59pA). Ed. James A. Davis. Burlington, VT.: Ashgate Publishing Co.
-
-Seaton, Douglass. 2010. “Teaching Music History: Principles, Problems, and Proposals. [Vitalizing Music History Teaching](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL15489350W%2FVitalizing_music_history_teaching&sa=D&sntz=1&usg=AFQjCNE-1fegfThXW2AHcfOG3_ECPTKKLA).  Ed. James Briscoe. Monographs and Bibliographies in American Music. Nr. 20. Ed. Michael J. Budds. New York: Pendragon Press.
-
-Yang, Sandra Sedman. 2012. ["Singing Gesualdo: Rules of Engagement in the Music History Classroom."](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F54&sa=D&sntz=1&usg=AFQjCNFWMPQiOrrC_QTkaRD1bAkTOQxMQw)Journal of Music History Pedagogy 3/1: 39-55.
 
 This work is copyright ⓒ2014 Erinn Knyt and licensed under a[ ](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA)[Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).
 

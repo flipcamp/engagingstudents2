@@ -48,14 +48,3 @@ Overall, I find these materials to be a valuable tool in connecting with my stud
 
 This work is copyright 2014 Trevor de Clercq and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).
 
-##Bibliography
-
-Covington, Kate. 1997. “[Improvisation in the Aural Curriculum: An Imperative](http://www.google.com/url?q=http%3A%2F%2Fsymposium.music.org%2Findex.php%3Foption%3Dcom_k2%26view%3Ditem%26id%3D2135%3Aimprovisation-in-the-aural-curriculum-an-imperative&sa=D&sntz=1&usg=AFQjCNF_034eruobHky2qgyj9vo_aZL3KA).” College Music Symposium37.
-
-Hall, Anne. 2005.[](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL7331586M%2FStudying_Rhythm_(3rd_Edition)&sa=D&sntz=1&usg=AFQjCNFK8wDTmq63tJ02deff-VP0oIO1SQ)[Studying Rhythm](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL7331586M%2FStudying_Rhythm_(3rd_Edition)&sa=D&sntz=1&usg=AFQjCNFK8wDTmq63tJ02deff-VP0oIO1SQ). Third Edition. Upper Saddle River, NJ: Pearson Education.
-
-Rogers, Michael. 2004.[](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL3471054M%2FTeaching_approaches_in_music_theory&sa=D&sntz=1&usg=AFQjCNH0Y8cAy2_OAze4ZyDcAhhxIrdkmA)[Teaching Approaches in Music Theory: An Overview of Pedagogical Philosophies](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL3471054M%2FTeaching_approaches_in_music_theory&sa=D&sntz=1&usg=AFQjCNH0Y8cAy2_OAze4ZyDcAhhxIrdkmA). Second Edition. Carbondale, IL: Southern Illinois University Press.
-
-Smith, Tim. 1991.[](http://www.google.com/url?q=http%3A%2F%2Fjmtp.ou.edu%2Fjournal-article%2Fjmtp-journal-volume-5-number-1-all-articles&sa=D&sntz=1&usg=AFQjCNEx5N3AHB-EontEkSPKm_oIC5-62Q)[“](http://www.google.com/url?q=http%3A%2F%2Fjmtp.ou.edu%2Fjournal-article%2Fjmtp-journal-volume-5-number-1-all-articles&sa=D&sntz=1&usg=AFQjCNEx5N3AHB-EontEkSPKm_oIC5-62Q)[A Comparison of Pedagogical Resources in Solmization Systems](http://www.google.com/url?q=http%3A%2F%2Fjmtp.ou.edu%2Fjournal-article%2Fjmtp-journal-volume-5-number-1-all-articles&sa=D&sntz=1&usg=AFQjCNEx5N3AHB-EontEkSPKm_oIC5-62Q).”Journal of Music Theory Pedagogy5: 1-23.
-
-

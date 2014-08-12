@@ -49,17 +49,6 @@ Of course, there are challenges to this assignment. Students do not always compl
 
 In her essay[ “On Standards and Assessment”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fgawboy.html&sa=D&sntz=1&usg=AFQjCNEmuGP7NpoBme7MwEIw8FVH1VlqUA) in Volume One of Engaging Students, Anna Gawboy advocates for authentic assessments that replicate the real-life problems faced by musicians. Recomposition projects like this one act as authentic assessments in that they can open the door to more advanced composition and arranging activities. They address NASM’s[ “synthesis”](http://www.google.com/url?q=http%3A%2F%2Fwww.music.org%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1111%3Anasm-on-synthesis-in-music-learning%26catid%3D29%3A2012natlconf%26Itemi&sa=D&sntz=1&usg=AFQjCNF64bR4hcJAKK0IQxWOih-9bhMvZw) competency requirement, by combining “aural, verbal, and visual analysis; composition/improvisation; and history and repertory.” As previously mentioned, this technique also offers students a more generative approach to analysis and takes on aesthetic considerations not well handled by conventional analysis. In addition to gaining understanding of the specific piece and forms being studied, this assignment further familiarizes students with notation software and a means of sharing pieces electronically. Most importantly, it fosters notions of composition as a collaborative and exploratory activity that could be useful in future situations that musicians encounter.
 
-Bibliography
-
-BaileyShea, Matt L. 2007.[ Filleted Mignon: A New Recipe for Analysis and Recomposition.](http://www.google.com/url?q=http%3A%2F%2Fwww.mtosmt.org%2Fissues%2Fmto.07.13.4%2Fmto.07.13.4.baileyshea.html&sa=D&sntz=1&usg=AFQjCNH6YCCFhyW6JTrxY3ZIC5Ee_wmSUg) Music Theory Online. Accessed July 20, 2014.
-
-Gauldin, Robert. 2004.[ Harmonic Practice in Tonal Music](http://www.google.com/url?q=http%3A%2F%2Fbooks.wwnorton.com%2Fbooks%2FAuthor.aspx%3Fid%3D10278&sa=D&sntz=1&usg=AFQjCNFt8tHrYKtQQ-lvK_w9wuZuFjHm2Q). New York: W.W. Norton & Company, Inc.
-
-Gawboy, Anna. 2013.[ On Standards and Assessment](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fgawboy.html&sa=D&sntz=1&usg=AFQjCNEmuGP7NpoBme7MwEIw8FVH1VlqUA). Engaging Students: Essays in Music Pedagogy. Accessed July 20, 2014.
-
-Hepokoski, James and Warren Darcy. 2006. [Elements of Sonata Theory: Norms, Types, and Deformations in the Late-Eighteenth-Century Sonata](http://www.google.com/url?q=http%3A%2F%2Fglobal.oup.com%2Facademic%2Fproduct%2Felements-of-sonata-theory-9780195146400%3Bjsessionid%3D2BB1DAD2B6879C9EF874F922E8B05B04%3Fcc%3Dus%26lang%3Den%26&sa=D&sntz=1&usg=AFQjCNEoDG46ve1ZsIfHTetUQahyRftCfg). New York: Oxford University Press.
-
-Shaffer, Kris.[ Inquiry-Based Learning.](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fshafferpt3.html&sa=D&sntz=1&usg=AFQjCNH0EWR23BRiKklSm_l3ROLulRuVZw) Engaging Students: Essays in Music Pedagogy. Accessed July 20, 2014.
 
 This work is ©2014 Shersten Johnson and licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
