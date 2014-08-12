@@ -27,17 +27,11 @@ With a [learner-centered approach](https://www.google.com/url?q=https%3A%2F%2Fop
 
 Bibliography
 
-Angelo, Thomas A., and Cross, Patricia K. Classroom Assessment Techniques. San Francisco:
+Angelo, Thomas A., and Cross, Patricia K. Classroom Assessment Techniques. San Francisco: Jossey-Bass, 1993.
 
-Jossey-Bass, 1993.
+Bañagale, Ryan Raul. “The ‘Video Essay’ as Collaborative Musicology Within and Without the Classroom.” Paper presented at the annual meeting for the Society for American Music, Lancaster, Pennsylvania, March 5–9, 2014.
 
-Bañagale, Ryan Raul. “The ‘Video Essay’ as Collaborative Musicology Within and Without the
-
-Classroom.” Paper presented at the annual meeting for the Society for American Music, Lancaster, Pennsylvania, March 5–9, 2014.
-
-Barr, Robert B., and John Tagg. “From Teaching to Learning: A New Paradigm for
-
-Undergraduate Education.” Change(November/December 1995): 13–25.
+Barr, Robert B., and John Tagg. “From Teaching to Learning: A New Paradigm for Undergraduate Education.” Change(November/December 1995): 13–25.
 
 Blumberg, Phyllis. Developing Learner-Centered Teaching: A Practical Guide for Faculty. San
 

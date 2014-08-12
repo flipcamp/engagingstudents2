@@ -95,32 +95,6 @@ In a similar vein, this CAT could help document a student's mental activity for 
 
 [Interviews and studies](http://www.google.com/url?q=http%3A%2F%2Fwww.sdbor.edu%2Fservices%2Fstudentaffairs%2Fdocuments%2Fusingclassroomassessmenttochangebothteaching-learning.pdf&sa=D&sntz=1&usg=AFQjCNEIfJ0AgEOIxz1MzjXAEAcEj9uK9w) with teachers have shown not only that teachers enjoy using CATs, but that students find CATs effective as well. As I taught my class this year, CATs gave me a concrete starting point for assessment and engaging students—something else to “hang my hat on” than imitating the undergraduate experience I had. Students’ end-of-term comments over the year reflected a recognition and value of CATs. A number of students mentioned that the class discussions made the experience “engaging” or they felt “involved,” and many noted (positively!) that I did not “spoon feed” them the material. In the end, CATs create an engaging classroom environment while at the same time assessing what students do and do not know.
 
-##Bibliography
-
-[“Classroom Assessment Techniques (CATs).”](http://www.google.com/url?q=http%3A%2F%2Fcft.vanderbilt.edu%2Fguides-sub-pages%2Fcats%2F&sa=D&sntz=1&usg=AFQjCNFxBX4rH3mF-FJnWRRSp_3oVE6UYg) Center for Teaching, Vanderbilt University. Accessed June 20, 2014.
-
-[“Think-Pair-Share.”](http://www.google.com/url?q=http%3A%2F%2Fserc.carleton.edu%2Fintrogeo%2Finteractive%2Ftpshare.html&sa=D&sntz=1&usg=AFQjCNEMCezy3lx8CmJI6PULqgAx31E5Ow) Science Education Resource Center, Carleton College. Accessed July 18, 2014.
-
-Angelo, Thomas, and K. Patricia Cross. 1993. [Classroom Assessment Techniques: A Handbook for College Teachers](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL4305807W%2FClassroom_assessment_techniques&sa=D&sntz=1&usg=AFQjCNERcEw62IFskuZRi3ad093GIM9JAw). San Francisco: Jossey-Bass Publishers.
-
-Bain, Ken, and James Zimmerman. 2009. [“Understanding Great Teaching.”](http://www.google.com/url?q=http%3A%2F%2Fwww.aacu.org%2Fpeerreview%2Fpr-sp09%2Fpr-sp09_bainzimmerman.cfm&sa=D&sntz=1&usg=AFQjCNGn0aRMgGUrXl6yhboHJcIe_Z1o5A) Peer Review 11, no. 2: 9-12.
-
-Cunningham, Kathryn, and Deborah Moore. [“50 CATS by Angelo and Cross.”](http://www.google.com/url?q=http%3A%2F%2Fpages.uoregon.edu%2Ftep%2Fresources%2Fnewteach%2Ffifty_cats.pdf&sa=D&sntz=1&usg=AFQjCNFzb4hHXsSox64q99MQJSx4vtxi5g)  Teaching and Learning Center, Univeresity of Oregon. Accessed June 20, 2014.
-
-Marvin, William. 2004. “Introduction to Writing Analytical Essays.” In [Engaging Music: Essays in Music Analysis](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL4326273W%2FEngaging_Music&sa=D&sntz=1&usg=AFQjCNHNOupr5HNv9o4i_1rhdvhvW-i3tQ), edited by Deborah Stein, xi-xiv. Oxford: Oxford University Press.
-
-Novack, Joseph, and Alberto Canas. [“The Theory Underlying Concept Maps and How to Construct and Use Theme.”](http://www.google.com/url?q=http%3A%2F%2Fcmap.ihmc.us%2Fpublications%2Fresearchpapers%2Ftheorycmaps%2Ftheoryunderlyingconceptmaps.htm&sa=D&sntz=1&usg=AFQjCNHRuukwjE-emnBFt8TwD2ex1XgsUQ) Institute for Human and Machine Cognition. Accessed July 18, 2014.
-
-Overbaugh, Richard, and Lynn Schultz. [“Bloom’s Taxonomy.”](http://www.google.com/url?q=http%3A%2F%2Fww2.odu.edu%2Feduc%2Froverbau%2FBloom%2Fblooms_taxonomy.htm&sa=D&sntz=1&usg=AFQjCNHcsvNVtviA4azpdfkEM5euGQp9jA) Old Dominion University. Accessed July 18, 2014.
-
-Shaffer, Kris, and Bryn Hughes. “[Flipping the Classroom: Three Methods](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fshafferintro.html&sa=D&sntz=1&usg=AFQjCNHdo8F-0-l1EfsZ7XkcIsQnd1IutQ).” In Engaging Students: Essays in Music Pedagogy, 2013.
-
-Steadman, Mimi. [“Using Classroom Assessment to Change Both Teaching and Learning.”](http://www.google.com/url?q=http%3A%2F%2Fwww.sdbor.edu%2Fservices%2Fstudentaffairs%2Fdocuments%2Fusingclassroomassessmenttochangebothteaching-learning.pdf&sa=D&sntz=1&usg=AFQjCNEIfJ0AgEOIxz1MzjXAEAcEj9uK9w) New Directions for Teaching and Learning 75: 23-35.
-
-[](#)[](#)
-
-[](http://www.google.com/url?q=http%3A%2F%2Fwww.ihmc.us%2F&sa=D&sntz=1&usg=AFQjCNG4uOwavECsHbFPnBGbyFgx3o5GzQ)
-
 This work is copyright ⓒ2014 Janet Bourne and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).
 
 

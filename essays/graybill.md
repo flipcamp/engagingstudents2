@@ -44,42 +44,10 @@ With respect to part writing in particular:
 
 -   Keeping in mind that audiation involves the ability to hear aural images in the absence of an actual sounding signal, we would urge students to use the keyboard to develop their audiation skills—specifically, by audiating their solution (to the extent possible) ahead of time, and thenchecking that sound image against what they play.
 
-    To sum up, the unitary model promotes an integrative music-theoretical understanding in which the conceptual is closely intertwined with the experiential—not only in our “skills-based” subdisciplines, but also in our written work. I believe that following through on the entailments of this model can enrich and deepen our students’ theory training. Just as important, it also can bring their written work into closer contact with their experiences as performers and listeners.
+To sum up, the unitary model promotes an integrative music-theoretical understanding in which the conceptual is closely intertwined with the experiential—not only in our “skills-based” subdisciplines, but also in our written work. I believe that following through on the entailments of this model can enrich and deepen our students’ theory training. Just as important, it also can bring their written work into closer contact with their experiences as performers and listeners.
 
 
 
 This work is copyright ©2014 Roger Graybill and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).
-
-Bibliography:
-
-
-
-Covington, Kate.[](http://www.google.com/url?q=http%3A%2F%2Fsymposium.music.org%2Findex.php%3Foption%3Dcom_k2%26view%3Ditem%26id%3D2216%3Athe-minds-ear-i-hear-music-and-no-one-is-performing%26Itemid%3D146&sa=D&sntz=1&usg=AFQjCNF9boRdNHljxt5AbcEGYLefsv8PYQ)["The Mind's Ear: I Hear Music and No One Is Performing."](http://www.google.com/url?q=http%3A%2F%2Fsymposium.music.org%2Findex.php%3Foption%3Dcom_k2%26view%3Ditem%26id%3D2216%3Athe-minds-ear-i-hear-music-and-no-one-is-performing%26Itemid%3D146&sa=D&sntz=1&usg=AFQjCNF9boRdNHljxt5AbcEGYLefsv8PYQ) In College Music Symposium, pp. 25-41. The College Music Society, 2005.
-
-
-
-Gordon, Edwin T.: [](http://www.google.com/url?q=http%3A%2F%2Fgiml.org%2Fmlt%2Faudiation%2F&sa=D&sntz=1&usg=AFQjCNH_D2ntRgaEmLEQFkaGq6ygcoAr6w)[“Audiation.”](http://www.google.com/url?q=http%3A%2F%2Fgiml.org%2Fmlt%2Faudiation%2F&sa=D&sntz=1&usg=AFQjCNH_D2ntRgaEmLEQFkaGq6ygcoAr6w) GIML: The Gordon Institute for Music Learning. Accessed July 2, 2014.
-
-
-
-Karpinski, Gary. 2000.[](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL5736751W%2FAural_Skills_Acquisition&sa=D&sntz=1&usg=AFQjCNELhXpV3Zni9YDgJwvCmB1Gxcr_ZQ)[Aural skills acquisition: the development of listening, reading, and performing skills in college-level musicians.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL5736751W%2FAural_Skills_Acquisition&sa=D&sntz=1&usg=AFQjCNELhXpV3Zni9YDgJwvCmB1Gxcr_ZQ) New York: Oxford University Press.
-
-
-
-Klonoski, Edward.[](http://www.google.com/url?q=http%3A%2F%2Fjmtp.ou.edu%2Fjournal-article%2Fteaching-pitch-internalization-processes&sa=D&sntz=1&usg=AFQjCNGNsFceWnp5G-A-WAx9UyZ6M8dTwQ)["Teaching Pitch Internalization Processes."](http://www.google.com/url?q=http%3A%2F%2Fjmtp.ou.edu%2Fjournal-article%2Fteaching-pitch-internalization-processes&sa=D&sntz=1&usg=AFQjCNGNsFceWnp5G-A-WAx9UyZ6M8dTwQ) Journal of Music Theory Pedagogy12 (1998): 81-96.
-
-
-
-Steve Larson. 2012. [](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16142046W%2FMusical_forces&sa=D&sntz=1&usg=AFQjCNEZpcbostSatUT6I-xEyV0zrAUjCw)[Musical forces: motion, metaphor, and meaning in music.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16142046W%2FMusical_forces&sa=D&sntz=1&usg=AFQjCNEZpcbostSatUT6I-xEyV0zrAUjCw) Bloomington: Indiana University Press.
-
-
-
-Rogers, Michael R. 2004. [](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL3471054M%2FTeaching_approaches_in_music_theory&sa=D&sntz=1&usg=AFQjCNH0Y8cAy2_OAze4ZyDcAhhxIrdkmA)[Teaching approaches in music theory an overview of pedagogical philosophies,](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL3471054M%2FTeaching_approaches_in_music_theory&sa=D&sntz=1&usg=AFQjCNH0Y8cAy2_OAze4ZyDcAhhxIrdkmA) 2nd ed.  Carbondale: Southern Illinois University Press.
-
-Schubert, Peter. [“Global Perspective on Music Theory Pedagogy: Thinking in Music.”](http://www.google.com/url?q=http%3A%2F%2Fjmtp.ou.edu%2Fjournal-article%2Fglobal-perspective-music-theory-pedagogy-thinking-music&sa=D&sntz=1&usg=AFQjCNHmzksub2kzDqISntyqJsAigUCK5A) Journal of Music Theory Pedagogy 25 (2011): 217-33.
-
-\_\_\_\_\_\_\_\_\_\_\_\_.[](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fschubert.html&sa=D&sntz=1&usg=AFQjCNHWU6wL0p_qdFS3fkoq9QiqpqIK8g)[“My Undergraduate Skills-Intensive Counterpoint Learning Environment (MUSICLE).”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fschubert.html&sa=D&sntz=1&usg=AFQjCNHWU6wL0p_qdFS3fkoq9QiqpqIK8g) Engaging Students: Essays in Music Pedagogy, vol 1.  Accessed July 2, 2014.
-
-
 
 
