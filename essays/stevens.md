@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part I&#58; Problem-Based Learning, A Rationale
+title: Part I&#58; Problem-Based Learning in the Music Classroom, A Rationale
 author: Daniel Stevens, University of Delaware
 ---
 
