@@ -74,6 +74,8 @@ Brian Moseley is Assistant Professor of Music Theory at the University at Buffal
 
 [Deborah Rifkin](http://www.google.com/url?q=http%3A%2F%2Ffaculty.ithaca.edu%2Fdrifkin%2F&sa=D&sntz=1&usg=AFQjCNEct_R7w3mkgeBUKCpldqaJwaziNQ) is Associate Professor of Music Theory at [Ithaca College](http://www.google.com/url?q=http%3A%2F%2Fwww.ithaca.edu%2F&sa=D&sntz=1&usg=AFQjCNEIfRzTUvlnpTGMm_lDBQ55r8G9kA). Her research interests include 20th-century neo-tonal music, aural skills pedagogy, and narrativity in music. She recently served as Faculty-in-Residence and Associate Director of [HERS-Denver](http://www.google.com/url?q=http%3A%2F%2Fhersnet.org%2F&sa=D&sntz=1&usg=AFQjCNEnthUPXQX0oat4A7L110dnAJa_zQ), a two-week leadership institute for women in higher education. She earned her Ph.D from the Eastman School of Music (2000).
 
+### Nancy Rogers
+
 ### Peter Schubert
 
 Peter Schubert teaches at McGill’s [Schulich School of Music](http://www.google.com/url?q=http%3A%2F%2Fwww.mcgill.ca%2Fmusic&sa=D&sntz=1&usg=AFQjCNFymTAp-BW3OzObP635pGD0Jw23jg) and conducts [VivaVoce](http://www.google.com/url?q=http%3A%2F%2Fwww.vivavoce-montreal.com&sa=D&sntz=1&usg=AFQjCNGON8MERHQzzzAoKD3lSnCVvJvxoQ). With Massimiliano Guido, he recently organized [conferences](http://www.google.com/url?q=http%3A%2F%2Fwww.mentemani.org%2FConnection%2FProject.html&sa=D&sntz=1&usg=AFQjCNF9EAcaj14N0qnBfOOIg3hWwvtKWw) in Venice and Montreal on historical improvisation. His “From Improvisation to Composition” will appear shortly in the [Collected Writings of the Orpheus Institute Series](http://www.google.com/url?q=http%3A%2F%2Fwww.orpheusinstituut.be%2Fen%2Fpublications%2Fabout-our-publications&sa=D&sntz=1&usg=AFQjCNGchCGEG16DbhDrscYYjWq1C1hD2g).

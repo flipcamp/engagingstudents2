@@ -24,7 +24,7 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 [Gregory R. McCandless]({{ site.baseurl }}essays/mccandless.html), Full Sail University  
 [Garrett Michaelsen]({{ site.baseurl }}/essays/michaelsen.html), University of Massachusetts Lowell  
 [Jan Miyake]({{ site.baseurl }}/essays/miyake1.html), Oberlin College and Conservatory  
-[Brian Moseley]({{ site.baseurl }}/essays/moseley.html), University of Buffalo  
+[Brian Moseley]({{ site.baseurl }}/essays/moseley.html), The University at Buffalo, SUNY  
 [Meghan Naxer]({{ site.baseurl }}/essays/kulmaNaxer.html), University of Oregon  
 [Deborah Rifkin]({{ site.baseurl }}/essays/rifkin.html), Ithaca College  
 [Nancy Rogers]({{ site.baseurl }}/essays/rogers.html), Florida State University  
@@ -49,7 +49,7 @@ Stephen Gosden, University of North Florida
 Bryn Hughes, University of Miami, coordinator  
 Enoch Jacobus, independent scholar, Berea, Kentucky  
 Daniel Jenkins, University of South Carolina  
-Brian Moseley, University of Buffalo  
+Brian Moseley, The University at Buffalo, SUNY  
 Meghan Naxer, University of Oregon  
 Colin Roust, Roosevelt University  
 Kris Shaffer, University of Colorado–Boulder, coordinator  

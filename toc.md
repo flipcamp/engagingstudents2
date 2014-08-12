@@ -31,7 +31,6 @@ title: Table of Contents
 *Yona Stamatis*
 
 
-
 ## Practice ##
 
 [Applying Problem-based Learning in the Music Theory Classroom]({{ site.baseurl }}/essays/dukerShafferStevens.html)  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Criterion-Referenced Assessment to Encourage Active Analytical Listening
-author: Brian Moseley, University of Buffalo
+author: Brian Moseley, The University at Buffalo, SUNY
 ---
 
 {{ page.title }}
