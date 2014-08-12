@@ -36,9 +36,8 @@ BaileyShea, Matt L. 2007.[ Filleted Mignon: A New Recipe for Analysis and Recomp
 
 Bain, Ken, and James Zimmerman. 2009. [“Understanding Great Teaching.”](http://www.google.com/url?q=http%3A%2F%2Fwww.aacu.org%2Fpeerreview%2Fpr-sp09%2Fpr-sp09_bainzimmerman.cfm&sa=D&sntz=1&usg=AFQjCNGn0aRMgGUrXl6yhboHJcIe_Z1o5A) Peer Review 11, no. 2: 9-12.
 
-<<<<<<< HEAD
 Baker, J. Wesley. 2000. "The 'Classroom Flip': Using Web Course Management Tools to Become the Guide by the Side." In [Selected Papers from the 11th International Conference on College Teaching and Learning (11th, Jacksonville, Florida, April 12-15, 2000)](http://www.worldcat.org/title/selected-papers-from-the-11th-international-conference-on-college-teaching-and-learning/oclc/45318580), edited by Jack A. Chambers. Jacksonville, FL: Florida Community Coll., Jacksonville Center for the Advancement of Teaching and Learning, 9–17.
-=======
+
 Barnett, Ronald. 2011. “[Lifewide Education: A New and Transformative Concept for Higher Education.](http://books.google.com/books?id=DrEkQmwbSRsC&pg=PA22&dq=life-wide+learning&lr=&source=gbs_toc_r&cad=3#v=onepage&q=life-wide%20learning&f=false)” In *Learning for a Complex World: A Lifewide Concept of Learning, Education and Personal Development*, edited by Norman J. Jackson, 22–38. Bloomington: AuthorHouse. 
 >>>>>>> 9ddcb4b1804de133c406cecc92be4e802538453b
 
@@ -110,11 +109,10 @@ Davidson, Cathy. 2009. [“How to Crowdsource Grading.”](http://www.google.com
 
 de Clercq, Trevor. 2013. [“Towards a Flipped Aural Skills Classroom: Harnessing Recording Technology for Performance-Based Homework.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2FdeClercq.html&sa=D&sntz=1&usg=AFQjCNFS5ln7dEHE87dnYbodtijucAWSaw) In *Engaging Students: Essays in Music Pedagogy*.
 
-<<<<<<< HEAD
 Duker, Philip. 2013. ["Setting up a standards-based gradebook."](http://www.google.com/url?q=http%3A%2F%2Fwww.hackingmusictheory.com%2Fduker.html&sa=D&sntz=1&usg=AFQjCNHNgmJLiT3icvCtnu5HKjxsjZLZww) Hacking the Music Theory Classroom. Accessed July 17, 2014.
 
 ———. 2013. “Screencasting and Video Creation.” Paper presented at FlipCamp Music Theory, North Charleston, SC, June 17–18, 2013.
-=======
+
 Duch, Barbara J., Susan E. Groh, and Deborah E. Allen, eds. 2001. [*The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q). Sterling, VA: Stylus. 
 
 Duch, Barbara J. 2001. “[Writing Problems for Deeper Understanding.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” In *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 47–58. Sterling, VA: Stylus. 
@@ -343,9 +341,8 @@ Turek, Ralph. 2007. [*Theory for Today’s Musician*.](https://www.google.com/ur
 
 Tymoczko, Dmitri. 2011. [*A Geometry of Music: Harmony and Counterpoint in the Extended Common Practice*.](http://www.google.com/url?q=http%3A%2F%2Fdmitri.tymoczko.com%2Fgeometry-of-music.html&sa=D&sntz=1&usg=AFQjCNFyoWqDYGXyy1jGcVM64chfMPNZoA) Oxford: Oxford University Press.
 
-<<<<<<< HEAD
 University of Tennessee at Chattanooga, Walker Center for Teaching and Learning. “[Seven Principles for Good Practice in Undergraduate Education](http://www.utc.edu/walker-center-teaching-learning/teaching-resources/7-principles.php).” Accessed July 20, 2014.
-=======
+
 Vega, Vanessa. 2012. “[Project-based Learning Research Review.](http://www.google.com/url?q=http%3A%2F%2Fwww.edutopia.org%2Fpbl-research-learning-outcomes&sa=D&sntz=1&usg=AFQjCNH1SQrWa8ted0ypiSiAOFRZLxIaeQ)” In *Edutopia*. December 3, 2012. Accessed July 10, 2014.
 >>>>>>> 9ddcb4b1804de133c406cecc92be4e802538453b
 
