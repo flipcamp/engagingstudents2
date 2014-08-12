@@ -39,7 +39,7 @@ This assignment puts emphasis squarely on the four categories that comprise them
 
 Criterion-referenced assessment makes grades carry greater information. This particular assignment would receive four grades, one for each of the concepts. This student submission of the above assignment—annotated with my comments—offers an example:
 
-[Thematic Structure Submission](https://drive.google.com/file/d/0B0_DrOo8gCUrMjQ2QnNRcmFDUVk/edit?usp=sharing)
+<iframe src="http://player.vimeo.com/video/103252380" width="500" height="152" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/103252380">Brian Moseley: Thematic Structure Submission</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Establishing a particular pathway for listening makes it easier to diagnose conceptual problems. At first glance, this student seems to have done poorly. There are multiple errors in the melodic/motivic categories, including mislabeling the theme type of the second excerpt (in orange; it should be a “period”) and the initiating phrases of the first, second, and third excerpts (in yellow; they should all be antecedents). But because I asked the student to listen through a particular pathway—beginning at the sub-phrase and cadence levels and working up to the phrase and theme type—its easy for me to isolate the errors in cadential identification as the root of those mistakes: labeling the initiating phrases of excerpts \#1, \#2, and \#4 as “compound basic ideas” seems to have occurred *not* because of a misunderstanding of that concept, but because the student did not hear cadences at the ends of those phrases.
 
