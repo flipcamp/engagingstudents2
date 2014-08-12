@@ -10,7 +10,8 @@ title: Table of Contents
 
 ## Front matter ##
 
-
+[Foreword]({{ site.baseurl }}/essays/rogers.html)  
+*Nancy Rogers*
 
 ## Philosophy ##
 
@@ -33,13 +34,8 @@ title: Table of Contents
 
 ## Practice ##
 
-**Applying Problem-based Learning in the Music Theory Classroom**  
-*Philip Duker, Kris Shaffer, Daniel Stevens*
-
-- [Introduction]({{ site.baseurl }}/essays/dukerShafferStevens.html), Daniel Stevens  
-- [Part 1: Problem-based Learning: A Rationale]({{ site.baseurl }}/essays/stevens.html), Daniel Stevens  
-- [Part 2: Types and Examples of PBL problems]({{ site.baseurl }}/essays/duker.html), Philip Duker  
-- [Part 3: Assessing Problem-Based Learning]({{ site.baseurl }}/essays/shaffer.html), Kris Shaffer
+[Applying Problem-based Learning in the Music Theory Classroom]({{ site.baseurl }}/essays/dukerShafferStevens.html)  
+*Philip Duker, Kris Shaffer, and Daniel Stevens*
 
 [Recomposition as Low-Stakes Analysis]({{ site.baseurl }}/essays/johnson.html)  
 *Shersten Johnson*  

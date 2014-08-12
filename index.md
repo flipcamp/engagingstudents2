@@ -27,6 +27,7 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 [Brian Moseley]({{ site.baseurl }}/essays/moseley.html), University of Buffalo  
 [Meghan Naxer]({{ site.baseurl }}/essays/kulmaNaxer.html), University of Oregon  
 [Deborah Rifkin]({{ site.baseurl }}/essays/rifkin.html), Ithaca College  
+[Nancy Rogers]({{ site.baseurl }}/essays/rogers.html), Florida State University  
 [Peter Schubert]({{ site.baseurl }}/essays/schubert.html), Schulich School of Music, McGill University  
 [Kris Shaffer]({{ site.baseurl }}/essays/shaffer.html), University of Colorado–Boulder  
 [Yona Stamatis]({{ site.baseurl }}/essays/stamatis.html), University of Illinois–Springfield  
