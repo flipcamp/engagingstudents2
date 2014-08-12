@@ -9,7 +9,7 @@ author: Jan Miyake, Oberlin College and Conservatory
 
 **{{ page.author }}**
 
-As a student, I dreaded writing. I believed I was a poor writer, and it was merely a hoop to jump through for certain professors. As I have grown older and wiser, I have bought into the act of writing because the process helps me find clarity and express complicated ideas.^[[a]](#cmnt1)^^[[b]](#cmnt2)^ I am also persuaded that writing well and expressing complicated ideas are essential to most--if not all--of the careers my students are headed for. They will write artist’s statements, grants, cover letters, resumes, professional correspondence, and program notes. They are also likely to speak to the audience from the stage, an action that will benefit from working out their thoughts ahead of time in prose.
+As a student, I dreaded writing. I believed I was a poor writer, and it was merely a hoop to jump through for certain professors. As I have grown older and wiser, I have bought into the act of writing because the process helps me find clarity and express complicated ideas. I am also persuaded that writing well and expressing complicated ideas are essential to most--if not all--of the careers my students are headed for. They will write artist’s statements, grants, cover letters, resumes, professional correspondence, and program notes. They are also likely to speak to the audience from the stage, an action that will benefit from working out their thoughts ahead of time in prose.
 
 Certainly, writing regularly is one important facet of becoming a better writer. Grading writing, however, can take a lot of time. Combining the [importance of timely and frequent feedback](http://www.google.com/url?q=http%3A%2F%2Fwww.utc.edu%2Fwalker-center-teaching-learning%2Fteaching-resources%2F7-principles.php&sa=D&sntz=1&usg=AFQjCNGI7VKw7upUDE_Yg8W4gHyS8R_AfQ) with regularly-assigned writing assignments makes implementation of such assignments seem daunting. The following paragraphs describe how to get your students to write more by making savvy choices about assignment type, grading rubric, technology for receiving and returning student work, and writing prompts.
 
@@ -69,26 +69,3 @@ Low-stakes writing helps students gain regular practice sorting out their ideas.
 
 This work is copyright ⓒ2014 Jan Miyake and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).
 
-Bibliography^[[c]](#cmnt3)^
-
-Casserly, Marten. “[7 best cloud storage services - 2014's best online storage sites revealed](http://www.google.com/url?q=http%3A%2F%2Fwww.pcadvisor.co.uk%2Ffeatures%2Finternet%2F3506734%2Fbest-cloud-storage-services-review%2F&sa=D&sntz=1&usg=AFQjCNEaUsTU6tqddckzSgG1n7UtmqX3Ug).” PC Advisor: Expert Advice You Can Trust. Accessed July 20, 2014.
-
-Chou, Vikki. “[Sharing in Google Docs just got easier](http://www.google.com/url?q=http%3A%2F%2Fgoogledocs.blogspot.com%2F2010%2F06%2Fsharing-in-google-docs-just-got-easier.html&sa=D&sntz=1&usg=AFQjCNGaDIeB1oyEwjQCXJ-7OABNzK8Wvw).” Docs Blog: News and notes from the Google Drive and Docs teams. Accessed July 20, 2014.
-
-Elbow, Peter. “High Stakes and Low Stakes in Assigning and Responding to Writing.” New Directions for Teaching and Learning 69 (1997): 5–13.
-
-Google Support. “[Create and rename documents, spreadsheets, and presentations](https://support.google.com/docs/answer/49114?hl=en).” Accessed July 20, 2014.
-
-Miyake, Jan. “[Meaningful Grading, Is It an Oxymoron?](http://www.google.com/url?q=http%3A%2F%2Fteaching-matters.net%2Fhello-world%2F&sa=D&sntz=1&usg=AFQjCNHddwxLbBURu-awn1IZXq_gzKf7HQ)” Teaching Matters: Experiments, Opinions, Dialogues. Accessed July 20, 2014.
-
------. “‘[Tis the Season: Meaningful Grading and the Role of Redos](http://www.google.com/url?q=http%3A%2F%2Fteaching-matters.net%2Ftis-the-season-meaningful-grading-and-the-role-of-redos%2F&sa=D&sntz=1&usg=AFQjCNE9eCTJg_HG2Iv_fCNZdUYIUBjXYg).” Teaching Matters: Experiments, Opinions, Dialogues. Accessed July 20, 2014.
-
-Ozcelik, Erol; Karakus, Turkan; Kursun, Engin; Cagiltay, Kursat. “[An Eye-Tracking Study of How Color Coding Affects Multimedia Learning](http://www.google.com/url?q=http%3A%2F%2Feric.ed.gov%2F%3Fid%3DEJ842989&sa=D&sntz=1&usg=AFQjCNG_Xqq1zhIebzD7lPq75SiOLXK6jw).” Computers & Education 53 (2009): 445–53.
-
-University of Tennessee at Chattanooga, Walker Center for Teaching and Learning. “[Seven Principles for Good Practice in Undergraduate Education](http://www.google.com/url?q=http%3A%2F%2Fwww.utc.edu%2Fwalker-center-teaching-learning%2Ffaculty-development%2Fonline-resources%2F7-principles.php&sa=D&sntz=1&usg=AFQjCNGA1l-xISdtaqGOlN-oYSn-0tUWmQ).” Accessed July 20, 2014.
-
-[[a]](#cmnt_ref1)If their Sarah Baker and Timothy Chennette's article "Writing Across the Music Theory Curriculum" is accepted to Engaging Students, you might want to cite it. They also have a lot of ideas that you may want to link to.
-
-[[b]](#cmnt_ref2)Agreed.  They shared their article with me a little while ago and I shared a lot of materials with them as they were writing it.  If both of ours are accepted, we'll want to take some time to cross reference.
-
-[[c]](#cmnt_ref3)added bibliography b/c one was requested for my other submission.

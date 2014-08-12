@@ -70,20 +70,4 @@ Regardless of your answers to the questions posed above, it is necessary to comm
 
 As layers of technology are added to the classroom in today’s music curricula, it becomes more and more difficult for students (and instructors) to excel in all areas. This is particularly the case with online music courses, which need to lean heavily on complex third-party software such as notation programs or digital audio workstations to allow students to submit work. However, the issues raised here are relevant for instructors of hybrid and [flipped](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fshafferintro.html&sa=D&sntz=1&usg=AFQjCNHdo8F-0-l1EfsZ7XkcIsQnd1IutQ) classes as well. Indeed, the extent to which you assess students’ technological competence is an important consideration when planning any music course that involves technology. Planning your personal answers to the questions posed in this essay prior to the start of your course can help you be consistent with your students throughout the semester. This will in turn foster positive relationships and allow the majority of your discussions to remain focused, appropriately, on music.
 
-BIBLIOGRAPHY
-
-Burstein, L. Poundie. 2013. [“Music Theory Pedagogy in the iPhone Generation.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fburstein.html&sa=D&sntz=1&usg=AFQjCNEb50IbhB8YxHBUYJqUPDfGDR6dnA) Engaging Students: Essays in Music Pedagogy.
-
-Carlson, Scott. 2013. [“How to Assess the Real Payoff of a College Degree.”](http://www.google.com/url?q=http%3A%2F%2Fchronicle.com%2Farticle%2FIs-ROI-the-Right-Way-to-Judge%2F138665%2F&sa=D&sntz=1&usg=AFQjCNGFEjYCmuzB09g0oF2dQD7EKc5x1Q) Administration, The Chronicle of Higher Education, April 22. Accessed July 2, 2014.
-
-Gawboy, Anna. 2013. [“On Standards and Assessment.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fgawboy.html&sa=D&sntz=1&usg=AFQjCNEmuGP7NpoBme7MwEIw8FVH1VlqUA) Engaging Students: Essays in Music Pedagogy.
-
-Gosden, Stephen. 2013. [“The ‘Technology Tools Session’ at FlipCamp Music Theory.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fgosden.html&sa=D&sntz=1&usg=AFQjCNHcdPQjBI-EYErJWHPL1qsGEpGQSw) Engaging Students: Essays in Music Pedagogy.
-
-Mueller, Jon. 2012.[ ](http://www.google.com/url?q=http%3A%2F%2Fjfmueller.faculty.noctrl.edu%2Ftoolbox%2Fwhatisit.htm&sa=D&sntz=1&usg=AFQjCNFJJynERcIU-1MkSPdv-wylWnCl-g)[“What is Authentic Assessment?”](http://www.google.com/url?q=http%3A%2F%2Fjfmueller.faculty.noctrl.edu%2Ftoolbox%2Fwhatisit.htm&sa=D&sntz=1&usg=AFQjCNFJJynERcIU-1MkSPdv-wylWnCl-g) Authentic Assessment Toolbox. Accessed July 2, 2014.
-
-[National Association of Schools of Music Handbook](http://www.google.com/url?q=http%3A%2F%2Fnasm.arts-accredit.org%2Fsite%2Fdocs%2FHandbook%2FNASM_HANDBOOK_2013-14.pdf&sa=D&sntz=1&usg=AFQjCNFYMnqk-vb5_rndyrgs8gr2USNDUA), 2013-2014.  Accessed June 30, 2014.
-
-Shaffer, Kris and Bryn Hughes. 2013. [“Flipping the Classroom: Three Methods.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fshafferintro.html&sa=D&sntz=1&usg=AFQjCNHdo8F-0-l1EfsZ7XkcIsQnd1IutQ) Engaging Students: Essays in Music Pedagogy.
-
 This work is copyright ⓒ2014 Gregory R. McCandless and licensed under a[ ](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA)[Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).

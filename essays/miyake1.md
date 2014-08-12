@@ -60,20 +60,4 @@ Sometimes it is difficult to decide whether it is worth continuing a teaching ex
 
 This work is copyright ⓒ2014 Jan Miyake and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).
 
-Bibliography
 
-Agarwal, Anant. “[Why massive open online courses (still) matter](http://www.google.com/url?q=http%3A%2F%2Fwww.ted.com%2Ftalks%2Fanant_agarwal_why_massively_open_online_courses_still_matter&sa=D&sntz=1&usg=AFQjCNGRHxS2ISMiF6touAcPmJe59EmI9Q).” TED. Accessed July 18, 2014.
-
-Baker, J. Wesley. "The 'Classroom Flip': Using Web Course Management Tools to Become the Guide by the Side." In Selected Papers from the 11th International Conference on College Teaching and Learning (11th, Jacksonville, Florida, April 12-15, 2000), edited by Jack A. Chambers, 9–17. Jacksonville, FL: Florida Community Coll., Jacksonville Center for the Advancement of Teaching and Learning, 2000.
-
-Duker, Philip. “Screencasting and Video Creation.” Paper presented at FlipCamp Music Theory, North Charleston, SC, June 17–18, 2013.
-
-MacMeekin, Mia. “[Bloom’s Revised Taxonomy with Verbs!](http://www.google.com/url?q=http%3A%2F%2Fanethicalisland.wordpress.com%2F2014%2F06%2F05%2Fblooms-revised-taxonomy-with-verbs%2F&sa=D&sntz=1&usg=AFQjCNFggYnlp29uv7ZFjK_Vi1PkrhfrBg)” AN ETHICAL ISLAND:
-
-How to Teach Without a Lecture and other fun. Accessed July 20, 2014.
-
-Miyake, Jan. “[Skill: Asking Questions](http://www.google.com/url?q=http%3A%2F%2Fteaching-matters.net%2Fskill-asking-questions%2F&sa=D&sntz=1&usg=AFQjCNH2N_QKyDXrOMVJRCv4v1M-WSrxhQ)” Teaching Matters: Experiments, Opinions, Dialogues. Accessed July 20, 2014.
-
-Roediger, Henry L. III. “[How Tests Make Us Smarter](http://www.google.com/url?q=http%3A%2F%2Fwww.nytimes.com%2F2014%2F07%2F20%2Fopinion%2Fsunday%2Fhow-tests-make-us-smarter.html%3Fref%3Dopinion%26_r%3D1&sa=D&sntz=1&usg=AFQjCNHhLG-QpyREnPNxYEZqze5zBiTUOQ).” The New York Times. Accessed July 20, 2014.
-
-Shaffer, Kris. “[The Basic Flip](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fshafferpt1.html&sa=D&sntz=1&usg=AFQjCNELSwj3ueETEr7uAPk_cxOMwNx7mw).” Engaging Students: Essays in Music Pedagogy. accessed July 18, 2014.

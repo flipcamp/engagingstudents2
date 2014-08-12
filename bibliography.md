@@ -6,6 +6,7 @@ title: Bibliography
 
 {{ page.title }}
 ================
+Agarwal, Anant. 2013. “[Why massive open online courses (still) matter](http://www.google.com/url?q=http%3A%2F%2Fwww.ted.com%2Ftalks%2Fanant_agarwal_why_massively_open_online_courses_still_matter&sa=D&sntz=1&usg=AFQjCNGRHxS2ISMiF6touAcPmJe59EmI9Q).” TED. Accessed July 18, 2014.
 
 Aldwell, Edward, Carl Schachter, and Allen Cadwallader. 2011. [*Harmony and Voice Leading*.](http://www.google.com/url?q=http%3A%2F%2Fwww.cengage.com%2Fsearch%2FproductOverview.do%3FNtt%3Daldwell%257C%257C1196292628150329021914958045011389409785%26N%3D16%26Ntk%3DAPG%257C%257CP_EPI%26Ntx%3Dmode%252Bmatchallpartial&sa=D&sntz=1&usg=AFQjCNFGZypzQ4FvSht8yeDqd0dNhFMOYQ) Fourth edition. Boston: Schirmer Cengage Learning.
 
@@ -28,6 +29,8 @@ Aristotle. [*Metaphysics*](http://www.google.com/url?q=http%3A%2F%2Fclassics.mit
 BaileyShea, Matt L. 2007.[ Filleted Mignon: A New Recipe for Analysis and Recomposition.](http://www.google.com/url?q=http%3A%2F%2Fwww.mtosmt.org%2Fissues%2Fmto.07.13.4%2Fmto.07.13.4.baileyshea.html&sa=D&sntz=1&usg=AFQjCNH6YCCFhyW6JTrxY3ZIC5Ee_wmSUg) Music Theory Online. Accessed July 20, 2014.
 
 Bain, Ken, and James Zimmerman. 2009. [“Understanding Great Teaching.”](http://www.google.com/url?q=http%3A%2F%2Fwww.aacu.org%2Fpeerreview%2Fpr-sp09%2Fpr-sp09_bainzimmerman.cfm&sa=D&sntz=1&usg=AFQjCNGn0aRMgGUrXl6yhboHJcIe_Z1o5A) Peer Review 11, no. 2: 9-12.
+
+Baker, J. Wesley. 2000. "The 'Classroom Flip': Using Web Course Management Tools to Become the Guide by the Side." In [Selected Papers from the 11th International Conference on College Teaching and Learning (11th, Jacksonville, Florida, April 12-15, 2000)](http://www.worldcat.org/title/selected-papers-from-the-11th-international-conference-on-college-teaching-and-learning/oclc/45318580), edited by Jack A. Chambers. Jacksonville, FL: Florida Community Coll., Jacksonville Center for the Advancement of Teaching and Learning, 9–17.
 
 Bean, John C. 2001. [*Engaging Ideas: The Professor’s Guide to Integrating Writing, Critical Thinking, and Active Learning in the Classroom*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL12338350W%2FEngaging_ideas&sa=D&sntz=1&usg=AFQjCNH5Y2kQSMVyruZNJEz6lLFMgFI-WA). San Francisco: Jossey-Bass.  
 
@@ -53,11 +56,17 @@ Campbell, Don G. 1983. [*Introduction to the Musical Brain*](http://www.google.c
 
 Caplin, William E. 2013. “[Teaching Classical Form: Strict Categories vs. Flexible Analysis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB8QFjAA&url=http%3A%2F%2Fupers.kuleuven.be%2Fsites%2Fupers.kuleuven.be%2Ffiles%2Fpage%2Ffiles%2F2013_3_teaching.pdf&ei=NybMU8KtPIiMyAT9soGoDQ&usg=AFQjCNEcv5rFeJZh7py-jiqcpurZuqNV0A&sig2=W5ZdsZRJX29YG0JzGpBbxQ&bvm=bv.71198958,d.aWw).” I  *Dutch Journal of Music Theory* 18 (3): 119–25.
 
+Carlson, Scott. 2013. [“How to Assess the Real Payoff of a College Degree.”](http://www.google.com/url?q=http%3A%2F%2Fchronicle.com%2Farticle%2FIs-ROI-the-Right-Way-to-Judge%2F138665%2F&sa=D&sntz=1&usg=AFQjCNGFEjYCmuzB09g0oF2dQD7EKc5x1Q) Administration, The Chronicle of Higher Education, April 22. Accessed July 2, 2014.
+
+Casserly, Marten. 2014. “[7 best cloud storage services - 2014's best online storage sites revealed](http://www.pcadvisor.co.uk/features/internet/3506734/best-cloud-storage-services-review/).” PC Advisor: Expert Advice You Can Trust. Accessed July 20, 2014.
+
 CAST (Center for Applied Special Technology). 2011. [*Universal Design for Learning Guidelines version 2.0.*](http://www.google.com/url?q=http%3A%2F%2Fwww.udlcenter.org%2Faboutudl%2Fudlguidelines%2F&sa=D&sntz=1&usg=AFQjCNGELP3JbO3ssOUNx9Hf92SEbq8_Og) Wakefield, MA: Author. Updated July 16, 2013. Accessed July 16, 2014.
 
 [“Classroom Assessment Techniques (CATs).”](http://www.google.com/url?q=http%3A%2F%2Fcft.vanderbilt.edu%2Fguides-sub-pages%2Fcats%2F&sa=D&sntz=1&usg=AFQjCNFxBX4rH3mF-FJnWRRSp_3oVE6UYg) Center for Teaching, Vanderbilt University. Accessed June 20, 2014.
 
 Clendinning, Jane Piper and Elizabeth West Marvin. 2013. [*The Musician's Guide to Theory and Analysis.*](http://www.google.com/url?q=http%3A%2F%2Fbooks.wwnorton.com%2Fbooks%2Fdetail.aspx%3Fid%3D4294977723&sa=D&sntz=1&usg=AFQjCNEjdOgprfK0X7OE58_uFNthTdUFYg) Second edition. New York: W. W. Norton & Company.
+
+Chou, Vikki. 2010. “[Sharing in Google Docs just got easier](http://googledocs.blogspot.com/2010/06/sharing-in-google-docs-just-got-easier.html).” Docs Blog: News and notes from the Google Drive and Docs teams. Accessed July 20, 2014.
 
 Cohen, Dan and Tom Scheinfeldt, eds. [“Hacking the Academy.”](http://www.google.com/url?q=http%3A%2F%2Fhackingtheacademy.org%2F&sa=D&sntz=1&usg=AFQjCNFXJlXxoETLa_zvUnsXVxLqgcGzkg) Accessed July 29, 2014.
 
@@ -85,9 +94,13 @@ Davidson, Cathy. 2009. [“How to Crowdsource Grading.”](http://www.google.com
 
 de Clercq, Trevor. 2013. [“Towards a Flipped Aural Skills Classroom: Harnessing Recording Technology for Performance-Based Homework.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2FdeClercq.html&sa=D&sntz=1&usg=AFQjCNFS5ln7dEHE87dnYbodtijucAWSaw) In *Engaging Students: Essays in Music Pedagogy*.
 
-Duker, Philip. ["Setting up a standards-based gradebook."](http://www.google.com/url?q=http%3A%2F%2Fwww.hackingmusictheory.com%2Fduker.html&sa=D&sntz=1&usg=AFQjCNHNgmJLiT3icvCtnu5HKjxsjZLZww) Hacking the Music Theory Classroom. Accessed July 17, 2014.
+Duker, Philip. 2013. ["Setting up a standards-based gradebook."](http://www.google.com/url?q=http%3A%2F%2Fwww.hackingmusictheory.com%2Fduker.html&sa=D&sntz=1&usg=AFQjCNHNgmJLiT3icvCtnu5HKjxsjZLZww) Hacking the Music Theory Classroom. Accessed July 17, 2014.
+
+———. 2013. “Screencasting and Video Creation.” Paper presented at FlipCamp Music Theory, North Charleston, SC, June 17–18, 2013.
 
 Elbow, Peter. 1993. [“Ranking, Evaluating, and Liking: Sorting out Three Forms of Judgment.”](http://www.google.com/url?q=http%3A%2F%2Fwww.jstor.org%2Fstable%2F378503&sa=D&sntz=1&usg=AFQjCNHpzqoQxt6Nh5wV4vP5GbkiKkgPLQ) In *College English* 55/2, 187–206.
+
+———. 1997. [“High Stakes and Low Stakes in Assigning and Responding to Writing.”](http://onlinelibrary.wiley.com/doi/10.1002/tl.6901/abstract) In *New Directions for Teaching and Learning* 69, 5–13.
 
 Everett, Walter. 2004. ["Making Sense of Rock’s Tonal Systems."](http://www.google.com/url?q=http%3A%2F%2Fwww.mtosmt.org%2Fissues%2Fmto.04.10.4%2Fmto.04.10.4.w_everett.html&sa=D&sntz=1&usg=AFQjCNEwyKG0L2tSy4-LrS32LoGYcCTztw) *Music Theory Online* 10/4. Accessed July 31, 2014.
 
@@ -112,6 +125,8 @@ Gawboy, Anna. 2013 ["Hacking the Music Theory Lecture."](http://www.google.com/u
 Genther, Eileen. 2011. [“Music and Social Justice Syllabus, Summer, 2011.”](http://www.google.com/url?q=http%3A%2F%2Fwww.wesleyseminary.edu%2FPortals%2F0%2FDocuments%2FSummer%2520Programs%2FMusic%2520and%2520Social%2520Justice%2520summer11.pdf&sa=D&sntz=1&usg=AFQjCNF98CNlsCeKhOU_qHJITYdAhgyXyA) Accessed July 10, 2014.
 
 Gjerdingen, Robert. 2007. [*Music in the Galant Style*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL18014958M%2FMusic_in_the_galant_style&sa=D&sntz=1&usg=AFQjCNFqyYLDwRnmxTqymgsRTvrAs9-Pig). New York: Oxford University Press.
+
+Google Support. “[Create and rename documents, spreadsheets, and presentations](https://support.google.com/docs/answer/49114?hl=en).” Accessed July 20, 2014.
 
 Gordon, Edwin T.[“Audiation.”](http://www.google.com/url?q=http%3A%2F%2Fgiml.org%2Fmlt%2Faudiation%2F&sa=D&sntz=1&usg=AFQjCNH_D2ntRgaEmLEQFkaGq6ygcoAr6w) GIML: The Gordon Institute for Music Learning. Accessed July 2, 2014.
 
@@ -139,6 +154,8 @@ Hughes, Bryn. 2014. [“In Defense of Music Theory.”](http://www.google.com/ur
 
 Jacobus, Enoch. 2013. [“Grammatica, Dialectica, Rhetorica: the Trivium in Music Theory Pedagogy.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fjacobus.html&sa=D&sntz=1&usg=AFQjCNHLEqNFqV9Gq5sNn2XsOwM-lMmgeg) In *Engaging Students: Essays in Music Pedagogy*.
 
+Jones, Evan, and Matthew Shaftel with Juan Chattah. 2013. [Aural Skills in Context.](http://www.google.com/url?q=http%3A%2F%2Fglobal.oup.com%2Fushe%2Fproduct%2Faural-skills-in-context-9780199943821%3Bjsessionid%3D52027A79181D2B88AD8CDF2ACBF65478%3Fcc%3Dus%26lang%3Den%26&sa=D&sntz=1&usg=AFQjCNHFJQMrKJtiRluDnVuFVBSanhpShg) Oxford: Oxford University Press.
+
 Karpinski, Gary. 2000. [*Aural Skills Acquisition: The Development of Listening, Reading, and Performing Skills in College-Level Musicians*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL5736751W%2FAural_Skills_Acquisition&sa=D&sntz=1&usg=AFQjCNELhXpV3Zni9YDgJwvCmB1Gxcr_ZQ). New York, NY: Oxford University Press.
 
 Kain, Patricia. 1998. [“How to Do a Close Reading"](http://www.google.com/url?q=http%3A%2F%2Fwritingcenter.fas.harvard.edu%2Fpages%2Fhow-do-close-reading&sa=D&sntz=1&usg=AFQjCNHjTdDbVfnzHWW8NpY6r1QS4c65Fg). Accessed August 1, 2014.
@@ -155,13 +172,17 @@ Kostka, Stefan and Dorothy Payne. 2009. [*Tonal Harmony with an Introduction to 
 
 Laitz, Steven G. 2012. [*The Complete Musician: An Integrated Approach to Tonal Theory, Analysis, and Listening*.](http://www.google.com/url?q=http%3A%2F%2Fglobal.oup.com%2Fushe%2Fproduct%2Fthe-complete-musician-9780199742783%3Fcc%3Dus%26lang%3Den%26&sa=D&sntz=1&usg=AFQjCNGKzN1L74pSimOOOIHvpS5YNnGTHg) Third edition. Oxford: Oxford University Press.
 
-Larson, Steve. 2012. [Musical forces: motion, metaphor, and meaning in music.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16142046W%2FMusical_forces&sa=D&sntz=1&usg=AFQjCNEZpcbostSatUT6I-xEyV0zrAUjCw) Bloomington: Indiana University Press.  
+Larson, Steve. 1995. “[‘Integrated Music Learning’ and Improvisation: Teaching Musicianship and Theory Through ‘Menus, Maps, and Models.’](http://www.google.com/url?q=http%3A%2F%2Fsymposium.music.org%2Findex.php%3Foption%3Dcom_k2%26view%3Ditem%26id%3D2116%3Aintegrated-music-learning-and-improvisation-teaching-musicianship-and-theory-through-menus-maps-and-models%26Itemid%3D146&sa=D&sntz=1&usg=AFQjCNGuPm3CjQWC0z6SWAMG1vDU1fWGVw)” College Music Symposium 35, 76–90.
+
+———. 2012. [Musical forces: motion, metaphor, and meaning in music.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16142046W%2FMusical_forces&sa=D&sntz=1&usg=AFQjCNEZpcbostSatUT6I-xEyV0zrAUjCw) Bloomington: Indiana University Press.  
 
 Liszt, Franz. 1855. “[*Berlioz and His Harold Symphony*](https://www.google.com/url?q=https%3A%2F%2Fis.muni.cz%2Fel%2F1421%2Fpodzim2008%2FVH_751%2Fliszt.html&sa=D&sntz=1&usg=AFQjCNGn8aqH1-BRrDbAkqtsdZn540bd8w)”.
 
 Ludwig, Alexander R. 2013. [“Using Twitter in the Music History Classroom.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fludwig.html&sa=D&sntz=1&usg=AFQjCNHmb5gNPvqGZFWeD6k8fpvJZmKsyg) In *Engaging Students: Essays in Music Pedagogy*, edited by Sean Atkinson, et. al. Vol. 1. Accessed July 11, 2014.
 
 Maclellan, Effie and Soden, R. 2004. [*The importance of epistemic cognition in student-centered learning*](http://www.google.com/url?q=http%3A%2F%2Fstrathprints.strath.ac.uk%2F5509%2F1%2Fstrathprints005509.pdf&sa=D&sntz=1&usg=AFQjCNH1fbS20tLx9YYbSMA14_Go9UX4Zg). *Instructional Science* 32 (3). 253-68.
+
+MacMeekin, Mia. 2014. “[Bloom’s Revised Taxonomy with Verbs!](http://anethicalisland.wordpress.com/2014/06/05/blooms-revised-taxonomy-with-verbs/)” AN ETHICAL ISLAND: How to Teach Without a Lecture and other fun. Accessed July 20, 2014.  
 
 Maiello, James Vincent. 2013. ["Towards a Praxial Philosophy of Music History Pedagogy."](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F85&sa=D&sntz=1&usg=AFQjCNG4KofwwtmXIsfwuEI5uHbrprbe-A) Journal of Music History Pedagogy 4/1: 71-108. 
 
@@ -174,7 +195,17 @@ Mendelssohn, Felix. 1842. “[Letter to Marc-André Souchay](https://www.google.
 
 Mindlin, Galina and Don Du Rousseau and Joseph Cardillo. 2012.[ ](http://books.google.com/books/about/Your_Playlist_Can_Change_Your_Life.html?id=RCK5VYfL79gC&redir_esc=y)[*Your Playlist Can Change Your Life: Ten Proven Ways Your Favorite Music Can Revolutionize Your Health, Memory, Organization, Alertness, and More*](http://books.google.com/books/about/Your_Playlist_Can_Change_Your_Life.html?id=RCK5VYfL79gC&redir_esc=y). Sourcebooks, Inc.
 
+Miyake, Jan. 2012. “[Skill: Asking Questions](http://teaching-matters.net/skill-asking-questions/)” Teaching Matters: Experiments, Opinions, Dialogues. Accessed July 20, 2014.
+
+———. 2012. “[Meaningful Grading, Is It an Oxymoron?](http://teaching-matters.net/hello-world/)” Teaching Matters: Experiments, Opinions, Dialogues. Accessed July 20, 2014.
+
+———. 2012. “‘[Tis the Season: Meaningful Grading and the Role of Redos](http://teaching-matters.net/tis-the-season-meaningful-grading-and-the-role-of-redos/).” Teaching Matters: Experiments, Opinions, Dialogues. Accessed July 20, 2014.
+
 Morrison, Charles D. 2009. [“Music Listening as Music Making.”](http://www.google.com/url?q=http%3A%2F%2Fmuse.jhu.edu%2Fjournals%2Fthe_journal_of_aesthetic_education%2Fv043%2F43.1.morrison.html&sa=D&sntz=1&usg=AFQjCNG3oRxeJJcRla2Y-zEalsXS6npEOw) *Journal of Aesthetic Education* 43, no. 1: 77–91.
+
+Mueller, Jon. 2012.[“What is Authentic Assessment?”](http://www.google.com/url?q=http%3A%2F%2Fjfmueller.faculty.noctrl.edu%2Ftoolbox%2Fwhatisit.htm&sa=D&sntz=1&usg=AFQjCNFJJynERcIU-1MkSPdv-wylWnCl-g) Authentic Assessment Toolbox. Accessed July 2, 2014.
+
+[National Association of Schools of Music Handbook](http://www.google.com/url?q=http%3A%2F%2Fnasm.arts-accredit.org%2Fsite%2Fdocs%2FHandbook%2FNASM_HANDBOOK_2013-14.pdf&sa=D&sntz=1&usg=AFQjCNFYMnqk-vb5_rndyrgs8gr2USNDUA), 2013-2014.  Accessed June 30, 2014
 
 Natvig, Mary. 2012. [“Classroom Activities.”](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16557937W%2FThe_music_history_classroom&sa=D&sntz=1&usg=AFQjCNE-PrdoQcwihlzYZJbAyp8Cfl59pA) In *The Music History Classroom*, edited by James A. Davis, 15-30. Farnham, Surrey, England: Ashgate.
 
@@ -186,7 +217,11 @@ Osborn, A. 1963. [*Applied Imagination: Principles and Procedures of Creative Th
 
 Overbaugh, Richard, and Lynn Schultz. [“Bloom’s Taxonomy.”](http://www.google.com/url?q=http%3A%2F%2Fww2.odu.edu%2Feduc%2Froverbau%2FBloom%2Fblooms_taxonomy.htm&sa=D&sntz=1&usg=AFQjCNHcsvNVtviA4azpdfkEM5euGQp9jA) Old Dominion University. Accessed July 18, 2014.
 
+Ozcelik, Erol; Turkan Karakus, Engin Kursun, and Kursat Cagiltay. 2009. “[An Eye-Tracking Study of How Color Coding Affects Multimedia Learning](http://eric.ed.gov/?id=EJ842989).” In *Computers & Education 53*, 445–53.
+
 Peebles, Crystal. 2013. [“Using Audacity to Participate in Active Music Listening.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fpeebles.html&sa=D&sntz=1&usg=AFQjCNE8NUmnYZRGs7F-sW3j3Sxp01c2Bg) In *Engaging Students: Essays in Music Pedagogy*.
+
+Phillips, Joel, Jane Piper Clendinning, and Elizabeth West Marvin. 2011. [The Musician’s Guide to Aural Skills.](http://www.google.com/url?q=http%3A%2F%2Fbooks.wwnorton.com%2Fbooks%2FMusic%2FMusic_Theory%2FEar_Training___Sight_Singing%2F978-0-393-93094-8%2F&sa=D&sntz=1&usg=AFQjCNH0859mIx4ArxARAki2b-EJm7F_Aw) Second Edition. New York: W.W. Norton.
 
 Piston, Walter. 1941. [*Harmony*.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL5272107W%2FHarmony&sa=D&sntz=1&usg=AFQjCNHd6hd_mTuHDt4-h4fEi6Y6HP_ZBA) First edition. New York: W. W. Norton.
 
@@ -194,11 +229,15 @@ Rawls, John. 1971. [*A Theory of Justice*](http://books.google.com/books/about/A
 
 Roden, Timothy, Craig Wright, and Bryan Simms, eds. 2006. [*Anthology for Music in Western Civilization*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL12405724W%2FAnthology_for_music_in_western_civilization&sa=D&sntz=1&usg=AFQjCNHlEbtfnxTRBt3EHPEXW_Hv8ZNgsA). Belmont, California: Thomson/Schirmer.
 
-Rogers, Carl. 1954. “[Towards a Theory of Creativity.](http://www.google.com/url?q=http%3A%2F%2Fpsycnet.apa.org%2Findex.cfm%3Ffa%3Dsearch.displayRecord%26UID%3D1955-05283-001&sa=D&sntz=1&usg=AFQjCNFgQRIYPPh8gJGNPhBDWBHDMjJwEw)” In *ETC: A Review of General Semantics* 11: 249–60.
+Roediger, Henry L. III. 2014. “[How Tests Make Us Smarter](http://www.nytimes.com/2014/07/20/opinion/sunday/how-tests-make-us-smarter.html?ref=opinion&_r=1).” The New York Times. Accessed July 20, 2014.
+
+Rogers, Carl. 1954. “[Towards a Theory of Creativity.](http://www.nytimes.com/2014/07/20/opinion/sunday/how-tests-make-us-smarter.html?ref=opinion&_r=1)” In *ETC: A Review of General Semantics* 11: 249–60.
 
 Rogers, Michael R. 2004. [*Teaching Approaches in Music Theory: An Overview of Pedagogical Philosophies*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL5595277W%2FTeaching_approaches_in_music_theory&sa=D&sntz=1&usg=AFQjCNHY4bNrS1y8uxSr-hFMBtzgJOxmRw). 2nd ed. Carbondale: Southern Illinois University Press.
 
 Roig-Francolí, Miguel A. 2011. [*Harmony in Context*.](http://www.google.com/url?q=http%3A%2F%2Fcatalogs.mhhe.com%2Fmhhe%2FviewProductDetails.do%3Fisbn%3D0073137944&sa=D&sntz=1&usg=AFQjCNGLSoLG0p-GSQb5eqjPB5zjgYP5Nw) Second edition. New York: McGraw-Hill.
+
+Rogers, Nancy, and Robert Ottman. 2014. [Music for Sight Singing.](http://www.google.com/url?q=http%3A%2F%2Fwww.pearsonhighered.com%2Feducator%2Fproduct%2FMusic-for-Sight-Singing-9E%2F9780205938339.page&sa=D&sntz=1&usg=AFQjCNEI30kIYEdYJQbDSIWZ8-pRIcm2WQ) Ninth Edition. Upper Saddle River, NJ: Pearson.
 
 Rorbaugh, Pete. 2012. [“Occupy the Digital: Critical Pedagogy and New Media.”](http://www.google.com/url?q=http%3A%2F%2Fwww.hybridpedagogy.com%2Fjournal%2Foccupy-the-digital-critical-pedagogy-and-new-media%2F&sa=D&sntz=1&usg=AFQjCNGNWxWw6bcrBNbjZJ3ey0dFZ65-EA) In *Hybrid Pedagogy*, August 6.
 
@@ -260,6 +299,8 @@ Talbot, Michael. 1990. [*Tomaso Albinoni: The Venetian Composer and his World*](
 Turek, Ralph. 2007. [*Theory for Today’s Musician*.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9969377M%2FTheory_for_Today's_Musician&sa=D&sntz=1&usg=AFQjCNHfwVm5eqicnOzuRUQsmhZ-F29ocA) New York: McGraw-Hill.
 
 Tymoczko, Dmitri. 2011. [*A Geometry of Music: Harmony and Counterpoint in the Extended Common Practice*.](http://www.google.com/url?q=http%3A%2F%2Fdmitri.tymoczko.com%2Fgeometry-of-music.html&sa=D&sntz=1&usg=AFQjCNFyoWqDYGXyy1jGcVM64chfMPNZoA) Oxford: Oxford University Press.
+
+University of Tennessee at Chattanooga, Walker Center for Teaching and Learning. “[Seven Principles for Good Practice in Undergraduate Education](http://www.utc.edu/walker-center-teaching-learning/teaching-resources/7-principles.php).” Accessed July 20, 2014.
 
 Walvoord, Barbara E. Fassler. 1986. [*Helping Students Write Well*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL2719190M%2FHelping_students_write_well&sa=D&sntz=1&usg=AFQjCNFyIZZfDs5MQkGtMC8a_rwpDPBgXw). 2nd ed. New York: The Modern Language Association of America.
 

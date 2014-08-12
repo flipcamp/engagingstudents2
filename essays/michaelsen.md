@@ -36,20 +36,5 @@ The improvisation activity I have been discussing can be used across an entire t
 
 With the goal of engaging students using complex, real-world, constructivist teaching methods, no tool is of greater value than improvisation. The complexity of improvisation is both a blessing and a curse, however, making the thoughtful creation of scaffolds even more essential. Group activities with clearly defined roles and constraints provide inexperienced students structure and peer support, helping them to overcome the hesitancy many feel towards improvisation. Moreover, improvising in group settings closely mimics a real-world music making context. As students are improvising to learn theoretical concepts, many of them will also be learning to improvise, and thus scaffolded group improvisations will give them the support needed in order to integrate music theory into their lives as musicians.
 
-
-Bibliography
-
-Covington, Kate. 1997. “[Improvisation in the Aural Curriculum: An Imperative.](http://www.google.com/url?q=http%3A%2F%2Fsymposium.music.org%2Findex.php%3Foption%3Dcom_k2%26view%3Ditem%26id%3D2135%3Aimprovisation-in-the-aural-curriculum-an-imperative%26Itemid%3D146&sa=D&sntz=1&usg=AFQjCNFqX3o5flcNVgGknXVs39JBwoNmPQ)” College Music Symposium 37, 49–64.
-
-Jones, Evan, and Matthew Shaftel with Juan Chattah. 2013. [Aural Skills in Context.](http://www.google.com/url?q=http%3A%2F%2Fglobal.oup.com%2Fushe%2Fproduct%2Faural-skills-in-context-9780199943821%3Bjsessionid%3D52027A79181D2B88AD8CDF2ACBF65478%3Fcc%3Dus%26lang%3Den%26&sa=D&sntz=1&usg=AFQjCNHFJQMrKJtiRluDnVuFVBSanhpShg) Oxford: Oxford University Press.
-
-Larson, Steve. 1995. “[‘Integrated Music Learning’ and Improvisation: Teaching Musicianship and Theory Through ‘Menus, Maps, and Models.’](http://www.google.com/url?q=http%3A%2F%2Fsymposium.music.org%2Findex.php%3Foption%3Dcom_k2%26view%3Ditem%26id%3D2116%3Aintegrated-music-learning-and-improvisation-teaching-musicianship-and-theory-through-menus-maps-and-models%26Itemid%3D146&sa=D&sntz=1&usg=AFQjCNGuPm3CjQWC0z6SWAMG1vDU1fWGVw)” College Music Symposium 35, 76–90.
-
-Phillips, Joel, Jane Piper Clendinning, and Elizabeth West Marvin. 2011. [The Musician’s Guide to Aural Skills.](http://www.google.com/url?q=http%3A%2F%2Fbooks.wwnorton.com%2Fbooks%2FMusic%2FMusic_Theory%2FEar_Training___Sight_Singing%2F978-0-393-93094-8%2F&sa=D&sntz=1&usg=AFQjCNH0859mIx4ArxARAki2b-EJm7F_Aw) Second Edition. New York: W.W. Norton.
-
-Rogers, Michael. 2004. [Teaching Approaches in Music Theory: An Overview of Pedagogical Philosophies.](http://www.google.com/url?q=http%3A%2F%2Fopenlibrary.org%2Fworks%2FOL5595277W%2FTeaching_approaches_in_music_theory&sa=D&sntz=1&usg=AFQjCNFoGl4Z5CxnEJkhfwjWbXE7mBldrA) Second Edition. Carbondale, IL: Southern Illinois University Press.
-
-Rogers, Nancy, and Robert Ottman. 2014. [Music for Sight Singing.](http://www.google.com/url?q=http%3A%2F%2Fwww.pearsonhighered.com%2Feducator%2Fproduct%2FMusic-for-Sight-Singing-9E%2F9780205938339.page&sa=D&sntz=1&usg=AFQjCNEI30kIYEdYJQbDSIWZ8-pRIcm2WQ) Ninth Edition. Upper Saddle River, NJ: Pearson.
-
 This work is copyright ⓒ2014 Garrett Michaelsen and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).
 
