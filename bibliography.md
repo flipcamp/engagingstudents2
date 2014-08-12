@@ -7,11 +7,15 @@ title: Bibliography
 {{ page.title }}
 ================
 
+Albanese, Mark A. and Susan Mitchell. 1993. “[Problem-based learning: A Review of Literature on its Outcomes and Implementation Issues.](http://www.google.com/url?q=http%3A%2F%2Fjournals.lww.com%2Facademicmedicine%2FAbstract%2F1993%2F01000%2FProblem_based_Learning__A_Review_of_Literature_on.20.aspx&sa=D&sntz=1&usg=AFQjCNE7DugpCf_MjtBGps6kIeNacjUyoA)” In *Academic Medicine* 68/1: 52–81. 
+
 Aldwell, Edward, Carl Schachter, and Allen Cadwallader. 2011. [*Harmony and Voice Leading*.](http://www.google.com/url?q=http%3A%2F%2Fwww.cengage.com%2Fsearch%2FproductOverview.do%3FNtt%3Daldwell%257C%257C1196292628150329021914958045011389409785%26N%3D16%26Ntk%3DAPG%257C%257CP_EPI%26Ntx%3Dmode%252Bmatchallpartial&sa=D&sntz=1&usg=AFQjCNFGZypzQ4FvSht8yeDqd0dNhFMOYQ) Fourth edition. Boston: Schirmer Cengage Learning.
 
 Alegant, Brian. 2008. “[Listen Up! Thoughts on iPods, Sonata Form, and Analysis Without the Score](http://www.google.com/url?q=http%3A%2F%2Fjmtp.ou.edu%2Fjournal-article%2Flisten-thoughts-ipods-sonata-form-and-analysis-without-score&sa=D&sntz=1&usg=AFQjCNFJHQKN_y8cXcPY2_S8b0BjKESMXg).” In *Journal of Music Theory Pedagogy* 22: 149–76.
 
 Allbaugh, Thomas. 2013. [*Pretexts for Writing*](http://www.google.com/url?q=http%3A%2F%2Fwww.thomasallbaugh.com%2Fpretexts-for-writing%2F&sa=D&sntz=1&usg=AFQjCNGsoHRi4hdNQFkjvQ9x7hnVQpfD4w). 2nd ed. Dubuque, Iowa: Kendall Hunt Publishing.
+
+Allen, Deborah E., Barbara J. Duch, and Susan E. Groh. 2001. “[Strategies for using Groups.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” In *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 59–68. Sterling, VA: Stylus.
 
 Amabile, Teresa. 1979. “[Effects of External Evaluation on Artistic Creativity](http://www.google.com/url?q=http%3A%2F%2Fpsycnet.apa.org%2Fjournals%2Fpsp%2F37%2F2%2F221%2F&sa=D&sntz=1&usg=AFQjCNH69IWgmGtZCxk2gqO0GmM_rKGn0A).” In *Journal of Personality and Social Psychology* 37: 221–33.
 
@@ -23,15 +27,25 @@ Amabile, Teresa. 1979. “[Effects of External Evaluation on Artistic Creativity
 
 Aristotle. [*Metaphysics*](http://www.google.com/url?q=http%3A%2F%2Fclassics.mit.edu%2FAristotle%2Fmetaphysics.1.i.html&sa=D&sntz=1&usg=AFQjCNEvlbo6yjhi2z4zmPaDEbdpq_at7Q). Translated by W.D. Ross. The Internet Classics Archive. Accessed July 11, 2014.
 
+Armstrong, Elizabeth G. 1997. “[A Hybrid Model of Problem-based Learning.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL7967007M%2FThe_Challenge_of_Problem_Based_Learning&sa=D&sntz=1&usg=AFQjCNHBYip1SmhrFZBz5mdL1XZlCi9egw)” In *The Challenge of Problem-based Learning*, 2nd ed., edited by David Boud and Grahame Feletti, 137–50. London: Kogan Page. 
+
+Barnett, Ronald. 2011. “[Lifewide Education: A New and Transformative Concept for Higher Education.](http://books.google.com/books?id=DrEkQmwbSRsC&pg=PA22&dq=life-wide+learning&lr=&source=gbs_toc_r&cad=3#v=onepage&q=life-wide%20learning&f=false)” In *Learning for a Complex World: A Lifewide Concept of Learning, Education and Personal Development*, edited by Norman J. Jackson, 22–38. Bloomington: AuthorHouse. 
+
 Bean, John C. 2001. [*Engaging Ideas: The Professor’s Guide to Integrating Writing, Critical Thinking, and Active Learning in the Classroom*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL12338350W%2FEngaging_ideas&sa=D&sntz=1&usg=AFQjCNH5Y2kQSMVyruZNJEz6lLFMgFI-WA). San Francisco: Jossey-Bass.  
 
 Benward, Bruce. 1977. [*Music in Theory and Practice*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL11184772M%2FMusic_in_Theory_and_Practice&sa=D&sntz=1&usg=AFQjCNEEqcRVKhqcZguyhswc4YQUMw0gyA). 2nd edition. St. Louis, MO: William C Brown Pub.
 
 Berkowitz, Sol, Gabriel Fontrier, Leo Kraft, Perry Goldstein, and Edward Smaldone. 2011. [*A New Approach to Sight Singing*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16010686W%2FA_new_approach_to_sight_singing&sa=D&sntz=1&usg=AFQjCNGQ-UXOOBwtXfkvvP0xkspyvaDOjQ), 5th ed. New York: W.W. Norton.
 
+Berkson, Laeora. 1993. “[Problem-based Learning: Have the Expectations been Met?](http://www.google.com/url?q=http%3A%2F%2Fjournals.lww.com%2Facademicmedicine%2FAbstract%2F1993%2F10000%2FProblem_based_learning__have_the_expectations_been.53.aspx&sa=D&sntz=1&usg=AFQjCNF6JC2BA2Bb5DQXZRFIqSIBbO5U0A)” In *Academic Medicine* 68/10: 579–588. 
+
 Black, Alison. 2010. [“Gen Y: Who They Are and How They Learn.”](http://www.google.com/url?q=http%3A%2F%2Feric.ed.gov%2F%3Fid%3DEJ872487&sa=D&sntz=1&usg=AFQjCNFe8HDTUcgFxiePmkBBklpbZ9if3Q) *Educational Horizons* 88, no. 2, 92-101.
 
 Bonds, Mark Evan. 2009. [*A History of Music in Western Culture*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL22543533M%2FA_history_of_music_in_Western_culture&sa=D&sntz=1&usg=AFQjCNF0wFMD44dwUI_MU8jVhlokdwdNww), 3rd ed. Upper Saddle River, NJ: Prentice Hall.
+
+Boud, David and Grahame Feletti, ed. 1997. [*The Challenge of Problem-based Learning*.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL7967007M%2FThe_Challenge_of_Problem_Based_Learning&sa=D&sntz=1&usg=AFQjCNHBYip1SmhrFZBz5mdL1XZlCi9egw) 2nd ed. London: Kogan Page.
+
+Bowe, Brian and John Cowan. 2004. “[A Comparative Evaluation of Problem-based Learning in Physics: A Lecture-based Course and a Problem-based Course.](https://openlibrary.org/books/OL9734827M/Challenging_Research_in_Problem_Based_Learning_(Understanding_Social_Research))” In *Challenging Research in Problem-based Learning*, edited by Maggi Savin-Baden and Kay Wilkie, 162–73. Berkshire: Open University Press.
 
 Brewer, Carol A. and Diane Smith, eds. 2009. [*Vision and Change in Undergraduate Biology Education: A Call to Arms*](http://www.google.com/url?q=http%3A%2F%2Fvisionandchange.org%2Ffiles%2F2013%2F11%2Faaas-VISchange-web1113.pdf&sa=D&sntz=1&usg=AFQjCNH3vxUYkztRo5EoBAEzmngP9Peq3w). Report organized jointly by the American Association for the Advancement of Science and the National Science Foundation.
 
@@ -67,6 +81,10 @@ Davidson, Cathy. 2009. [“How to Crowdsource Grading.”](http://www.google.com
 
 de Clercq, Trevor. 2013. [“Towards a Flipped Aural Skills Classroom: Harnessing Recording Technology for Performance-Based Homework.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2FdeClercq.html&sa=D&sntz=1&usg=AFQjCNFS5ln7dEHE87dnYbodtijucAWSaw) In *Engaging Students: Essays in Music Pedagogy*.
 
+Duch, Barbara J., Susan E. Groh, and Deborah E. Allen, eds. 2001. [*The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q). Sterling, VA: Stylus. 
+
+Duch, Barbara J. 2001. “[Writing Problems for Deeper Understanding.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” In *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 47–58. Sterling, VA: Stylus. 
+
 Duker, Philip. ["Setting up a standards-based gradebook."](http://www.google.com/url?q=http%3A%2F%2Fwww.hackingmusictheory.com%2Fduker.html&sa=D&sntz=1&usg=AFQjCNHNgmJLiT3icvCtnu5HKjxsjZLZww) Hacking the Music Theory Classroom. Accessed July 17, 2014.
 
 Elbow, Peter. 1993. [“Ranking, Evaluating, and Liking: Sorting out Three Forms of Judgment.”](http://www.google.com/url?q=http%3A%2F%2Fwww.jstor.org%2Fstable%2F378503&sa=D&sntz=1&usg=AFQjCNHpzqoQxt6Nh5wV4vP5GbkiKkgPLQ) In *College English* 55/2, 187–206.
@@ -80,6 +98,8 @@ Fink, Dee. 2014. [“A Self-Directed Guide to Designing Courses for Significant 
 Fischer, Wilhelm. 1915. [“Zur Entwicklung des Wiener klassischen Stils.”](http://www.jstor.org/stable/41460317) In *Studien zur Musikwissenschaft* 3: 24–84.
 
 Francis, Kimberly. 2013. [“E-Publishing in the Undergraduate Music History Classroom: The University of Guelph Book Review Project.”](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F92%2F124&sa=D&sntz=1&usg=AFQjCNH57fQO0X91PmfSxWYrq-HVEmPvog) *Journal of Music History Pedagogy* 4 (1): 1-22. Accessed July 11, 2014.
+
+Freire, Paulo. 2012. [*Pedagogy of the Oppressed*](https://openlibrary.org/works/OL1870518W/Pedagogy_of_the_Oppressed), translated by Myra Bergman Ramos. Reprint of the 30th Anniversary Edition. New York: Continuum. (First published in 1970 as *Pedagogía del oprimido*.)
 
 Gaillet, Lynée Lewis. 2011. [*Interview by Florida State University graduate students in rhetoric and composition*](http://www.google.com/url?q=http%3A%2F%2Fwww.english.fsu.edu%2Frhetcomp%2Ftranscripts%2Fgaillet.pdf&sa=D&sntz=1&usg=AFQjCNHbP4BTArMzNSWsrWi9JwA8d0LXxg). Florida State University Rhetoric and Composition Community. Accessed August 1, 2014.  
 
@@ -107,6 +127,8 @@ Hess, Carol A. 2002. [“Score and Word: Writing about Music.”](https://www.go
 
 Higdon, Jennifer. 2000. “[Program Notes for Blue Cathedral](http://www.google.com/url?q=http%3A%2F%2Fwww.jenniferhigdon.com%2Fpdf%2Fprogram-notes%2Fblue-cathedral.pdf&sa=D&sntz=1&usg=AFQjCNG0xv0glgbxuRCBqmpYrnjtkdd6Vw).”
 
+Hmelo-Silver, Cindy. 2004. “[Problem-Based Learning: What and How do Students Learn?](http://www.google.com/url?q=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1023%252FB%253AEDPR.0000034022.16470.f3&sa=D&sntz=1&usg=AFQjCNGtonG7DvJw_PqVY3gqtlyMhEDOjA)” In *Educational Psychology Review* 16/3: 235–66.
+
 Hughes, Bryn. 2014. [“In Defense of Music Theory.”](http://www.google.com/url?q=http%3A%2F%2Fblog.brynhughes.org%2F2014%2F02%2Fin-defense-of-music-theory.html&sa=D&sntz=1&usg=AFQjCNFSKicleBF2ujHkqFC-VAaTby6KHg) Personal blog, February 27. Accessed July 29, 2014.
 
 Jacobus, Enoch. 2013. [“Grammatica, Dialectica, Rhetorica: the Trivium in Music Theory Pedagogy.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fjacobus.html&sa=D&sntz=1&usg=AFQjCNHLEqNFqV9Gq5sNn2XsOwM-lMmgeg) In *Engaging Students: Essays in Music Pedagogy*.
@@ -125,6 +147,8 @@ Kostka, Stefan and Dorothy Payne. 2009. [*Tonal Harmony with an Introduction to 
 
 Laitz, Steven G. 2012. [*The Complete Musician: An Integrated Approach to Tonal Theory, Analysis, and Listening*.](http://www.google.com/url?q=http%3A%2F%2Fglobal.oup.com%2Fushe%2Fproduct%2Fthe-complete-musician-9780199742783%3Fcc%3Dus%26lang%3Den%26&sa=D&sntz=1&usg=AFQjCNGKzN1L74pSimOOOIHvpS5YNnGTHg) Third edition. Oxford: Oxford University Press.
 
+Lieux, Elizabeth M. 2001. “[A Skeptic’s Look at PBL.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” In *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 223–35. Sterling, VA: Stylus. 
+
 Liszt, Franz. 1855. “[*Berlioz and His Harold Symphony*](https://www.google.com/url?q=https%3A%2F%2Fis.muni.cz%2Fel%2F1421%2Fpodzim2008%2FVH_751%2Fliszt.html&sa=D&sntz=1&usg=AFQjCNGn8aqH1-BRrDbAkqtsdZn540bd8w)”.
 
 Ludwig, Alexander R. 2013. [“Using Twitter in the Music History Classroom.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fludwig.html&sa=D&sntz=1&usg=AFQjCNHmb5gNPvqGZFWeD6k8fpvJZmKsyg) In *Engaging Students: Essays in Music Pedagogy*, edited by Sean Atkinson, et. al. Vol. 1. Accessed July 11, 2014.
@@ -135,6 +159,8 @@ Major, Claire H. 2002. [“Problem-Based Learning in General Education at Samfor
 
 McLeod, Saul. [“Jean Piaget.”](http://www.google.com/url?q=http%3A%2F%2Fwww.simplypsychology.org%2Fpiaget.html&sa=D&sntz=1&usg=AFQjCNFcZtkiQfdA9WoMXhDIeObju4-eZw) *Simply Psychology*. Last modified, 2012. Accessed July 14, 2014.
 Mendelssohn, Felix. 1842. “[Letter to Marc-André Souchay](https://www.google.com/url?q=https%3A%2F%2Farchive.org%2Fdetails%2Flettersoffelixm00mend&sa=D&sntz=1&usg=AFQjCNFElrGlmwa5bGAMNWcfvqgYrRgVpw)” (15 October 1842).
+
+Millis, Barbara J. 2010. [*Cooperative Learning in Higher Education: Across the Disciplines, Across the Academy*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL15441103W%2FCooperative_learning_in_higher_education&sa=D&sntz=1&usg=AFQjCNEOMuEl_sEj3iZjlv1SU-9n4PAuVA). Sterling, VA: Stylus.
 
 Mindlin, Galina and Don Du Rousseau and Joseph Cardillo. 2012.[ ](http://books.google.com/books/about/Your_Playlist_Can_Change_Your_Life.html?id=RCK5VYfL79gC&redir_esc=y)[*Your Playlist Can Change Your Life: Ten Proven Ways Your Favorite Music Can Revolutionize Your Health, Memory, Organization, Alertness, and More*](http://books.google.com/books/about/Your_Playlist_Can_Change_Your_Life.html?id=RCK5VYfL79gC&redir_esc=y). Sourcebooks, Inc.
 
@@ -164,13 +190,21 @@ Rorbaugh, Pete. 2012. [“Occupy the Digital: Critical Pedagogy and New Media.�
 
 Rust, Chris. 2002. [*The impact of assessment on student learning*](http://www.google.com/url?q=http%3A%2F%2Funcw.edu%2Fcas%2Fdocuments%2FRust2002.pdf&sa=D&sntz=1&usg=AFQjCNESn-MfTxtf0-TheKNNeeDhDmSBCw). The Institute for Learning and Teaching in Higher Education and Sage Publications. Vol 3(2) 145–58. London: Sage.
 
+Savery, J. R. 1999. “Enhancing motivation and learning through collaboration and the use of problems.” In [*Inspiring students: Case studies in motivating the learner*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL9182073W%2FINSPIRING_STUDENTS&sa=D&sntz=1&usg=AFQjCNEfGA0D39oqv_wtlvK0DYUnIROi0Q), edited by S. Fellows & K. Ahmet, 33–42. London: Kogan Page.
+
+Savin-Baden, Maggi and Kay Wilkie, ed. 2004. [*Challenging Research in Problem-based Learning*.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9734827M%2FChallenging_Research_in_Problem_Based_Learning_(Understanding_Social_Research)&sa=D&sntz=1&usg=AFQjCNHWbe5416yqw-4cMQKy_0JJkOGijA) Berkshire: Open University Press.
+
 Schenker, Heinrich. 1987. [*Counterpoint*.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL3609919W%2FCounterpoint&sa=D&sntz=1&usg=AFQjCNHGsgxm5JYRmNs6vuoY3bxXDxzs5w) John Rothgeb, ed. John Rothgeb and Jürgen Thym, trans. New York: Schirmer Books, Collier Macmillan.
 
 ———. 1954. [*Harmony*.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL3609920W%2FHarmony&sa=D&sntz=1&usg=AFQjCNFIDatjIoeKCBlVX0uigmf9Fs_V-Q) Oswald Jonas, ed. Elisabeth Mann Borgese, trans. Chicago: University of Chicago Press.
 
 Schubert, Peter. 2011. ["Global Perspective on Music Theory Pedagogy: Thinking in Music."](http://jmtp.ou.edu/journal-article/global-perspective-music-theory-pedagogy-thinking-music) In *Journal of Music Theory Pedagogy* 25: 217–33.
 
+———. 2013. “[My Undergraduate Skills-Intensive Counterpoint Learning Environment (MUSICLE)](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fschubert.html&sa=D&sntz=1&usg=AFQjCNHWU6wL0p_qdFS3fkoq9QiqpqIK8g).” In *Engaging Students: Essays in Music Pedagogy*.
+
 Schubert, Peter and Christoph Neidhoefer. 2006. [*Baroque Counterpoint*.](https://openlibrary.org/works/OL1894222W/Baroque_counterpoint) Upper Saddle River, New Jersey: Prentice-Hall.
+
+Schwartz, Peter, Stewart Mennin, and Graham Webb. 2001. [*Problem-based Learning: Case Studies, Experience, and Practice*.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9648209M%2FPROBLEM_BASED_LEARNING&sa=D&sntz=1&usg=AFQjCNG_OHBsGdOYJqOMHiyAZZoTEcJHIQ) London: Kogan Page.
 
 Shaffer, Kris. 2012. “[Introduction to Criterion-Referenced Grading](http://www.google.com/url?q=http%3A%2F%2Fkris.shaffermusic.com%2F2012%2F08%2Fintroduction-to-criterion-referenced-grading%2F&sa=D&sntz=1&usg=AFQjCNFGQgI-kO8qmJObwjkr0JxKEA9QZg)” Personal blog. August 10. Accessed June 2014.
 
@@ -200,19 +234,29 @@ Stommel, Jesse. 2014. [“MMDU: ‘I Would Prefer Not To.’”](http://www.goog
 
 Straus, Joseph. 2003. ["Uniformity, Balance, and Smoothness in Atonal Voice Leading."](http://www.google.com/url?q=http%3A%2F%2Fwww.jstor.org%2Fdiscover%2F10.1525%2Fmts.2003.25.2.305%3Fuid%3D3739856%26uid%3D2134%26uid%3D2%26uid%3D70%26uid%3D4%26uid%3D3739256%26sid%3D21104015577981&sa=D&sntz=1&usg=AFQjCNG3MZYGqDbqy7baX6-hQwFavu5D-g) *Music Theory Spectrum* 25/2: 305–52.
 
+Strobel, Johannes and Angela van Barneveld. 2009. [“When is PBL More Effective? A Meta-synthesis of Meta-analyses Comparing PBL to Conventional Classrooms.”](http://www.google.com/url?q=http%3A%2F%2Fdocs.lib.purdue.edu%2Fijpbl%2Fvol3%2Fiss1%2F4%2F&sa=D&sntz=1&usg=AFQjCNFCZaZSXg7MOsbSTMKyk5zqYA1c6A) In *Interdisciplinary Journal of Problem-based Learning* 3/1: 44–58.
+
 Strovas, Scott M.  2011. [“Music in the First-Year Writing Classroom.”](https://www.google.com/url?q=https%3A%2F%2Fjournals.tdl.org%2Fceaforum%2Findex.php%2Fceaforum%2Farticle%2Fview%2F6340%2F5967https%3A%2Fjournals.tdl.org%2Fceaforum%2Findex.php%2Fceaforum%2Farticle%2Fview%2F6340%2F5967&sa=D&sntz=1&usg=AFQjCNFR8o8fH5__ZpssUVH3bTHt1AODQQ) *The CEA Forum* 40 (2): 24-42. Accessed July 11, 2014.
 
 Talbot, Michael. 1990. [*Tomaso Albinoni: The Venetian Composer and his World*](https://openlibrary.org/works/OL12411555W/Tomaso_Albinoni). Oxford: Oxford University Press.
 
+Torp, Linda and Sara Sage. 2002. [*Problems as Possibilities: Problem-Based Learning for K–16 Education*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL3939353M%2FProblems_as_possibilities&sa=D&sntz=1&usg=AFQjCNFHjzXkoQSex2dFO2JB87ZkHTfFUQ), 2nd ed. Alexandria, VA: Association for Supervision and Curriculum Development. 
+
 Turek, Ralph. 2007. [*Theory for Today’s Musician*.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9969377M%2FTheory_for_Today's_Musician&sa=D&sntz=1&usg=AFQjCNHfwVm5eqicnOzuRUQsmhZ-F29ocA) New York: McGraw-Hill.
 
 Tymoczko, Dmitri. 2011. [*A Geometry of Music: Harmony and Counterpoint in the Extended Common Practice*.](http://www.google.com/url?q=http%3A%2F%2Fdmitri.tymoczko.com%2Fgeometry-of-music.html&sa=D&sntz=1&usg=AFQjCNFyoWqDYGXyy1jGcVM64chfMPNZoA) Oxford: Oxford University Press.
+
+Vega, Vanessa. 2012. “[Project-based Learning Research Review.](http://www.google.com/url?q=http%3A%2F%2Fwww.edutopia.org%2Fpbl-research-learning-outcomes&sa=D&sntz=1&usg=AFQjCNH1SQrWa8ted0ypiSiAOFRZLxIaeQ)” In *Edutopia*. December 3, 2012. Accessed July 10, 2014.
 
 Walvoord, Barbara E. Fassler. 1986. [*Helping Students Write Well*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL2719190M%2FHelping_students_write_well&sa=D&sntz=1&usg=AFQjCNFyIZZfDs5MQkGtMC8a_rwpDPBgXw). 2nd ed. New York: The Modern Language Association of America.
 
 Warfield, Scott. 2012. [“The Research Paper.”](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16557937W%2FThe_music_history_classroom&sa=D&sntz=1&usg=AFQjCNE-PrdoQcwihlzYZJbAyp8Cfl59pA) In *The Music History Classroom*, edited by James A. Davis, 125-140. Farnham, Surrey, England: Ashgate.
 
 Weimer, Maryellen. 2008. [*Learner-Centered Teaching: Five Key Changes to Practice*](http://books.google.com/books?id=X6IfawF1RNwC&pg=PR5&source=gbs_selected_pages&cad=3#v=onepage&q&f=false). San Francisco: John Wiley & Sons.
+
+White, Harold B. III. 2001a. “[A PBL Course that Uses Research Articles as Problems.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” In *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 131–40. Sterling, VA: Stylus.  
+
+White, Harold B. III. 2001b. “[Getting Started in Problem-Based Learning.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” In *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 69–78. Sterling, VA: Stylus.
 
 Wright, Craig, and Bryan Simms. 2010. [*Music in Western Civilization.*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL23677043M%2FMusic_in_western_civilization&sa=D&sntz=1&usg=AFQjCNHv2ec5rQCmQrbKZdi2EH2K_-yyIQ) Media update. Boston: Schirmer Cengage Learning.
 
