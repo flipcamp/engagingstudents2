@@ -19,15 +19,19 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 [Roger Graybill]({{ site.baseurl }}/essays/graybill.html), New England Conservatory  
 [John Hausmann]({{ site.baseurl }}/essays/hausmann.html), University of Louisville  
 [Shersten Johnson]({{ site.baseurl }}/essays/johnson.html), University of St. Thomas  
+[David Kulma]({{ site.baseurl }}/essays/kulmaNaxer.html), Winthrop University  
 [Erinn Knyt]({{ site.baseurl }}/essays/knyt.html), University of Massachusetts Amherst  
 [Gregory R. McCandless]({{ site.baseurl }}essays/mccandless.html), Full Sail University  
 [Garrett Michaelsen]({{ site.baseurl }}/essays/michaelsen.html), University of Massachusetts Lowell  
 [Jan Miyake]({{ site.baseurl }}/essays/miyake1.html), Oberlin College and Conservatory  
+[Brian Moseley]({{ site.baseurl }}/essays/moseley.html), University of Buffalo  
+[Meghan Naxer]({{ site.baseurl }}/essays/kulmaNaxer.html), University of Oregon  
 [Deborah Rifkin]({{ site.baseurl }}/essays/rifkin.html), Ithaca College  
 [Peter Schubert]({{ site.baseurl }}/essays/schubert.html), Schulich School of Music, McGill University  
 [Kris Shaffer]({{ site.baseurl }}/essays/shaffer.html), University of Colorado–Boulder  
 [Yona Stamatis]({{ site.baseurl }}/essays/stamatis.html), University of Illinois–Springfield  
 [Anna Stephan-Robinson]({{ site.baseurl }}/essays/stephanRobinson.html), West Liberty University  
+[Daniel Stevens]({{ site.baseurl }}/essays/stevens.html), University of Delaware  
 [Scott M. Strovas]({{ site.baseurl }}/essays/strovas.html), Wayland Baptist University  
 [Aaron Ziegel]({{ site.baseurl }}/essays/ziegel.html), Towson University  
 

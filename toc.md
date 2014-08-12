@@ -45,6 +45,9 @@ title: Table of Contents
 [Student Performance as Pedagogy in the Music History Survey Course]({{ site.baseurl }}/essays/knyt.html)  
 *Erinn Knyt*  
 
+[Beyond Part Writing&#58; Modernizing the Curriculum]({{ site.baseurl }}/essays/kulmaNaxer.html)  
+*David Kulma and Meghan Naxer*
+
 [On the Assessment of Technological Competence in Online Music Courses]({{ site.baseurl }}/essays/mccandless.html)  
 *Gregory R. McCandless*  
 
@@ -56,6 +59,9 @@ title: Table of Contents
 
 [Weekly (or more) Writing in the Music Theory Classroom]({{ site.baseurl }}/essays/miyake2.html)  
 *Jan Miyake*  
+
+[Using Criterion-Referenced Assessment to Encourage Active Analytical Listening]({{ site.baseurl }}/essays/moseley.html)  
+*Brian Moseley*
 
 [Towards a Philosophy of Student-Centered Music and Social Justice Learning]({{ site.baseurl }}/essays/stamatis.html)  
 *Yona Stamatis*
