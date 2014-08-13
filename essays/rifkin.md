@@ -12,7 +12,7 @@ How well do we foster creativity in our music theory classrooms? I think about t
 
 But, it could be.
 
-In this essay, I describe an analysis activity that was designed not only to promote creativity, but also to highlight timbre and texture—aspects of music that should, arguably, receive more attention in our undergraduate core curriculum. [Gary Karpinski](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL5736751W%2FAural_Skills_Acquisition&sa=D&sntz=1&usg=AFQjCNELhXpV3Zni9YDgJwvCmB1Gxcr_ZQ)also advocates for better inclusion of timbre and texture in our classes and describes some activities that could serve as warm-ups for the one described here. As timbre and texture ascend in significance in 20th and 21st-century music, it is important to incorporate activities that not only cultivate creativity, but also develop strategies to approach, understand, and interpret timbres and textures in unfamiliar repertoires.
+In this essay, I describe an analysis activity that was designed not only to promote creativity, but also to highlight timbre and texture—aspects of music that should, arguably, receive more attention in our undergraduate core curriculum. [Gary Karpinski](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL5736751W%2FAural_Skills_Acquisition&sa=D&sntz=1&usg=AFQjCNELhXpV3Zni9YDgJwvCmB1Gxcr_ZQ) also advocates for better inclusion of timbre and texture in our classes and describes some activities that could serve as warm-ups for the one described here. As timbre and texture ascend in significance in 20th and 21st-century music, it is important to incorporate activities that not only cultivate creativity, but also develop strategies to approach, understand, and interpret timbres and textures in unfamiliar repertoires.
 
 # Fostering creativity
 
@@ -37,7 +37,7 @@ In addition, we can minimize environmental conditions that inhibit creativity. S
 -   Expected evaluation of one’s work
 -   Contracted for reward (money)
 
-# A Case Study: Jennifer Higdon’s blue cathedral.
+# A Case Study: Jennifer Higdon’s *blue cathedral*
 
 With these traits and criteria in mind, I designed a series of in-class and outside-of-class activities intended to encourage and reward creativity, while also prioritizing timbre and texture in a musical analysis. I inaugurated these activities in a junior-level course on 20th-century music, but in retrospect I would like to include it much earlier in the curriculum. I chose Jennifer Higdon’s orchestral tone poem, [*blue cathedral*](https://www.google.com/url?q=https%3A%2F%2Fplay.spotify.com%2Fartist%2F4HvOjSY1H5ug51tsxrXcRW&sa=D&sntz=1&usg=AFQjCNFcejnQ6-Pm71ianENxrHdrxVGNLg) as the basis for our inquiry and exploration. (To listen to the linked Spotify track, you need a free Spotify account.) [Higdon](http://www.google.com/url?q=http%3A%2F%2Fjenniferhigdon.com%2Fbiography.html&sa=D&sntz=1&usg=AFQjCNExIQlF2PfeiwdBMjCKzreiFcFinQ) (b. 1962–) is a Pulitzer-prize winning composer, who wrote *blue cathedral* in 2000. The work has been performed by over 400 orchestras since its premiere, achieving a level of popularity that is extraordinary for a contemporary concert piece. It is beautiful, accessible, contemporary, and written by a woman composer. For many reasons, it is a good choice for this exercise.
 
