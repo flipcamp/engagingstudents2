@@ -32,7 +32,7 @@ Janet Bourne is a PhD candidate in Music Theory and Cognition at Northwestern Un
 
 ### Roger Graybill
 
-[Roger Graybill](http://www.google.com/url?q=http%3A%2F%2Fnecmusic.edu%2Ffaculty%2Froger-graybill%3Flid%3D2%26sid%3D3&sa=D&sntz=1&usg=AFQjCNFRe0Be1cOxgbvcv58n29lSV31Aqw)is on the faculty at the [New England Conservatory](http://www.google.com/url?q=http%3A%2F%2Fnecmusic.edu%2F&sa=D&sntz=1&usg=AFQjCNGmYS1q7nQPT3VKHvXlwIIhSezyKA), where he served as Theory Department Chair from 2002 to 2011.  His current research focuses on audiation- based theory training in the undergraduate core.  In the spring of 2014 he conducted a “grand tour” of music schools in Germany, Switzerland, the Netherlands, and the United States to research innovative and hands-on approaches to music theory pedagogy.
+[Roger Graybill](http://necmusic.edu/faculty/roger-graybill?lid=2&sid=3) is on the faculty at the [New England Conservatory](http://necmusic.edu), where he served as Theory Department Chair from 2002 to 2011.  His current research focuses on audiation- based theory training in the undergraduate core.  In the spring of 2014 he conducted a “grand tour” of music schools in Germany, Switzerland, the Netherlands, and the United States to research innovative and hands-on approaches to music theory pedagogy.
 
 ### John Hausmann
 
