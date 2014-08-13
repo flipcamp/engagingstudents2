@@ -52,7 +52,7 @@ John Hausmann is a PhD student at the University of Cincinnati College-Conservat
 
 ### Greg McCandless
 
-Greg McCandless is the Department Chair of Music Composition at Full Sail University. He holds degrees from the University of North Carolina at Chapel Hill and Florida State University. Research interests include theories of rhythm and meter, music theory pedagogy, and the analysis of popular music.
+Greg McCandless is the Department Chair of Music Composition at Full Sail University. He holds degrees from the University of North Carolina at Chapel Hill and Florida State University. Research interests include theories of rhythm and meter, music theory pedagogy, and the analysis of popular music.  His [dissertation](http://diginole.lib.fsu.edu/cgi/viewcontent.cgi?article=3611&context=etd&sei-redir=1&referer=http%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttp%253A%252F%252Fdiginole.lib.fsu.edu%252Fcgi%252Fviewcontent.cgi%253Farticle%253D3611%2526context%253Detd%26sa%3DD%26sntz%3D1%26usg%3DAFQjCNFMaMEpxyNyeAcE3kBnHBs9rmoyCA#search=%22http%3A%2F%2Fdiginole.lib.fsu.edu%2Fcgi%2Fviewcontent.cgi%3Farticle%3D3611%26context%3Detd%22) and related [article](http://www.mtosmt.org/issues/mto.13.19.2/mto.13.19.2.mccandless.php) in Music Theory Online focus on the music of the progressive metal band Dream Theater.
 
 ### Garrett Michaelsen
 
@@ -66,9 +66,9 @@ Greg McCandless is the Department Chair of Music Composition at Full Sail Univer
 
 Brian Moseley is Assistant Professor of Music Theory at the University at Buffalo, SUNY. He specializes in contemporary music and geometric models of music. He has published and presented on music by Anton Webern, George Crumb, and John Harbison; the intersection of improvisation and innovation as captured in musical sketches; and features of dialogue in Gustav Mahler’s music. He holds a Ph.D. in music theory from the Graduate Center at the City University of New York.
 
-### Naxer
+### Meghan Naxer
 
-
+[Meghan Naxer](http://www.naxernotes.com) is a doctoral student in music theory at the [University of Oregon](http://uoregon.edu). Her research interests include pedagogy, late-nineteenth-century music, the music of César Franck, rhythm and meter, and form. She has presented papers on some of these topics at regional, national, international, and interdisciplinary conferences. Meghan is also an active flutist and performs with the [Asculta!](http://www.ascultawwq.com) woodwind quintet. She holds degrees from the [University of Akron](http://www.uakron.edu) and [Kent State University](http://www.kent.edu).
 
 ### Deborah Rifkin
 
