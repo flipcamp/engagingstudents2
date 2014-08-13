@@ -38,8 +38,11 @@ Bain, Ken, and James Zimmerman. 2009. [“Understanding Great Teaching.”](http
 
 Baker, J. Wesley. 2000. "The 'Classroom Flip': Using Web Course Management Tools to Become the Guide by the Side." In [Selected Papers from the 11th International Conference on College Teaching and Learning (11th, Jacksonville, Florida, April 12-15, 2000)](http://www.worldcat.org/title/selected-papers-from-the-11th-international-conference-on-college-teaching-and-learning/oclc/45318580), edited by Jack A. Chambers. Jacksonville, FL: Florida Community Coll., Jacksonville Center for the Advancement of Teaching and Learning, 9–17.
 
+Bañagale, Ryan Raul. 2014. “[The ‘Video Essay’ as Collaborative Musicology Within and Without the Classroom](http://www.american-music.org/conferences/Lancaster/LancasterConferenceSchedule_Final.pdf).” Paper presented at the annual meeting for the Society for American Music, Lancaster, Pennsylvania, March 5–9, 2014.
+
 Barnett, Ronald. 2011. “[Lifewide Education: A New and Transformative Concept for Higher Education.](http://books.google.com/books?id=DrEkQmwbSRsC&pg=PA22&dq=life-wide+learning&lr=&source=gbs_toc_r&cad=3#v=onepage&q=life-wide%20learning&f=false)” In *Learning for a Complex World: A Lifewide Concept of Learning, Education and Personal Development*, edited by Norman J. Jackson, 22–38. Bloomington: AuthorHouse. 
->>>>>>> 9ddcb4b1804de133c406cecc92be4e802538453b
+
+Barr, Robert B., and John Tagg. 1995. “[From Teaching to Learning: A New Paradigm for Undergraduate Education](http://www.maine.edu/pdf/BarrandTagg.pdf).” In *Change* 27/6, 13–25.
 
 Bean, John C. 2001. [*Engaging Ideas: The Professor’s Guide to Integrating Writing, Critical Thinking, and Active Learning in the Classroom*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL12338350W%2FEngaging_ideas&sa=D&sntz=1&usg=AFQjCNH5Y2kQSMVyruZNJEz6lLFMgFI-WA). San Francisco: Jossey-Bass.  
 
@@ -51,6 +54,8 @@ Berkson, Laeora. 1993. “[Problem-based Learning: Have the Expectations been Me
 
 Black, Alison. 2010. [“Gen Y: Who They Are and How They Learn.”](http://www.google.com/url?q=http%3A%2F%2Feric.ed.gov%2F%3Fid%3DEJ872487&sa=D&sntz=1&usg=AFQjCNFe8HDTUcgFxiePmkBBklpbZ9if3Q) *Educational Horizons* 88, no. 2, 92-101.
 
+Blumberg, Phyllis. 2009. [*Developing Learner-Centered Teaching: A Practical Guide for Faculty*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL9240218W%2FDeveloping_Learner-Centered_Teaching_A_Practical_Guide_for_Faculty&sa=D&sntz=1&usg=AFQjCNG5NTAJ74Cc_nozNztk088xstIluQ). San Francisco: Jossey-Bass.
+
 Bonds, Mark Evan. 2009. [*A History of Music in Western Culture*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL22543533M%2FA_history_of_music_in_Western_culture&sa=D&sntz=1&usg=AFQjCNF0wFMD44dwUI_MU8jVhlokdwdNww), 3rd ed. Upper Saddle River, NJ: Prentice Hall.
 
 Boud, David and Grahame Feletti, ed. 1997. [*The Challenge of Problem-based Learning*.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL7967007M%2FThe_Challenge_of_Problem_Based_Learning&sa=D&sntz=1&usg=AFQjCNHBYip1SmhrFZBz5mdL1XZlCi9egw) 2nd ed. London: Kogan Page.
@@ -58,6 +63,8 @@ Boud, David and Grahame Feletti, ed. 1997. [*The Challenge of Problem-based Lear
 Bowe, Brian and John Cowan. 2004. “[A Comparative Evaluation of Problem-based Learning in Physics: A Lecture-based Course and a Problem-based Course.](https://openlibrary.org/books/OL9734827M/Challenging_Research_in_Problem_Based_Learning_(Understanding_Social_Research))” In *Challenging Research in Problem-based Learning*, edited by Maggi Savin-Baden and Kay Wilkie, 162–73. Berkshire: Open University Press.
 
 Brewer, Carol A. and Diane Smith, eds. 2009. [*Vision and Change in Undergraduate Biology Education: A Call to Arms*](http://www.google.com/url?q=http%3A%2F%2Fvisionandchange.org%2Ffiles%2F2013%2F11%2Faaas-VISchange-web1113.pdf&sa=D&sntz=1&usg=AFQjCNH3vxUYkztRo5EoBAEzmngP9Peq3w). Report organized jointly by the American Association for the Advancement of Science and the National Science Foundation.
+
+Brookfield, Stephen D. 2006. [*The Skillful Teacher: On Technique, Trust, and Responsiveness in the Classroom*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL2906374W%2FThe_skillful_teacher&sa=D&sntz=1&usg=AFQjCNGZmDwZjXArF_3XUYxYl8a-RP_qpA). San Francisco: Jossey-Bass. 
 
 Burden, Paul R. 2000. [*Powerful Classroom Management Strategies: Motivating Students to Learn*](http://books.google.com/books?id=BbJJzPLe_9IC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false). Thousand Oaks, CA: Corwin Press.
 
@@ -87,7 +94,11 @@ Cohen, Dan and Tom Scheinfeldt, eds. [“Hacking the Academy.”](http://www.goo
 
 Conway, Colleen M. and Thomas M. Hodgman. 2009. “Strategies for Active Learning in Music Classrooms.” in [Teaching Music in Higher Education](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL11994200W%2FTeaching_music_in_higher_education&sa=D&sntz=1&usg=AFQjCNGCeGOTd4gSjgT1Z_i0ZKVsBfZvvw). Oxford: Oxford University Press.
 
+———. 2009. [*Teaching Music in Higher Education*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL16974114M%2FTeaching_music_in_higher_education&sa=D&sntz=1&usg=AFQjCNF9i-VecPOsxb7_wMsbaAx9dtvXHA). Oxford: Oxford University Press.
+
 Cormier, David. 2012. [“Avoiding Resistance to Grading Contracts.”](http://www.google.com/url?q=http%3A%2F%2Fdavecormier.com%2Fedblog%2F2012%2F05%2F07%2Fgrading_contract%2F&sa=D&sntz=1&usg=AFQjCNG7wLyUqlgI58WAvFq2UrCc-JZRmQ) Personal blog. May 7, 2012. Accessed July 16, 2014.
+
+Cornelius-White, Jeffrey. 2007. “[Learner-Centered Teacher-Student Relationships are Effective: A Meta-Analysis](http://www.google.com/url?q=http%3A%2F%2Frer.sagepub.com%2Fcontent%2F77%2F1%2F113.short&sa=D&sntz=1&usg=AFQjCNE1YiKw6lndeeFJvPuJo6PjhGMAxQ).” In *Review of Educational Research* 77/1, 113–43.
 
 Covington, Kate. 1997. “[Improvisation in the Aural Curriculum: An Imperative](http://www.google.com/url?q=http%3A%2F%2Fsymposium.music.org%2Findex.php%3Foption%3Dcom_k2%26view%3Ditem%26id%3D2135%3Aimprovisation-in-the-aural-curriculum-an-imperative&sa=D&sntz=1&usg=AFQjCNF_034eruobHky2qgyj9vo_aZL3KA).” College Music Symposium 37.
 
@@ -107,7 +118,13 @@ Davidson, Cathy. 2009. [“How to Crowdsource Grading.”](http://www.google.com
 
 ———. 2011. [“Contract Grading + Peer Review: Here’s How It Works.”](http://www.google.com/url?q=http%3A%2F%2Fwww.hastac.org%2Fblogs%2Fcathy-davidson%2Fcontract-grading-peer-review-heres-how-it-works&sa=D&sntz=1&usg=AFQjCNEQXzXVprDcszSh4lAcUdu4ce9ojg) In HASTAC Blog. January 3, 2011. Accessed July 16, 2014.
 
+Davis, James A. 2007. “‘[All Sounds of Life and Rage:’ Musical Imagery in the Writings of Civil War Soldiers](http://www.google.com/url?q=http%3A%2F%2Fconnection.ebscohost.com%2Fc%2Farticles%2F42427672%2Fall-sounds-life-rage-musical-imagery-writings-civil-war-soldiers&sa=D&sntz=1&usg=AFQjCNHKE5MoCRZfTuJfk_uZDXb-uufhew).” In *Nineteenth Century Studies* 21, 183–97.
+
 de Clercq, Trevor. 2013. [“Towards a Flipped Aural Skills Classroom: Harnessing Recording Technology for Performance-Based Homework.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2FdeClercq.html&sa=D&sntz=1&usg=AFQjCNFS5ln7dEHE87dnYbodtijucAWSaw) In *Engaging Students: Essays in Music Pedagogy*.
+
+Doyle, Terry. 2008. [*Helping Students Learn in a Learner-Centered Environment: A Guide to Facilitating Learning in Higher Education*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL12271492M%2FHelping_Students_Learn_in_a_Learner-Centered_Environment&sa=D&sntz=1&usg=AFQjCNFCw6k5HQKgymZluwhtnVh7KKQLAg). Sterling, VI: Stylus.
+
+———. 2011. [Learner-Centered Teaching: Putting the Research on Learning into Practice](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL15941811W%2FLearner-centered_teaching&sa=D&sntz=1&usg=AFQjCNE_2MAbdgMaQKMMYeCuyHyZX2k0Wg). Sterling, VI: Stylus.
 
 Duker, Philip. 2013. ["Setting up a standards-based gradebook."](http://www.google.com/url?q=http%3A%2F%2Fwww.hackingmusictheory.com%2Fduker.html&sa=D&sntz=1&usg=AFQjCNHNgmJLiT3icvCtnu5HKjxsjZLZww) Hacking the Music Theory Classroom. Accessed July 17, 2014.
 
@@ -239,6 +256,8 @@ Mueller, Jon. 2012.[“What is Authentic Assessment?”](http://www.google.com/u
 
 Natvig, Mary. 2012. [“Classroom Activities.”](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16557937W%2FThe_music_history_classroom&sa=D&sntz=1&usg=AFQjCNE-PrdoQcwihlzYZJbAyp8Cfl59pA) In *The Music History Classroom*, edited by James A. Davis, 15-30. Farnham, Surrey, England: Ashgate.
 
+Nosich, Gerald. 2011. [*Learning to Think Things Through: A Guide to Critical Thinking Across the Curriculum*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL6447755W%2FLearning_to_Think_Things_Through&sa=D&sntz=1&usg=AFQjCNGKon9gLqTOo_YOHQibY3m-x8m2kg), 4th ed. Upper Saddle River, NJ: Prentice Hall.
+
 Novack, Joseph, and Alberto Canas. [“The Theory Underlying Concept Maps and How to Construct and Use Theme.”](http://www.google.com/url?q=http%3A%2F%2Fcmap.ihmc.us%2Fpublications%2Fresearchpapers%2Ftheorycmaps%2Ftheoryunderlyingconceptmaps.htm&sa=D&sntz=1&usg=AFQjCNHRuukwjE-emnBFt8TwD2ex1XgsUQ) Institute for Human and Machine Cognition. Accessed July 18, 2014.
 
 November, Nancy Rachel. 2011.  [“Literacy Loops and Online Groups: Promoting Writing Skills in Large Undergraduate Music Classes.”](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F31%2F59&sa=D&sntz=1&usg=AFQjCNG0HGg_HSh7mvEqLmjYeJ8JqrrBRg) *Journal of Music History Pedagogy* 2 (1): 5-23. Accessed July 31, 2014.
@@ -287,11 +306,18 @@ Schubert, Peter. 2011. ["Global Perspective on Music Theory Pedagogy: Thinking i
 
 Schubert, Peter and Christoph Neidhoefer. 2006. [*Baroque Counterpoint*.](https://openlibrary.org/works/OL1894222W/Baroque_counterpoint) Upper Saddle River, New Jersey: Prentice-Hall.
 
+Schuh, Kathy L. 2003. “[Knowledge Construction in the Learner-Centered Classroom](http://www.google.com/url?q=http%3A%2F%2Fpsycnet.apa.org%2F%3F%26fa%3Dmain.doiLanding%26doi%3D10.1037%2F0022-0663.95.2.426&sa=D&sntz=1&usg=AFQjCNGDDKIZsk889UZ-01En1gvE1I9B6g).” In *Journal of
+Educational Psychology* 95/2, 426–42.
+
+———. 2004. “[Learner-Centered Principles in Teacher-Centered Practices?](http://www.google.com/url?q=http%3A%2F%2Fpsycnet.apa.org%2Fpsycinfo%2F2004-21852-005&sa=D&sntz=1&usg=AFQjCNECil7bi0p4Ql1fNHCIpjDV3ov9DQ)” In *Teaching and Teacher Education* 20, 833–46.
+
 Schwartz, Peter, Stewart Mennin, and Graham Webb. 2001. [*Problem-based Learning: Case Studies, Experience, and Practice*.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9648209M%2FPROBLEM_BASED_LEARNING&sa=D&sntz=1&usg=AFQjCNG_OHBsGdOYJqOMHiyAZZoTEcJHIQ) London: Kogan Page.
 
 ———.[“My Undergraduate Skills-Intensive Counterpoint Learning Environment (MUSICLE).”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fschubert.html&sa=D&sntz=1&usg=AFQjCNHWU6wL0p_qdFS3fkoq9QiqpqIK8g) Engaging Students: Essays in Music Pedagogy, vol 1.  Accessed July 2, 2014.
 
 Seaton, Douglass. 2010. “Teaching Music History: Principles, Problems, and Proposals. [Vitalizing Music History Teaching](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL15489350W%2FVitalizing_music_history_teaching&sa=D&sntz=1&usg=AFQjCNE-1fegfThXW2AHcfOG3_ECPTKKLA).  Ed. James Briscoe. Monographs and Bibliographies in American Music. Nr. 20. Ed. Michael J. Budds. New York: Pendragon Press.
+
+Shadle, Douglas. 2012. “[Nothing Ordinary About It: The Mass Proper as Early Music Jigsaw Puzzle](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F66&sa=D&sntz=1&usg=AFQjCNEC31TwPh4fZpdxK2QMpKkx9M4CDg).” In *Journal of Music History Pedagogy* 3/1, 1–37.
 
 Shaffer, Kris. 2012. “[Introduction to Criterion-Referenced Grading](http://www.google.com/url?q=http%3A%2F%2Fkris.shaffermusic.com%2F2012%2F08%2Fintroduction-to-criterion-referenced-grading%2F&sa=D&sntz=1&usg=AFQjCNFGQgI-kO8qmJObwjkr0JxKEA9QZg)” Personal blog. August 10. Accessed June 2014.
 
@@ -317,6 +343,7 @@ Shaffer, Kris and Bryn Hughes. 2013. [“Flipping the Classroom: Three Methods.�
 
 Sharp, Gene. 1973. [*The Politics of Nonviolent Action*.](http://books.google.com/books/about/The_Politics_of_Nonviolent_Action.html?id=gA0XAAAAIAAJ&redir_esc=y) (3 vols.) Boston: Porter Sargent.
 
+
 Smith, Tim. 1991.[A Comparison of Pedagogical Resources in Solmization Systems](http://www.google.com/url?q=http%3A%2F%2Fjmtp.ou.edu%2Fjournal-article%2Fjmtp-journal-volume-5-number-1-all-articles&sa=D&sntz=1&usg=AFQjCNEx5N3AHB-EontEkSPKm_oIC5-62Q).”Journal of Music Theory Pedagogy5: 1-23.
 
 Steadman, Mimi. [“Using Classroom Assessment to Change Both Teaching and Learning.”](http://www.google.com/url?q=http%3A%2F%2Fwww.sdbor.edu%2Fservices%2Fstudentaffairs%2Fdocuments%2Fusingclassroomassessmenttochangebothteaching-learning.pdf&sa=D&sntz=1&usg=AFQjCNEIfJ0AgEOIxz1MzjXAEAcEj9uK9w) New Directions for Teaching and Learning 75: 23-35.
@@ -332,6 +359,8 @@ Strobel, Johannes and Angela van Barneveld. 2009. [“When is PBL More Effective
 Strovas, Scott M.  2011. [“Music in the First-Year Writing Classroom.”](https://www.google.com/url?q=https%3A%2F%2Fjournals.tdl.org%2Fceaforum%2Findex.php%2Fceaforum%2Farticle%2Fview%2F6340%2F5967https%3A%2Fjournals.tdl.org%2Fceaforum%2Findex.php%2Fceaforum%2Farticle%2Fview%2F6340%2F5967&sa=D&sntz=1&usg=AFQjCNFR8o8fH5__ZpssUVH3bTHt1AODQQ) *The CEA Forum* 40 (2): 24-42. Accessed July 11, 2014.
 
 Talbot, Michael. 1990. [*Tomaso Albinoni: The Venetian Composer and his World*](https://openlibrary.org/works/OL12411555W/Tomaso_Albinoni). Oxford: Oxford University Press.
+
+Tanner, Kimberly D. 2012. “[Promoting Student Metacognition](http://www.google.com/url?q=http%3A%2F%2Fwww.lifescied.org%2Fcontent%2F11%2F2%2F113.full.pdf%2Bhtm&sa=D&sntz=1&usg=AFQjCNFDAmnzzv8RN9nbGuNEpL782YhYOQ).” In *Life Sciences Education* 11/2, 113–120.
 
 [“Think-Pair-Share.”](http://www.google.com/url?q=http%3A%2F%2Fserc.carleton.edu%2Fintrogeo%2Finteractive%2Ftpshare.html&sa=D&sntz=1&usg=AFQjCNEMCezy3lx8CmJI6PULqgAx31E5Ow) Science Education Resource Center, Carleton College. Accessed July 18, 2014.
 
