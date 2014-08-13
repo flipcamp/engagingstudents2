@@ -17,7 +17,7 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 [Trevor de Clercq]({{ site.baseurl }}/essays/declercq.html), Middle Tennessee State University  
 [Philip Duker]({{ site.baseurl }}/essays/duker.html), University of Delaware  
 [Roger Graybill]({{ site.baseurl }}/essays/graybill.html), New England Conservatory  
-[John Hausmann]({{ site.baseurl }}/essays/hausmann.html), University of Louisville  
+[John Hausmann]({{ site.baseurl }}/essays/hausmann.html), University of Cincinnati College-Conservatory of Music    
 [Shersten Johnson]({{ site.baseurl }}/essays/johnson.html), University of St. Thomas  
 [David Kulma]({{ site.baseurl }}/essays/kulmaNaxer.html), Winthrop University  
 [Erinn Knyt]({{ site.baseurl }}/essays/knyt.html), University of Massachusetts Amherst  
