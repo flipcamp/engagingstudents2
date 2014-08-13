@@ -45,17 +45,11 @@ title: Table of Contents
 [Improvising to Learn/Learning to Improvise: Designing Scaffolded Group Improvisations for the Music Theory Classroom]({{ site.baseurl }}/essays/michaelsen.html)  
 *Garrett Michaelsen*  
 
-[A Mini-Flip of the Music Theory Classroom]({{ site.baseurl }}/essays/miyake1.html)  
-*Jan Miyake*  
-
 [Cultivating Creativity in the Music Theory Classroom&#58; Telling Tales with Texture and Timbre]({{ site.baseurl }}/essays/rifkin.html)  
 *Deborah Rifkin*
 
 [Teaching Music Analysis through Improvisation]({{ site.baseurl }}/essays/schubert.html)  
 *Peter Schubert*
-
-[Enhanced Podcasts as a Tool for the Academic Music Classroom]({{ site.baseurl }}/essays/stephanRobinson.html)  
-*Anna Stephan-Robinson*
 
 [Active Listening, Aural Imagination, and 19th-Century Program Music&#58; An In-Class "Experiment"]({{ site.baseurl }}/essays/ziegel.html)  
 *Aaron Ziegel*
@@ -82,7 +76,7 @@ title: Table of Contents
 [Using Criterion-Referenced Assessment to Encourage Active Analytical Listening]({{ site.baseurl }}/essays/moseley.html)  
 *Brian Moseley*
 
-
+(See also [Applying Problem-based Learning in the Music Theory Classroom]({{ site.baseurl }}/essays/dukerShafferStevens.html), Part III.)
 
 ## Technology ##
 
@@ -91,6 +85,12 @@ title: Table of Contents
 
 [On the Assessment of Technological Competence in Online Music Courses]({{ site.baseurl }}/essays/mccandless.html)  
 *Gregory R. McCandless*  
+
+[A Mini-Flip of the Music Theory Classroom]({{ site.baseurl }}/essays/miyake1.html)  
+*Jan Miyake*  
+
+[Enhanced Podcasts as a Tool for the Academic Music Classroom]({{ site.baseurl }}/essays/stephanRobinson.html)  
+*Anna Stephan-Robinson*
 
 
 ## Back matter ##
