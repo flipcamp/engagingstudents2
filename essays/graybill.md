@@ -38,7 +38,7 @@ The “Unitary” Model*
 
 The test of any pedagogical model is its entailments. Does it have practical ramifications that testify to its scope and power? I believe that the unitary model does. Here are a few examples:
 
--   Audiation training would receive high priority within the theory curriculum ([Klonoski](http://www.google.com/url?q=http%3A%2F%2Fjmtp.ou.edu%2Fjournal-article%2Fteaching-pitch-internalization-processes&sa=D&sntz=1&usg=AFQjCNGNsFceWnp5G-A-WAx9UyZ6M8dTwQ)[,](http://www.google.com/url?q=http%3A%2F%2Fjmtp.ou.edu%2Fjournal-article%2Fteaching-pitch-internalization-processes&sa=D&sntz=1&usg=AFQjCNGNsFceWnp5G-A-WAx9UyZ6M8dTwQ)[](http://www.google.com/url?q=http%3A%2F%2Fsymposium.music.org%2Findex.php%3Foption%3Dcom_k2%26view%3Ditem%26id%3D2216%3Athe-minds-ear-i-hear-music-and-no-one-is-performing%26Itemid%3D146&sa=D&sntz=1&usg=AFQjCNF9boRdNHljxt5AbcEGYLefsv8PYQ)[Covington](http://www.google.com/url?q=http%3A%2F%2Fsymposium.music.org%2Findex.php%3Foption%3Dcom_k2%26view%3Ditem%26id%3D2216%3Athe-minds-ear-i-hear-music-and-no-one-is-performing%26Itemid%3D146&sa=D&sntz=1&usg=AFQjCNF9boRdNHljxt5AbcEGYLefsv8PYQ)), since that skill now bears on all of the subdisciplines.
+-   Audiation training would receive high priority within the theory curriculum ([Klonoski](http://jmtp.ou.edu/journal-article/teaching-pitch-internalization-processes), [Covington](http://symposium.music.org/index.php?option=com_k2&view=item&id=2216:the-minds-ear-i-hear-music-and-no-one-is-performing&Itemid=146)), since that skill now bears on all of the subdisciplines.
 
 -   Since audiation itself is a skill, we would need to devise a long-range plan for training it. Such a developmental plan would need to engage all the subdisciplines in an integrated way; in addition, it would intersect with, but be distinct from, the traditional content-based path shown in a typical course syllabus.
 
@@ -48,7 +48,7 @@ With respect to part writing in particular:
 
 -   The unitary model addresses the deeply problematic role of part writing in undergraduate theory training. For too many of our students, it is a meaningless activity that has no bearing on experience (or vice versa). A unitary conceptualization views this as an unacceptable state of affairs; to put it in a positive way, the model grants a central role to audiation within the part-writing regimen.
 
--   Given the challenges of audiating an SATB texture, we might want to think carefully about whenand howto introduce part writing within the curriculum.
+-   Given the challenges of audiating an SATB texture, we might want to think carefully about when and how to introduce part writing within the curriculum.
 
 -   Since it is especially difficult to audiate four voices at once, we could encourage students to use hybrid strategies that combine thinking "in" and "about” music--say, by audiating the soprano and/or bass, while falling back on the "rules" if necessary for the inner voices.
 
