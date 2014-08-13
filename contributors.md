@@ -74,7 +74,9 @@ Brian Moseley is Assistant Professor of Music Theory at the University at Buffal
 
 [Deborah Rifkin](http://www.google.com/url?q=http%3A%2F%2Ffaculty.ithaca.edu%2Fdrifkin%2F&sa=D&sntz=1&usg=AFQjCNEct_R7w3mkgeBUKCpldqaJwaziNQ) is Associate Professor of Music Theory at [Ithaca College](http://www.google.com/url?q=http%3A%2F%2Fwww.ithaca.edu%2F&sa=D&sntz=1&usg=AFQjCNEIfRzTUvlnpTGMm_lDBQ55r8G9kA). Her research interests include 20th-century neo-tonal music, aural skills pedagogy, and narrativity in music. She recently served as Faculty-in-Residence and Associate Director of [HERS-Denver](http://www.google.com/url?q=http%3A%2F%2Fhersnet.org%2F&sa=D&sntz=1&usg=AFQjCNEnthUPXQX0oat4A7L110dnAJa_zQ), a two-week leadership institute for women in higher education. She earned her Ph.D from the Eastman School of Music (2000).
 
-### Nancy Rogers
+### Nancy Rogers ###
+
+[Nancy Rogers](http://www.music.fsu.edu/Faculty-and-Staff/Faculty/Nancy-Rogers) is an Associate Professor of Music Theory at The Florida State University, where she supervises first-year music theory and recently received a university-wide undergraduate teaching award.
 
 ### Peter Schubert
 
