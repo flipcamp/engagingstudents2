@@ -66,9 +66,9 @@ Greg McCandless is the Department Chair of Music Composition at Full Sail Univer
 
 Brian Moseley is Assistant Professor of Music Theory at the University at Buffalo, SUNY. He specializes in contemporary music and geometric models of music. He has published and presented on music by Anton Webern, George Crumb, and John Harbison; the intersection of improvisation and innovation as captured in musical sketches; and features of dialogue in Gustav Mahler’s music. He holds a Ph.D. in music theory from the Graduate Center at the City University of New York.
 
-### Naxer
+### Meghan Naxer
 
-
+[Meghan Naxer](http://www.naxernotes.com) is a doctoral student in music theory at the [University of Oregon](http://uoregon.edu). Her research interests include pedagogy, late-nineteenth-century music, the music of César Franck, rhythm and meter, and form. She has presented papers on some of these topics at regional, national, international, and interdisciplinary conferences. Meghan is also an active flutist and performs with the [Asculta!](http://www.ascultawwq.com) woodwind quintet. She holds degrees from the [University of Akron](http://www.uakron.edu) and [Kent State University](http://www.kent.edu).
 
 ### Deborah Rifkin
 
