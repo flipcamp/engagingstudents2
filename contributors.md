@@ -46,9 +46,9 @@ John Hausmann is a PhD student at the University of Cincinnati College-Conservat
 
 [Erinn Knyt](http://www.google.com/url?q=http%3A%2F%2Fwww.umass.edu%2Fmusic%2Ffaculty_knyt.php&sa=D&sntz=1&usg=AFQjCNFGLckSDkVwXoMCSu-JYCSvkr1VEw) is Assistant Professor of Music at the [University of Massachusetts Amherst](http://www.google.com/url?q=http%3A%2F%2Fwww.umass.edu%2Fmusic%2F&sa=D&sntz=1&usg=AFQjCNH7aD5c_gHxKjJgh08XukA38vhCpg) where she teaches courses in music history. Her research interests include 19th- and 20th-century music, aesthetics, performance studies, and music history pedagogy. Her work is published in *American Music*, *Twentieth Century Music*, *Journal of the Royal Musical Association*, *Journal of Musicology*, and *Journal of Music History Pedagogy*. She holds a Ph.D. in Music and Humanities from Stanford University.
 
-### Kulma
+### David Kulma
 
-
+[David Kulma](http://www.davidkulma.com/Pages/default.aspx) teaches music theory at Winthrop University. 
 
 ### Greg McCandless
 
