@@ -161,8 +161,6 @@ Gawboy, Anna. 2013. ["Hacking the Music Theory Lecture."](http://www.hackingmusi
 
 ———. 2013. “[On Standards and Assessment](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fgawboy.html&sa=D&sntz=1&usg=AFQjCNEmuGP7NpoBme7MwEIw8FVH1VlqUA).” *Engaging Students: Essays in Music Pedagogy*.
 
-Genther, Eileen. 2011. [“Music and Social Justice Syllabus, Summer, 2011.”](http://www.google.com/url?q=http%3A%2F%2Fwww.wesleyseminary.edu%2FPortals%2F0%2FDocuments%2FSummer%2520Programs%2FMusic%2520and%2520Social%2520Justice%2520summer11.pdf&sa=D&sntz=1&usg=AFQjCNF98CNlsCeKhOU_qHJITYdAhgyXyA) Accessed July 10, 2014.
-
 Gjerdingen, Robert. 2007. [*Music in the Galant Style*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL18014958M%2FMusic_in_the_galant_style&sa=D&sntz=1&usg=AFQjCNFqyYLDwRnmxTqymgsRTvrAs9-Pig). New York: Oxford University Press.
 
 Google Support. “[Create and rename documents, spreadsheets, and presentations](https://support.google.com/docs/answer/49114?hl=en).” Accessed July 20, 2014.
@@ -172,6 +170,8 @@ Gordon, Edwin T. [“Audiation.”](http://giml.org/mlt/audiation/) *GIML: The G
 Gosden, Stephen. 2013. ["The 'Technology Tools' Session at FlipCamp Music Theory."](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fgosden.html&sa=D&sntz=1&usg=AFQjCNHcdPQjBI-EYErJWHPL1qsGEpGQSw) *Engaging Students: Essays in Music Pedagogy*. Accessed July 17, 2014.
 
 Grymes, James and John Allemeir. 2014. ["Making Students Make Music: Integrating Composition and Improvisation into the Early Music Classroom."](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F122&sa=D&sntz=1&usg=AFQjCNGx-cewQenvL932f8VyXBQ8rYLeGg) *Journal of Music History Pedagogy* 4 (2): 231-54.
+
+Guenther, Eileen. 2011. [“Music and Social Justice Syllabus, Summer, 2011.”](http://www.google.com/url?q=http%3A%2F%2Fwww.wesleyseminary.edu%2FPortals%2F0%2FDocuments%2FSummer%2520Programs%2FMusic%2520and%2520Social%2520Justice%2520summer11.pdf&sa=D&sntz=1&usg=AFQjCNF98CNlsCeKhOU_qHJITYdAhgyXyA) Accessed July 10, 2014.
 
 Hacker, Diana, and Nancy Sommers. 2011. [*A Writer’s Reference*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16082083W%2FA_writer%2527s_reference&sa=D&sntz=1&usg=AFQjCNFjU6u4KDh7cD2REdrsKYkk251vAQ). 7th edition. Boston: Bedford/St. Martins.
 
