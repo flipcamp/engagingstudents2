@@ -46,10 +46,11 @@ For the second part of this assignment, complete this defining features matrix. 
 
 
 | Stylistic Features | Piece  1 | Piece  2 | Piece  3 | Piece  4 | Piece  5 |
-|-|-|-|-|-|-|
-
-
-
+|--------------------|----------|----------|----------|----------|----------|
+|                    |          |          |          |          |          |
+|                    |          |          |          |          |          |
+|                    |          |          |          |          |          |
+|                    |          |          |          |          |          |
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
