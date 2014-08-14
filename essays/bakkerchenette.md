@@ -15,7 +15,7 @@ Music theory is a major part of the academic core of any music curriculum, and o
 1: Goals and Benefits of Writing 
 --------------------------------
 
-Perhaps the most obvious benefit of writing is that as a synoptic activity, and as a set of component skills (citing sources, using appropriate terminology, etc.), it builds a foundation for success in academia. While this is valuable, writing’s benefits go far beyond this. The following list of benefits and goals may help instructors identify their priorities, facilitating tailored assignments such as those listed in Section 2. They can also help instructors design [alternative assessments/activities](http://www.google.com/url?q=http%3A%2F%2Fwww.cast.org%2Fudl%2F&sa=D&sntz=1&usg=AFQjCNHeFafOViHfO-zgziYTlKr8DPmaRw)for students with learning disabilities or ESL students, who may achieve these goals more appropriatelyin other ways.
+Perhaps the most obvious benefit of writing is that as a synoptic activity, and as a set of component skills (citing sources, using appropriate terminology, etc.), it builds a foundation for success in academia. While this is valuable, writing’s benefits go far beyond this. The following list of benefits and goals may help instructors identify their priorities, facilitating tailored assignments such as those listed in [Section 2](#section2). They can also help instructors design [alternative assessments/activities](http://www.google.com/url?q=http%3A%2F%2Fwww.cast.org%2Fudl%2F&sa=D&sntz=1&usg=AFQjCNHeFafOViHfO-zgziYTlKr8DPmaRw)for students with learning disabilities or ESL students, who may achieve these goals more appropriatelyin other ways.
 
 Writing aids in effective communication, as it:
 
@@ -41,6 +41,8 @@ Perhaps most important in an academic setting, writing promotes critical thinkin
 -   and makes connections to other fields, particularly the Humanities, in the use of hermeneutics.
 
 The benefits of writing as a promoter of effective communication, student engagement, and critical thinking, accrue in all sorts of writing assignments, including the traditional paper. The production of a good academic paper (or not), however, is not necessarily an indication of progress towards these objectives. Some students will learn more from working through several smaller assignments with more specific, component goals.
+
+<a name="section2"/>
 
 2: Broadening the Types of Writing we Assign 
 --------------------------------------------
