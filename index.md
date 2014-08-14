@@ -21,7 +21,7 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 [Shersten Johnson]({{ site.baseurl }}/essays/johnson.html), University of St. Thomas  
 [David Kulma]({{ site.baseurl }}/essays/kulmaNaxer.html), Winthrop University  
 [Erinn Knyt]({{ site.baseurl }}/essays/knyt.html), University of Massachusetts Amherst  
-[Gregory R. McCandless]({{ site.baseurl }}essays/mccandless.html), Full Sail University  
+[Gregory R. McCandless]({{ site.baseurl }}/essays/mccandless.html), Full Sail University  
 [Garrett Michaelsen]({{ site.baseurl }}/essays/michaelsen.html), University of Massachusetts Lowell  
 [Jan Miyake]({{ site.baseurl }}/essays/miyake1.html), Oberlin College and Conservatory  
 [Brian Moseley]({{ site.baseurl }}/essays/moseley.html), The University at Buffalo, SUNY  
