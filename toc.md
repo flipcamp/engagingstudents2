@@ -33,7 +33,7 @@ title: Table of Contents
 
 ## Practice ##
 
-[Applying Problem-based Learning in the Music Theory Classroom]({{ site.baseurl }}/essays/dukerShafferStevens.html)  
+[Problem-Based Learning in Music&#58; A Guide for Instructors]({{ site.baseurl }}/essays/dukerShafferStevens.html)  
 *Philip Duker, Kris Shaffer, and Daniel Stevens*
 
 [Recomposition as Low-Stakes Analysis]({{ site.baseurl }}/essays/johnson.html)  
@@ -76,7 +76,7 @@ title: Table of Contents
 [Using Criterion-Referenced Assessment to Encourage Active Analytical Listening]({{ site.baseurl }}/essays/moseley.html)  
 *Brian Moseley*
 
-(See also [Applying Problem-based Learning in the Music Theory Classroom]({{ site.baseurl }}/essays/dukerShafferStevens.html), Part III.)
+(See also [Assessing Problem-Based Learning]({{ site.baseurl }}/essays/shaffer.html).)
 
 ## Technology ##
 

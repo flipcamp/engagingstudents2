@@ -11,9 +11,10 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 
 ### Authors ###
 
-[Brian Alegant]({{ site.baseurl }}/essays/alegant.html), Oberlin College  
-[Sara Bakker and Timothy Chenette]({{ site.baseurl }}/essays/bakkerchenette.html), Utah State University  
+[Brian Alegant]({{ site.baseurl }}/essays/alegant.html), Oberlin College and Conservatory  
+[Sara Bakker]({{ site.baseurl }}/essays/bakkerchenette.html), Utah State University  
 [Janet Bourne]({{ site.baseurl }}/essays/bourne.html), Northwestern University  
+[Timothy Chenette]({{ site.baseurl }}/essays/bakkerchenette.html), Utah State University  
 [Trevor de Clercq]({{ site.baseurl }}/essays/declercq.html), Middle Tennessee State University  
 [Philip Duker]({{ site.baseurl }}/essays/duker.html), University of Delaware  
 [Roger Graybill]({{ site.baseurl }}/essays/graybill.html), New England Conservatory  
@@ -21,7 +22,7 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 [Shersten Johnson]({{ site.baseurl }}/essays/johnson.html), University of St. Thomas  
 [David Kulma]({{ site.baseurl }}/essays/kulmaNaxer.html), Winthrop University  
 [Erinn Knyt]({{ site.baseurl }}/essays/knyt.html), University of Massachusetts Amherst  
-[Gregory R. McCandless]({{ site.baseurl }}essays/mccandless.html), Full Sail University  
+[Gregory R. McCandless]({{ site.baseurl }}/essays/mccandless.html), Full Sail University  
 [Garrett Michaelsen]({{ site.baseurl }}/essays/michaelsen.html), University of Massachusetts Lowell  
 [Jan Miyake]({{ site.baseurl }}/essays/miyake1.html), Oberlin College and Conservatory  
 [Brian Moseley]({{ site.baseurl }}/essays/moseley.html), The University at Buffalo, SUNY  

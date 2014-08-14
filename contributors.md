@@ -13,14 +13,15 @@ title: Contributors
 
 ### Sara Bakker
 
+Sara Bakker is Lecturer in Music Theory at Utah State University with a special interest in integrating prose writing in her teaching.  Her dissertation, entitled “Playing with Patterns: Isorhythmic Strategies in György Ligeti’s Late Piano Works,” investigates the connection between rhythmic repetition and its large-scale significance.  Other research interests include rhythm and meter in modern music, Hungarian text setting, and the music of Béla Bartók, topics she has presented at regional, national and international conferences. 
 
 ### Janet Bourne
 
 Janet Bourne is a PhD candidate in Music Theory and Cognition at Northwestern University. Her research interests involve the cognition behind musical communication: musical categories (schema theory and topic theory), analogy and music, cultural context of the listener, applying linguistic theories to music, and musical humor, parody and irony. She will serve as a 2014-2015 [Graduate Teaching Fellow](http://www.google.com/url?q=http%3A%2F%2Fwww.northwestern.edu%2Fsearle%2Fprograms-events%2Fgrad%2Fgraduate-teaching-fellows%2Findex.html&sa=D&sntz=1&usg=AFQjCNFCljUR1Scc1IRvbSsKCot5yxRe5w) for Northwestern University’s Searle Center for Advancing Learning and Teaching.
 
-### Tim Chennette
+### Tim Chenette
 
-
+Tim Chenette is head of the music theory area at Utah State University. He has a particular pedagogical interest in the teaching of aural skills. His research projects include analysis of harmony and counterpoint in late 16th-century polyphony and metric analysis of late 14th-century music.
 
 ### Trevor de Clercq
 
@@ -48,11 +49,11 @@ John Hausmann is a PhD student at the University of Cincinnati College-Conservat
 
 ### David Kulma
 
-[David Kulma](http://www.davidkulma.com/Pages/default.aspx) teaches music theory at Winthrop University. 
+[David Kulma](http://www.winthrop.edu/cvpa/faculty/default.aspx?id=27510) teaches music theory, aural skills, and music technology classes at [Winthrop University](http://www.winthrop.edu/cvpa/music/) as an adjunct professor. He is [active](http://www.davidkulma.com) as a composer, freelance oboist, and performance artist. His holds bachelor’s and master’s degrees from [Kent State University](http://www2.kent.edu/music/index.cfm).
 
-### Greg McCandless
+### Gregory R. McCandless
 
-Greg McCandless is the Department Chair of Music Composition at Full Sail University. He holds degrees from the University of North Carolina at Chapel Hill and Florida State University. Research interests include theories of rhythm and meter, music theory pedagogy, and the analysis of popular music.  His [dissertation](http://diginole.lib.fsu.edu/cgi/viewcontent.cgi?article=3611&context=etd&sei-redir=1&referer=http%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttp%253A%252F%252Fdiginole.lib.fsu.edu%252Fcgi%252Fviewcontent.cgi%253Farticle%253D3611%2526context%253Detd%26sa%3DD%26sntz%3D1%26usg%3DAFQjCNFMaMEpxyNyeAcE3kBnHBs9rmoyCA#search=%22http%3A%2F%2Fdiginole.lib.fsu.edu%2Fcgi%2Fviewcontent.cgi%3Farticle%3D3611%26context%3Detd%22) and related [article](http://www.mtosmt.org/issues/mto.13.19.2/mto.13.19.2.mccandless.php) in Music Theory Online focus on the music of the progressive metal band Dream Theater.
+Gregory R. McCandless is the Department Chair of Music Composition at Full Sail University. He holds degrees from the University of North Carolina at Chapel Hill and Florida State University. Research interests include theories of rhythm and meter, music theory pedagogy, and the analysis of popular music.  His [dissertation](http://diginole.lib.fsu.edu/cgi/viewcontent.cgi?article=3611&context=etd&sei-redir=1&referer=http%3A%2F%2Fwww.google.com%2Furl%3Fq%3Dhttp%253A%252F%252Fdiginole.lib.fsu.edu%252Fcgi%252Fviewcontent.cgi%253Farticle%253D3611%2526context%253Detd%26sa%3DD%26sntz%3D1%26usg%3DAFQjCNFMaMEpxyNyeAcE3kBnHBs9rmoyCA#search=%22http%3A%2F%2Fdiginole.lib.fsu.edu%2Fcgi%2Fviewcontent.cgi%3Farticle%3D3611%26context%3Detd%22) and related [article](http://www.mtosmt.org/issues/mto.13.19.2/mto.13.19.2.mccandless.php) in Music Theory Online focus on the music of the progressive metal band Dream Theater.
 
 ### Garrett Michaelsen
 
