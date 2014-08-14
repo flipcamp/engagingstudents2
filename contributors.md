@@ -48,7 +48,7 @@ John Hausmann is a PhD student at the University of Cincinnati College-Conservat
 
 ### David Kulma
 
-[David Kulma](http://www.davidkulma.com/Pages/default.aspx) teaches music theory at Winthrop University. 
+[David Kulma](http://www.winthrop.edu/cvpa/faculty/default.aspx?id=27510) teaches music theory, aural skills, and music technology classes at [Winthrop University](http://www.winthrop.edu/cvpa/music/) as an adjunct professor. He is [active](http://www.davidkulma.com) as a composer, freelance oboist, and performance artist. His holds bachelor’s and master’s degrees from [Kent State University](http://www2.kent.edu/music/index.cfm).
 
 ### Greg McCandless
 

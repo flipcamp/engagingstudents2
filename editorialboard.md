@@ -13,7 +13,7 @@ Philip Duker, University of Delaware, coordinator
 Dave Easley, Oklahoma City University  
 Anna Gawboy, Ohio State University, coordinator  
 Philip Gentry, University of Delaware  
-Stephen Gosden, Oberlin College  
+Stephen Gosden, University of North Florida  
 Bryn Hughes, University of Miami, coordinator  
 Enoch Jacobus, independent scholar, Berea, Kentucky  
 Daniel Jenkins, University of South Carolina  
