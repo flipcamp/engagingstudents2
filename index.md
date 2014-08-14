@@ -12,8 +12,9 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 ### Authors ###
 
 [Brian Alegant]({{ site.baseurl }}/essays/alegant.html), Oberlin College and Conservatory  
-[Sara Bakker and Timothy Chenette]({{ site.baseurl }}/essays/bakkerchenette.html), Utah State University  
+[Sara Bakker]({{ site.baseurl }}/essays/bakkerchenette.html), Utah State University  
 [Janet Bourne]({{ site.baseurl }}/essays/bourne.html), Northwestern University  
+[Timothy Chenette]({{ site.baseurl }}/essays/bakkerchenette.html), Utah State University  
 [Trevor de Clercq]({{ site.baseurl }}/essays/declercq.html), Middle Tennessee State University  
 [Philip Duker]({{ site.baseurl }}/essays/duker.html), University of Delaware  
 [Roger Graybill]({{ site.baseurl }}/essays/graybill.html), New England Conservatory  

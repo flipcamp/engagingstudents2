@@ -19,9 +19,9 @@ Sara Bakker is Lecturer in Music Theory at Utah State University with a special 
 
 Janet Bourne is a PhD candidate in Music Theory and Cognition at Northwestern University. Her research interests involve the cognition behind musical communication: musical categories (schema theory and topic theory), analogy and music, cultural context of the listener, applying linguistic theories to music, and musical humor, parody and irony. She will serve as a 2014-2015 [Graduate Teaching Fellow](http://www.google.com/url?q=http%3A%2F%2Fwww.northwestern.edu%2Fsearle%2Fprograms-events%2Fgrad%2Fgraduate-teaching-fellows%2Findex.html&sa=D&sntz=1&usg=AFQjCNFCljUR1Scc1IRvbSsKCot5yxRe5w) for Northwestern University’s Searle Center for Advancing Learning and Teaching.
 
-### Tim Chennette
+### Tim Chenette
 
-
+Tim Chenette is head of the music theory area at Utah State University. He has a particular pedagogical interest in the teaching of aural skills. His research projects include analysis of harmony and counterpoint in late 16th-century polyphony and metric analysis of late 14th-century music.
 
 ### Trevor de Clercq
 

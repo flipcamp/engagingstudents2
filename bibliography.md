@@ -223,6 +223,8 @@ Liszt, Franz. 1855. “[*Berlioz and His Harold Symphony*](https://is.muni.cz/el
 
 Ludwig, Alexander R. 2013. [“Using Twitter in the Music History Classroom.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fludwig.html&sa=D&sntz=1&usg=AFQjCNHmb5gNPvqGZFWeD6k8fpvJZmKsyg) *Engaging Students: Essays in Music Pedagogy*. Accessed July 11, 2014.
 
+Macbeth, Karen P. 2006. [“Diverse, Unforeseen, and Quaint Difficulties: The Sensible Responses of Novices Learning to Follow Instructions in Academic Writing.”](http://www.jstor.org/stable/40171696) *Research in the Teaching of English* 41, No. 2: 180–207.
+
 Maclellan, Effie and Soden, R. 2004. ["The importance of epistemic cognition in student-centered learning"](http://strathprints.strath.ac.uk/5509/1/strathprints005509.pdf). *Instructional Science* 32 (3): 253-68.
 
 MacMeekin, Mia. 2014. “[Bloom’s Revised Taxonomy with Verbs!](http://anethicalisland.wordpress.com/2014/06/05/blooms-revised-taxonomy-with-verbs/)” *AN ETHICAL ISLAND: How to Teach Without a Lecture and other fun.* Accessed July 20, 2014.  
@@ -254,6 +256,8 @@ Mueller, Jon. 2012.[“What is Authentic Assessment?”](http://www.google.com/u
 [National Association of Schools of Music Handbook](http://www.google.com/url?q=http%3A%2F%2Fnasm.arts-accredit.org%2Fsite%2Fdocs%2FHandbook%2FNASM_HANDBOOK_2013-14.pdf&sa=D&sntz=1&usg=AFQjCNFYMnqk-vb5_rndyrgs8gr2USNDUA), 2013-2014.  Accessed June 30, 2014
 
 Natvig, Mary. 2012. [“Classroom Activities.”](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16557937W%2FThe_music_history_classroom&sa=D&sntz=1&usg=AFQjCNE-PrdoQcwihlzYZJbAyp8Cfl59pA) *The Music History Classroom*, edited by James A. Davis, 15-30. Farnham, Surrey, England: Ashgate.
+
+Nelson, Jennie. 1990. [“This Was an Easy Assignment: Examining How Students Interpret Academic Writing Tasks.”](http://www.nwp.org/cs/public/download/nwp_file/159/TR43.pdf?x-r=pcfile_d) *Research in the Teaching of English* 24, No. 4: 362–396.
 
 Nosich, Gerald. 2011. [*Learning to Think Things Through: A Guide to Critical Thinking Across the Curriculum*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL6447755W%2FLearning_to_Think_Things_Through&sa=D&sntz=1&usg=AFQjCNGKon9gLqTOo_YOHQibY3m-x8m2kg), 4th edition. Upper Saddle River, NJ: Prentice Hall.
 
@@ -382,6 +386,8 @@ Weimer, Maryellen. 2008. [*Learner-Centered Teaching: Five Key Changes to Practi
 White, Harold B. III. 2001a. “[A PBL Course that Uses Research Articles as Problems.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 131–40. Sterling, VA: Stylus.
 
 White, Harold B. III. 2001b. “[Getting Started in Problem-Based Learning.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 69–78. Sterling, VA: Stylus.
+
+Wolsey, Thomas DeVere, et al. 2012. [“Students' and Teachers' Perceptions: An Inquiry Into Academic Writing.”](http://www.fisherandfrey.com.previewdns.com/_admin/_filemanager/File/Writing_Percept_JAAL.pdf) *Journal of Adolescent & Adult Literacy* 55, No. 8: 714–724.
 
 Wright, Craig, and Bryan Simms. 2010. [*Music in Western Civilization.*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL23677043M%2FMusic_in_western_civilization&sa=D&sntz=1&usg=AFQjCNHv2ec5rQCmQrbKZdi2EH2K_-yyIQ) Media update. Boston: Schirmer Cengage Learning.
 
