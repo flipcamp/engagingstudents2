@@ -17,8 +17,7 @@ Music theory is a major part of the academic core of any music curriculum, and o
 
 Perhaps the most obvious benefit of writing is that as a synoptic activity, and as a set of component skills (citing sources, using appropriate terminology, etc.), it builds a foundation for success in academia. While this is valuable, writing’s benefits go far beyond this. The following list of benefits and goals may help instructors identify their priorities, facilitating tailored assignments such as those listed in Section 2. They can also help instructors design [alternative assessments/activities](http://www.google.com/url?q=http%3A%2F%2Fwww.cast.org%2Fudl%2F&sa=D&sntz=1&usg=AFQjCNHeFafOViHfO-zgziYTlKr8DPmaRw)for students with learning disabilities or ESL students, who may achieve these goals more appropriatelyin other ways.
 
-Writing aids in effective communication, as it:
-
+Writing aids in effective communication, as it:  
 -   allows practicing of mechanics such as grammar, spelling, good sentences, etc.;
 -   forces articulation of ideas that might be vague or incomplete;
 -   facilitates planning, organization, and evaluation of communication;

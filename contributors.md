@@ -13,6 +13,7 @@ title: Contributors
 
 ### Sara Bakker
 
+Sara Bakker is Lecturer in Music Theory at Utah State University with a special interest in integrating prose writing in her teaching.  Her dissertation, entitled “Playing with Patterns: Isorhythmic Strategies in György Ligeti’s Late Piano Works,” investigates the connection between rhythmic repetition and its large-scale significance.  Other research interests include rhythm and meter in modern music, Hungarian text setting, and the music of Béla Bartók, topics she has presented at regional, national and international conferences. 
 
 ### Janet Bourne
 
