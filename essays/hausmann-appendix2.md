@@ -44,23 +44,19 @@ For example:
 
 For the second part of this assignment, complete this defining features matrix. This matrix needs to have ten (10) stylistic features, six (6) of which should be musical. The other four (4) items can either be musical or social (who uses the piece, what they use it for, etc.). If you need inspiration, use our listening framework––what instruments/voices you hear, what texture you hear, etc.
 
-[](#)[](#)
 
-Stylistic Feature
+| Stylistic Features | Piece  1 | Piece  2 | Piece  3 | Piece  4 | Piece  5 |
+|-|-|-|-|-|-|
 
-Piece \#1
 
-Piece \#2
 
-Piece \#3
 
-Piece \#4
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
-Piece \#5
-
-For example:
-
-[](#)[](#)
 
 Stylistic Feature
 
