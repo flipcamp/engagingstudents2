@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part II&#58; Applying Problem-based Learning in the Music Theory Classroom
+title: Part 2&#58; Applying Problem-Based Learning in the Music Theory Classroom
 author: Philip Duker, University of Delaware
 ---
 
@@ -52,7 +52,7 @@ As Peter Schubert and others have shown, improvisation can be a wonderful elemen
 
 One of the remaining challenge of adopting PBL is how to assess student work, which includes not only the acquisition of content knowledge but also group processes and the achievement of higher-level learning goals. Kris Shaffer's Part III will deal with this issue, along with the other challenges of providing meaningful feedback and translating student assessment into course grades.
 
-[Part 1: Problem-based Learning: A Rationale]({{ site.baseurl }}/essays/stevens.html), Daniel Stevens  
+[Part 1: Problem-Based Learning in the Music Classroom, A Rationale]({{ site.baseurl }}/essays/stevens.html), Daniel Stevens  
 [Part 3: Assessing Problem-Based Learning]({{ site.baseurl }}/essays/shaffer.html), Kris Shaffer
 
 
