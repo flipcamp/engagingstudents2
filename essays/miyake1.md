@@ -30,17 +30,17 @@ Here are six tried-and-true guidelines for creating and incorporating podcasts i
 
 ​(3) Consider providing a simple handout or link to a good website.
 
-​(4) Allow only two takes.  It will not be perfect and it will not be ultra professional. That's ok. Assuming only your students are listening, they generally see the professional side of you at school and enjoy hearing you in a more informal setting. Figure 2 and Example 1 would be used for the same lesson in Music Theory 2. Figure 2 is a screenshot of what students see in their course management system (Blackboard, in this case). Example 1 is the podcast, created using GarageBand.
+​(4) Allow only two takes.  It will not be perfect and it will not be ultra professional. That's ok. Assuming only your students are listening, they generally see the professional side of you at school and enjoy hearing you in a more informal setting. Figure 2 and Example 3 would be used for the same lesson in Music Theory 2. Figure 2 is a screenshot of what students see in their course management system (Blackboard, in this case). Example 3 is the podcast, created using GarageBand.
 
 **Figure 2.** A course management system presentation of a podcast.
 
 ![Example1a.tiff](images/JM-image01.jpg)
 
-**Example 1.** [Example of a podcast from Theory 2.](https://drive.google.com/file/d/0B5EJ9_DmZ6CBVDRTTkVyU3drVFk/edit?usp=sharing)
+**Example 3.** [Example of a podcast from Theory 2.](https://drive.google.com/file/d/0B5EJ9_DmZ6CBVDRTTkVyU3drVFk/edit?usp=sharing)
 
-​(5) Always hold students accountable for the content of a podcast by following it with low-stakes (pass/fail) testing. As discussed in a [recent New York Times article](http://www.google.com/url?q=http%3A%2F%2Fwww.nytimes.com%2F2014%2F07%2F20%2Fopinion%2Fsunday%2Fhow-tests-make-us-smarter.html%3Fref%3Dopinion%26_r%3D1&sa=D&sntz=1&usg=AFQjCNHhLG-QpyREnPNxYEZqze5zBiTUOQ), “used properly, testing as part of an educational routine provides an important tool not just to measure learning, but to promote it.” Knowing they will be evaluated with a short quiz ensures that there is a downside for students who do not take the podcast seriously.  Consider giving the quiz right when class starts and adhering to a pre-advertised, strictly enforced time limit—five minutes is usually sufficient. Students will work to build fluency and get answers to basic question before class starts. Enforcing a time limit guarantees the instructor does not lose class time to testing and has a small amount of time to return assignments and take care of other administrivia while students work. The short quiz also can help decrease tardiness. Figure 3 provides the tiny quiz given the Monday after Spring Break on the applied chords podcast. There is nothing tricky about this three-point quiz.  Passing grades resulted from earning ⅔ or more of the total points.
+​(5) Always hold students accountable for the content of a podcast by following it with low-stakes (pass/fail) testing. As discussed in a [recent New York Times article](http://www.google.com/url?q=http%3A%2F%2Fwww.nytimes.com%2F2014%2F07%2F20%2Fopinion%2Fsunday%2Fhow-tests-make-us-smarter.html%3Fref%3Dopinion%26_r%3D1&sa=D&sntz=1&usg=AFQjCNHhLG-QpyREnPNxYEZqze5zBiTUOQ), “used properly, testing as part of an educational routine provides an important tool not just to measure learning, but to promote it.” Knowing they will be evaluated with a short quiz ensures that there is a downside for students who do not take the podcast seriously.  Consider giving the quiz right when class starts and adhering to a pre-advertised, strictly enforced time limit—five minutes is usually sufficient. Students will work to build fluency and get answers to basic question before class starts. Enforcing a time limit guarantees the instructor does not lose class time to testing and has a small amount of time to return assignments and take care of other administrivia while students work. The short quiz also can help decrease tardiness. Figure 4 provides the tiny quiz given the Monday after Spring Break on the applied chords podcast. There is nothing tricky about this three-point quiz.  Passing grades resulted from earning ⅔ or more of the total points.
 
-**Figure 3.** “Tiny Quiz” on podcast.
+**Figure 4.** “Tiny Quiz” on podcast.
 
 ![Example2.tiff](images/JM-image02.jpg)
 
