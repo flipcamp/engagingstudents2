@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Content in the Learner-centered Non-major Classroom&#58; Thinking and Listening Like a Musicologist
-author: John Hausmann, University of Louisville
+author: John Hausmann, University of Cincinnati College-Conservatory of Music
 ---
 {{ page.title }}
 ================
