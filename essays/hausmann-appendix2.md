@@ -22,16 +22,16 @@ We’ve taken a variety of approaches to studying music this semester, including
 -   Music and Literature, and
 -   Music and Narrative.
 
-Because music is inherently social(the first fundamental and powerful concept of this class), we can relate pieces/songs we’ve studied to multiple topics, creating different meanings from the same piece of music(the second fundamental and powerful concept of this class).
+Because music is inherently social(the first fundamental and powerful concept of this class), we can relate pieces/songs we’ve studied to multiple topics, creating different meanings from the same piece of music (the second fundamental and powerful concept of this class).
 
-Building on this work, the first partof this assignment involves selecting ten (10) different pieces/songs that we studied this semester (either in class or that were included in the textbook). For eachof these pieces/songs, answer these questions:
+Building on this work, the first part of this assignment involves selecting ten (10) different pieces/songs that we studied this semester (either in class or that were included in the textbook). For each of these pieces/songs, answer these questions:
 
 1.  Which unit did we originally study the music in? Why?
 2.  What is another unit that we could have studied the music in? Why?
 
 For example:
 
-1.  We discussed Alexander Borodin’s In the Steppes of Central Asiain our Music and Politics unit because of the political aspects of 19th century European nationalism.
+1.  We discussed Alexander Borodin’s *In the Steppes of Central Asia* in our Music and Politics unit because of the political aspects of 19th century European nationalism.
 2.  We could have discussed this piece during the Music and Ethnicity unit (because of its constructions of Russian and Asian identities), or during the Music and Narrative unit (since the piece tells a story through the travels and interactions of the three main themes).
 
 Next, focus on one of your answers from above. For one of these pieces/songs, answer this question:

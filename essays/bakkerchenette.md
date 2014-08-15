@@ -133,4 +133,5 @@ One of the most difficult aspects of writing to encourage is creativity: student
 
 In the end, our classes are about both learning and assessment. Both of these elements work best in situations where our goals are clear. The synoptic activity of academic writing is a wonderful goal, one that requires and stimulates many ways of thinking. But the path to that goal will be more effective if we understand its many components, and help our students to do the same. Working on these skills in more controlled assignments may be less work for student and teacher, and more satisfying for students who want to know “what the teacher wants”—and yet will also form stepping stones throughout the semester and throughout the curriculum to greater successes in communication, engagement, and critical thinking.
 
-This work is copyright ⓒ2014 Sara Bakker and Timothy Chenette and licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+This work is copyright ⓒ2014 Sara Bakker and Timothy Chenette and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).
+

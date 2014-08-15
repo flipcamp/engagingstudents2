@@ -118,7 +118,7 @@ Davidson, Cathy. 2009. [“How to Crowdsource Grading.”](http://www.google.com
 
 ———. 2011. [“Contract Grading + Peer Review: Here’s How It Works.”](http://www.google.com/url?q=http%3A%2F%2Fwww.hastac.org%2Fblogs%2Fcathy-davidson%2Fcontract-grading-peer-review-heres-how-it-works&sa=D&sntz=1&usg=AFQjCNEQXzXVprDcszSh4lAcUdu4ce9ojg) *HASTAC Blog*. January 3, 2011. Accessed July 16, 2014.
 
-Davis, James A. 2007. “‘[All Sounds of Life and Rage:’ Musical Imagery in the Writings of Civil War Soldiers](http://www.google.com/url?q=http%3A%2F%2Fconnection.ebscohost.com%2Fc%2Farticles%2F42427672%2Fall-sounds-life-rage-musical-imagery-writings-civil-war-soldiers&sa=D&sntz=1&usg=AFQjCNHKE5MoCRZfTuJfk_uZDXb-uufhew).” *Nineteenth Century Studies* (21): 183–97.
+Davis, James A. 2007. “‘[All Sounds of Life and Rage': Musical Imagery in the Writings of Civil War Soldiers](http://www.google.com/url?q=http%3A%2F%2Fconnection.ebscohost.com%2Fc%2Farticles%2F42427672%2Fall-sounds-life-rage-musical-imagery-writings-civil-war-soldiers&sa=D&sntz=1&usg=AFQjCNHKE5MoCRZfTuJfk_uZDXb-uufhew).” *Nineteenth Century Studies* (21): 183–97.
 
 de Clercq, Trevor. 2013. [“Towards a Flipped Aural Skills Classroom: Harnessing Recording Technology for Performance-Based Homework.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2FdeClercq.html&sa=D&sntz=1&usg=AFQjCNFS5ln7dEHE87dnYbodtijucAWSaw) *Engaging Students: Essays in Music Pedagogy*.
 

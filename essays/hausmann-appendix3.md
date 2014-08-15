@@ -64,11 +64,11 @@ Create a 10 minute podcast or video that analyzes a song of your choosing and pr
 -   Provide feedback on the argument, structure, analysis, and/or interpretation.
 -   Make sure you address each of the areas from the rubric:
 
--   Depth
--   Accuracy
--   Logic
--   Clarity with mechanics of writing
--   Precision of musical terminology
+	-   Depth
+	-   Accuracy
+	-   Logic
+	-   Clarity with mechanics of writing
+	-   Precision of musical terminology
 
 -   What did you think worked? Why? What do you think could use improvement? Why? Remember that the best feedback is honest, respectful, and specific. Your goal as a peer reviewer is to improve your peer’s project as much as you can.
 -   Read and respond to your colleague’s rough draft in a comment on the course blog by [date]. I will read and respond to both your rough draft and your peer reviewer’s comments by [date] at noon. My comments will be in the course blog.
