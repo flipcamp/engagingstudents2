@@ -8,8 +8,6 @@ author: Yona Stamatis, University of Illinois–Springfield
 ================
 **{{ page.author }}**
 
-# Introduction
-
 In 2013, I introduced into the general education curriculum at the University of Illinois, Springfield, a new undergraduate course called “Music and Social Justice.” The course was designed to help students engage the theory and practice of music making in order to bring about social change. My teaching philosophy for the course incorporated a student-centered learning approach designed to encourage critical thinking through the questioning of preconceived cognitive schema ([Dewey 1944](http://www.google.com/url?q=http%3A%2F%2Fwww.gutenberg.org%2Ffiles%2F852%2F852-h%2F852-h.htm&sa=D&sntz=1&usg=AFQjCNGQ0FNzKfvyn6Q7EBHQnqc6sZJMwQ), [Weimar 2008](http://books.google.com/books?id=X6IfawF1RNwC&pg=PR5&source=gbs_selected_pages&cad=3#v=onepage&q&f=false)). This constructivist approach was integral to this course, as it served as the primary pedagogical framework and as a model for social justice action: as students engaged in individual activism projects in their community, their primary goal was to achieve social change by influencing ways of thinking. As the course came to an end, I was left with a number of thoughts and observations about music and social justice as a tool for student-centered learning that may be useful to other instructors. While this essay provides a model for a semester-long Music and Social Justice course, it is also useful to instructors planning to teach a shorter unit on the topic as part of another course.
 
 # Towards a Philosophy of Student-Centered Music and Social Justice Learning
