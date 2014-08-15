@@ -68,7 +68,7 @@ A scholar finds numerous references to music and sound in soldiers’ letters fr
 
 The final letter contains a very subtle reference to music/sound. What is this reference?
 
-What does this letter––more than any of our other examples––give you a sense of?
+What does this letter—more than any of our other examples—give you a sense of?
 
 ### Conclusion
 
