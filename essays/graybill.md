@@ -12,7 +12,7 @@ Music theory training within the North American undergraduate curriculum is usua
 
 
 **Figure 1**. *Framework for relating the subdisciplines
-within the theory curriculum: “Bipartite” Model*
+within the theory curriculum: “Bipartite” Model.*
 [![](images/RG-image00.jpg)](images/RG-image00.jpg)
 
 The often-heard exhortation to integrate skills and written work within our teaching, however, hints at a possible problem with the bipartite conception itself. It is as though this way of thinking about our subdisciplines is non-integrative in some sense, and that we must make a special effort to overcome that. This essay will propose an alternate way of configuring the activities shown in Figure 1, with the hope of establishing a firmer foundation for integrating them. I will start with a few observations about the bipartite model in Figure 1, which will in turn suggest a way forward towards an alternative.
@@ -33,7 +33,7 @@ Figure 2 shows my alternative to the bipartite conceptualization shown earlier i
 
 
 **Figure 2**. *Alternate framework for relating the subdisciplines within the theory curriculum:
-The “Unitary” Model*
+The “Unitary” Model.*
 [![](images/RG-image01.jpg)](images/RG-image01.jpg)
 
 The test of any pedagogical model is its entailments. Does it have practical ramifications that testify to its scope and power? I believe that the unitary model does. Here are a few examples:
