@@ -16,31 +16,31 @@ Alegant, Brian. 2008. “[Listen Up! Thoughts on iPods, Sonata Form, and Analysi
 
 Allbaugh, Thomas. 2013. [*Pretexts for Writing*](http://www.google.com/url?q=http%3A%2F%2Fwww.thomasallbaugh.com%2Fpretexts-for-writing%2F&sa=D&sntz=1&usg=AFQjCNGsoHRi4hdNQFkjvQ9x7hnVQpfD4w). 2nd edition. Dubuque, Iowa: Kendall Hunt Publishing.
 
-Allen, Deborah E., Barbara J. Duch, and Susan E. Groh. 2001. “[Strategies for using Groups.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 59–68. Sterling, VA: Stylus.
+Allen, Deborah E., Barbara J. Duch, and Susan E. Groh. 2001. “[Strategies for using Groups.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” In *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 59–68. Sterling, VA: Stylus.
 
 Amabile, Teresa. 1979. “[Effects of External Evaluation on Artistic Creativity](http://www.google.com/url?q=http%3A%2F%2Fpsycnet.apa.org%2Fjournals%2Fpsp%2F37%2F2%2F221%2F&sa=D&sntz=1&usg=AFQjCNH69IWgmGtZCxk2gqO0GmM_rKGn0A).” *Journal of Personality and Social Psychology* 37: 221–33.
 
 ———. 1983. “[The Social Psychology of Creativity: A Componential Conceptualization.](http://www.google.com/url?q=http%3A%2F%2Fpsycnet.apa.org%2Fjournals%2Fpsp%2F45%2F2%2F357%2F&sa=D&sntz=1&usg=AFQjCNHMncp_RhtlKuIeaZ_AKj_PbzsCSw)” *Journal of Personality and Social Psychology* 45: 357–76.
 
-———. 1995. “[Discovering the Unknowable, Managing the Unmanageable.](http://www.google.com/url?q=http%3A%2F%2Fwww.hbs.edu%2Ffaculty%2FPages%2Fitem.aspx%3Fnum%3D465&sa=D&sntz=1&usg=AFQjCNHxyGkm73q7qSnIoIwNT8KTjiAcxQ)”  *Creative Action in Organizations: Ivory Tower Visions and Real World Voices*, edited by Cameron Ford and Dennis Gioia, 77–82. Thousand Oaks, CA: Sage Publications, Inc.
+———. 1995. “[Discovering the Unknowable, Managing the Unmanageable.](http://www.google.com/url?q=http%3A%2F%2Fwww.hbs.edu%2Ffaculty%2FPages%2Fitem.aspx%3Fnum%3D465&sa=D&sntz=1&usg=AFQjCNHxyGkm73q7qSnIoIwNT8KTjiAcxQ)” In *Creative Action in Organizations: Ivory Tower Visions and Real World Voices*, edited by Cameron Ford and Dennis Gioia, 77–82. Thousand Oaks, CA: Sage Publications, Inc.
 
-———. 2000. “[A Model of Creativity and Innovation in Organizations.](http://www.google.com/url?q=http%3A%2F%2Fwww.hbs.edu%2Ffaculty%2FPages%2Fitem.aspx%3Fnum%3D7441&sa=D&sntz=1&usg=AFQjCNHIKlrnLXhltJrUr3SH9G9WypiXRA)”  *Research in Organizational Behavior*, edited by B. Staw and L. Cummings, 123–167. Greenwich, CT: Cambridge University Press.
+———. 2000. “[A Model of Creativity and Innovation in Organizations.](http://www.google.com/url?q=http%3A%2F%2Fwww.hbs.edu%2Ffaculty%2FPages%2Fitem.aspx%3Fnum%3D7441&sa=D&sntz=1&usg=AFQjCNHIKlrnLXhltJrUr3SH9G9WypiXRA)” In *Research in Organizational Behavior*, edited by B. Staw and L. Cummings, 123–167. Greenwich, CT: Cambridge University Press.
 
 Angelo, Thomas, and K. Patricia Cross. 1993. [*Classroom Assessment Techniques: A Handbook for College Teachers*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL4305807W%2FClassroom_assessment_techniques&sa=D&sntz=1&usg=AFQjCNERcEw62IFskuZRi3ad093GIM9JAw). San Francisco: Jossey-Bass Publishers.
 
 Aristotle. [*Metaphysics*](http://www.google.com/url?q=http%3A%2F%2Fclassics.mit.edu%2FAristotle%2Fmetaphysics.1.i.html&sa=D&sntz=1&usg=AFQjCNEvlbo6yjhi2z4zmPaDEbdpq_at7Q). Translated by W.D. Ross. The Internet Classics Archive. Accessed July 11, 2014.
 
-Armstrong, Elizabeth G. 1997. “[A Hybrid Model of Problem-based Learning.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL7967007M%2FThe_Challenge_of_Problem_Based_Learning&sa=D&sntz=1&usg=AFQjCNHBYip1SmhrFZBz5mdL1XZlCi9egw)” *The Challenge of Problem-based Learning*, 2nd edition, edited by David Boud and Grahame Feletti, 137–50. London: Kogan Page. 
+Armstrong, Elizabeth G. 1997. “[A Hybrid Model of Problem-based Learning.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL7967007M%2FThe_Challenge_of_Problem_Based_Learning&sa=D&sntz=1&usg=AFQjCNHBYip1SmhrFZBz5mdL1XZlCi9egw)” In *The Challenge of Problem-based Learning*, 2nd edition, edited by David Boud and Grahame Feletti, 137–50. London: Kogan Page. 
 
 BaileyShea, Matt L. 2007.[ Filleted Mignon: A New Recipe for Analysis and Recomposition.](http://www.google.com/url?q=http%3A%2F%2Fwww.mtosmt.org%2Fissues%2Fmto.07.13.4%2Fmto.07.13.4.baileyshea.html&sa=D&sntz=1&usg=AFQjCNH6YCCFhyW6JTrxY3ZIC5Ee_wmSUg) *Music Theory Online* 13 (4). Accessed July 20, 2014.
 
 Bain, Ken, and James Zimmerman. 2009. [“Understanding Great Teaching.”](http://www.google.com/url?q=http%3A%2F%2Fwww.aacu.org%2Fpeerreview%2Fpr-sp09%2Fpr-sp09_bainzimmerman.cfm&sa=D&sntz=1&usg=AFQjCNGn0aRMgGUrXl6yhboHJcIe_Z1o5A) *Peer Review* 11 (2): 9-12.
 
-Baker, J. Wesley. 2000. "The 'Classroom Flip': Using Web Course Management Tools to Become the Guide by the Side." [*Selected Papers from the 11th International Conference on College Teaching and Learning*](http://www.worldcat.org/title/selected-papers-from-the-11th-international-conference-on-college-teaching-and-learning/oclc/45318580), edited by Jack A. Chambers, 9-17. Jacksonville, FL: Florida Community Coll., Jacksonville Center for the Advancement of Teaching and Learning.
+Baker, J. Wesley. 2000. "The 'Classroom Flip': Using Web Course Management Tools to Become the Guide by the Side." In [*Selected Papers from the 11th International Conference on College Teaching and Learning*](http://www.worldcat.org/title/selected-papers-from-the-11th-international-conference-on-college-teaching-and-learning/oclc/45318580), edited by Jack A. Chambers, 9-17. Jacksonville, FL: Florida Community Coll., Jacksonville Center for the Advancement of Teaching and Learning.
 
 Bañagale, Ryan Raul. 2014. “[The ‘Video Essay’ as Collaborative Musicology Within and Without the Classroom](http://www.american-music.org/conferences/Lancaster/LancasterConferenceSchedule_Final.pdf).” Paper presented at the annual meeting for the Society for American Music, Lancaster, Pennsylvania, March 5–9, 2014.
 
-Barnett, Ronald. 2011. “[Lifewide Education: A New and Transformative Concept for Higher Education.](http://books.google.com/books?id=DrEkQmwbSRsC&pg=PA22&dq=life-wide+learning&lr=&source=gbs_toc_r&cad=3#v=onepage&q=life-wide%20learning&f=false)” *Learning for a Complex World: A Lifewide Concept of Learning, Education and Personal Development*, edited by Norman J. Jackson, 22–38. Bloomington: AuthorHouse. 
+Barnett, Ronald. 2011. “[Lifewide Education: A New and Transformative Concept for Higher Education.](http://books.google.com/books?id=DrEkQmwbSRsC&pg=PA22&dq=life-wide+learning&lr=&source=gbs_toc_r&cad=3#v=onepage&q=life-wide%20learning&f=false)” In *Learning for a Complex World: A Lifewide Concept of Learning, Education and Personal Development*, edited by Norman J. Jackson, 22–38. Bloomington: AuthorHouse. 
 
 Barr, Robert B., and John Tagg. 1995. “[From Teaching to Learning: A New Paradigm for Undergraduate Education](http://www.maine.edu/pdf/BarrandTagg.pdf).” *Change* 27 (6): 13–25.
 
