@@ -34,10 +34,10 @@ Song analysis
 -   Learn and analyze your song. Some possible avenues for approaching this analysis are social/cultural, stylistic, historical, etc. You will find it helpful to approach your song from a variety of perspectives, even if all of your analysis does not end up in your final project.
 -   Build on this analysis by interpreting your song. Ask and answer one question about your song. For example,
 
--   How does the song relate to or depict a specific historical event?
--   How does the song present or depict places or spaces?
--   How does the cover version differ from the original, and what is the significance of this?
--   What types of audiences would find this example funny and why?
+	-   How does the song relate to or depict a specific historical event?
+	-   How does the song present or depict places or spaces?
+	-   How does the cover version differ from the original, and what is the significance of this?
+	-   What types of audiences would find this example funny and why?
 
 -   I’ve included one sample question for each of our four topics, but you’re encouraged to generate your own questions.
 -   Let your analysis guide the questions you ask, and don’t be afraid to change the questions you’re asking.
@@ -88,8 +88,8 @@ Listen to/watch each of your colleagues’ podcasts/video essays and respond to 
 
 -   Answer each of these questions for both of the essays that you choose to respond to:
 
--   What was your aesthetic reaction to the song?
--   What was your professional response to the argument and thesis?
--   How does this essay help you interpret or understand rock music?
+	-   What was your aesthetic reaction to the song?
+	-   What was your professional response to the argument and thesis?
+	-   How does this essay help you interpret or understand rock music?
 
 -   Submit your substantive comments on two essays in comments to the course blog by [date].
