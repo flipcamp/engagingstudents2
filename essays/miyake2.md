@@ -35,9 +35,9 @@ Document sharing systems ease the back-and-forth of paper submissions. While [ma
 
 Before the first writing assignment, [c](https://support.google.com/docs/answer/49114?hl=en)[reate and name a Google doc](https://support.google.com/docs/answer/49114?hl=en) for each student. [Allow one person](http://www.google.com/url?q=http%3A%2F%2Fgoogledocs.blogspot.com%2F2010%2F06%2Fsharing-in-google-docs-just-got-easier.html&sa=D&sntz=1&usg=AFQjCNGaDIeB1oyEwjQCXJ-7OABNzK8Wvw)—that specific student—to also edit it. Weekly writing assignments are kept in this document, transforming the Google doc into an anthology of the students’ summaries and ideas. Rather than turning in journals a few times a semester and having a professor do a lot of reading all at once, this electronic document is always accessible to both instructor and student.
 
-Google docs make this assignment-type particularly easy to manage. When there are any changes to a document, such as a student editing or writing a new entry, the title of the document becomes boldfaced and moves to the top of the list (Example 1). Also, Google docs has a comment feature that generates an email to the student. If there is a glaring factual error that you want the student to be quickly aware of, there is a built in measure to communicate it immediately from within the document.
+Google docs make this assignment-type particularly easy to manage. When there are any changes to a document, such as a student editing or writing a new entry, the title of the document becomes boldfaced and moves to the top of the list (Figure 1). Also, Google docs has a comment feature that generates an email to the student. If there is a glaring factual error that you want the student to be quickly aware of, there is a built in measure to communicate it immediately from within the document.
 
-Example 1. Indications that a Google doc has been revised.
+**Figure 1.** Indications that a Google doc has been revised.
 
 ![Example 3.tiff](images/image00.jpg)
 
