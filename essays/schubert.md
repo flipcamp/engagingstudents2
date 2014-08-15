@@ -16,7 +16,7 @@ When applied in an analysis class, it works like this: the teacher presents some
 
 In a class on analysis of Baroque music, I presented the students with the first measure of an Albinoni ritornello, shown in Example 1. They sang the melody, then the melody and the bass.
 
-**Example 1.** Thhe opening of the tenor aria “se incontrate tempeste” from the serenata *Il nascimento de l’Aurora*, taken from [Michael Talbot 1990](https://openlibrary.org/works/OL12411555W/Tomaso_Albinoni), p. 49.
+**Example 1.** *The opening of the tenor aria “se incontrate tempeste” from the serenata *Il nascimento de l’Aurora*, taken from [Michael Talbot 1990](https://openlibrary.org/works/OL12411555W/Tomaso_Albinoni), p. 49.*
 
 [![](images/PS-image01.png)](images/PS-image01.png)
 
