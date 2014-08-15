@@ -60,7 +60,7 @@ Bonds, Mark Evan. 2009. [*A History of Music in Western Culture*](https://www.go
 
 Boud, David and Grahame Feletti, eds. 1997. [*The Challenge of Problem-based Learning*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL7967007M%2FThe_Challenge_of_Problem_Based_Learning&sa=D&sntz=1&usg=AFQjCNHBYip1SmhrFZBz5mdL1XZlCi9egw). 2nd edition. London: Kogan Page.
 
-Bowe, Brian and John Cowan. 2004. “[A Comparative Evaluation of Problem-based Learning in Physics: A Lecture-based Course and a Problem-based Course.](https://openlibrary.org/books/OL9734827M/Challenging_Research_in_Problem_Based_Learning_(Understanding_Social_Research))” *Challenging Research in Problem-based Learning*, edited by Maggi Savin-Baden and Kay Wilkie, 162–73. Berkshire: Open University Press.
+Bowe, Brian and John Cowan. 2004. “[A Comparative Evaluation of Problem-based Learning in Physics: A Lecture-based Course and a Problem-based Course.](https://openlibrary.org/books/OL9734827M/Challenging_Research_in_Problem_Based_Learning_(Understanding_Social_Research))” In *Challenging Research in Problem-based Learning*, edited by Maggi Savin-Baden and Kay Wilkie, 162–73. Berkshire: Open University Press.
 
 Brewer, Carol A. and Diane Smith, eds. 2009. [*Vision and Change in Undergraduate Biology Education: A Call to Arms*](http://www.google.com/url?q=http%3A%2F%2Fvisionandchange.org%2Ffiles%2F2013%2F11%2Faaas-VISchange-web1113.pdf&sa=D&sntz=1&usg=AFQjCNH3vxUYkztRo5EoBAEzmngP9Peq3w). Report organized jointly by the American Association for the Advancement of Science and the National Science Foundation.
 
@@ -106,7 +106,7 @@ Covington, Kate. 1997. “[Improvisation in the Aural Curriculum: An Imperative]
 
 Crain, Timothy. M. 2014.["Beyond Coverage in the Music History Classroom."](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F110&sa=D&sntz=1&usg=AFQjCNFqyh3WH3l5bHZNPlgctfBIqNNFwA)  *Journal of Music History Pedagogy* 4 (2): 301–18.
 
-Crutchfield, R. 1962. “[Conformity and Creative Thinking](http://www.google.com/url?q=http%3A%2F%2Fpsycnet.apa.org%2Fbooks%2F13117%2F004&sa=D&sntz=1&usg=AFQjCNGaPJfHx-ziPYK9rL2U1-0Nx8wtqg).” *Contemporary Approaches to Creative Thinking*, edited by H. Gruber, G. Terell, and M. Wertheimer, 120–140. New York, NY: Atherton Press.
+Crutchfield, R. 1962. “[Conformity and Creative Thinking](http://www.google.com/url?q=http%3A%2F%2Fpsycnet.apa.org%2Fbooks%2F13117%2F004&sa=D&sntz=1&usg=AFQjCNGaPJfHx-ziPYK9rL2U1-0Nx8wtqg).” In *Contemporary Approaches to Creative Thinking*, edited by H. Gruber, G. Terell, and M. Wertheimer, 120–140. New York, NY: Atherton Press.
 
 Cunningham, Kathryn, and Deborah Moore. [“50 CATS by Angelo and Cross.”](http://www.google.com/url?q=http%3A%2F%2Fpages.uoregon.edu%2Ftep%2Fresources%2Fnewteach%2Ffifty_cats.pdf&sa=D&sntz=1&usg=AFQjCNFzb4hHXsSox64q99MQJSx4vtxi5g)  Teaching and Learning Center, Univeresity of Oregon. Accessed June 20, 2014.
 
@@ -129,7 +129,7 @@ Doyle, Terry. 2008. [*Helping Students Learn in a Learner-Centered Environment: 
 
 Duch, Barbara J., Susan E. Groh, and Deborah E. Allen, eds. 2001. [*The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q). Sterling, VA: Stylus. 
 
-Duch, Barbara J. 2001. “[Writing Problems for Deeper Understanding.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 47–58. Sterling, VA: Stylus. 
+Duch, Barbara J. 2001. “[Writing Problems for Deeper Understanding.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” In *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 47–58. Sterling, VA: Stylus. 
 
 Duker, Philip. 2013. ["Setting up a standards-based gradebook."](http://www.hackingmusictheory.com/duker.html). *Hacking the Music Theory Classroom.* Accessed July 17, 2014.
 
@@ -141,7 +141,7 @@ Elbow, Peter. 1993. [“Ranking, Evaluating, and Liking: Sorting out Three Forms
 
 Everett, Walter. 2004. ["Making Sense of Rock’s Tonal Systems."](http://www.google.com/url?q=http%3A%2F%2Fwww.mtosmt.org%2Fissues%2Fmto.04.10.4%2Fmto.04.10.4.w_everett.html&sa=D&sntz=1&usg=AFQjCNEwyKG0L2tSy4-LrS32LoGYcCTztw) *Music Theory Online* 10 (4): Accessed July 31, 2014.
 
-Fillerup, Jessie. 2010. “Cage and the Chaotic Classroom: Pedagogy for the Avant-garde.” [*Vitalizing Music History Teaching*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL15489350W%2FVitalizing_music_history_teaching&sa=D&sntz=1&usg=AFQjCNE-1fegfThXW2AHcfOG3_ECPTKKLA).  Ed. James Briscoe. Monographs and Bibliographies in American Music. Nr. 20. Ed. Michael J. Budds, 177–88. New York: Pendragon Press.
+Fillerup, Jessie. 2010. “Cage and the Chaotic Classroom: Pedagogy for the Avant-garde.” In [*Vitalizing Music History Teaching*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL15489350W%2FVitalizing_music_history_teaching&sa=D&sntz=1&usg=AFQjCNE-1fegfThXW2AHcfOG3_ECPTKKLA).  Ed. James Briscoe. Monographs and Bibliographies in American Music. Nr. 20. Ed. Michael J. Budds, 177–88. New York: Pendragon Press.
 
 Fink, Dee. 2014. [“A Self-Directed Guide to Designing Courses for Significant Learning.”](http://www.google.com/url?q=http%3A%2F%2Fwww.deefinkandassociates.com%2FGuidetoCourseDesignAug05.pdf&sa=D&sntz=1&usg=AFQjCNFMThAmMrEN3yhnRzc1BIsIcCI5cA) Accessed August 1, 2014.
 
@@ -217,13 +217,13 @@ Larson, Steve. 1995. “[‘Integrated Music Learning’ and Improvisation: Teac
 
 ———. 2012. [*Musical forces: motion, metaphor, and meaning in music.*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16142046W%2FMusical_forces&sa=D&sntz=1&usg=AFQjCNEZpcbostSatUT6I-xEyV0zrAUjCw) Bloomington: Indiana University Press.  
 
-Lieux, Elizabeth M. 2001. ["A Skeptic’s Look at PBL."](https://openlibrary.org/books/OL9728080M/The_Power_of_Problem-Based_Learning) *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 223–35. Sterling, VA: Stylus. 
+Lieux, Elizabeth M. 2001. ["A Skeptic’s Look at PBL."](https://openlibrary.org/books/OL9728080M/The_Power_of_Problem-Based_Learning) In *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 223–35. Sterling, VA: Stylus. 
 
 Liszt, Franz. 1855. “[*Berlioz and His Harold Symphony*](https://is.muni.cz/el/1421/podzim2008/VH_751/liszt.html)”.
 
 Ludwig, Alexander R. 2013. [“Using Twitter in the Music History Classroom.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fludwig.html&sa=D&sntz=1&usg=AFQjCNHmb5gNPvqGZFWeD6k8fpvJZmKsyg) *Engaging Students: Essays in Music Pedagogy*. Accessed July 11, 2014.
 
-Macbeth, Karen P. 2006. [“Diverse, Unforeseen, and Quaint Difficulties: The Sensible Responses of Novices Learning to Follow Instructions in Academic Writing.”](http://www.jstor.org/stable/40171696) *Research in the Teaching of English* 41, No. 2: 180–207.
+Macbeth, Karen P. 2006. [“Diverse, Unforeseen, and Quaint Difficulties: The Sensible Responses of Novices Learning to Follow Instructions in Academic Writing.”](http://www.jstor.org/stable/40171696) *Research in the Teaching of English* 41 (2): 180–207.
 
 Maclellan, Effie and Soden, R. 2004. ["The importance of epistemic cognition in student-centered learning"](http://strathprints.strath.ac.uk/5509/1/strathprints005509.pdf). *Instructional Science* 32 (3): 253-68.
 
@@ -233,7 +233,7 @@ Maiello, James Vincent. 2013. ["Towards a Praxial Philosophy of Music History Pe
 
 Major, Claire H. 2002. [“Problem-Based Learning in General Education at Samford University: A Case Study of Changing Faculty Culture through Targeted Improvement Efforts.”](http://www.google.com/url?q=http%3A%2F%2Fwww.jstor.org%2Fstable%2F27797926&sa=D&sntz=1&usg=AFQjCNFyQ4SMr3DDvGbGmKPiwwo6sDYmEw) *The Journal of General Education* 51 (4): 235-256.
 
-Marvin, William. 2004. “Introduction to Writing Analytical Essays.” [*Engaging Music: Essays in Music Analysis*](https://openlibrary.org/works/OL4326273W/Engaging_Music), edited by Deborah Stein, xi-xiv. Oxford: Oxford University Press.
+Marvin, William. 2004. “Introduction to Writing Analytical Essays.” In [*Engaging Music: Essays in Music Analysis*](https://openlibrary.org/works/OL4326273W/Engaging_Music), edited by Deborah Stein, xi-xiv. Oxford: Oxford University Press.
 
 McLeod, Saul. [“Jean Piaget.”](http://www.google.com/url?q=http%3A%2F%2Fwww.simplypsychology.org%2Fpiaget.html&sa=D&sntz=1&usg=AFQjCNFcZtkiQfdA9WoMXhDIeObju4-eZw) *Simply Psychology*. Last modified, 2012. Accessed July 14, 2014.  
 
@@ -255,9 +255,9 @@ Mueller, Jon. 2012.[“What is Authentic Assessment?”](http://www.google.com/u
 
 [National Association of Schools of Music Handbook](http://www.google.com/url?q=http%3A%2F%2Fnasm.arts-accredit.org%2Fsite%2Fdocs%2FHandbook%2FNASM_HANDBOOK_2013-14.pdf&sa=D&sntz=1&usg=AFQjCNFYMnqk-vb5_rndyrgs8gr2USNDUA), 2013-2014.  Accessed June 30, 2014
 
-Natvig, Mary. 2012. [“Classroom Activities.”](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16557937W%2FThe_music_history_classroom&sa=D&sntz=1&usg=AFQjCNE-PrdoQcwihlzYZJbAyp8Cfl59pA) *The Music History Classroom*, edited by James A. Davis, 15-30. Farnham, Surrey, England: Ashgate.
+Natvig, Mary. 2012. [“Classroom Activities.”](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16557937W%2FThe_music_history_classroom&sa=D&sntz=1&usg=AFQjCNE-PrdoQcwihlzYZJbAyp8Cfl59pA) In *The Music History Classroom*, edited by James A. Davis, 15-30. Farnham, Surrey, England: Ashgate.
 
-Nelson, Jennie. 1990. [“This Was an Easy Assignment: Examining How Students Interpret Academic Writing Tasks.”](http://www.nwp.org/cs/public/download/nwp_file/159/TR43.pdf?x-r=pcfile_d) *Research in the Teaching of English* 24, No. 4: 362–396.
+Nelson, Jennie. 1990. [“This Was an Easy Assignment: Examining How Students Interpret Academic Writing Tasks.”](http://www.nwp.org/cs/public/download/nwp_file/159/TR43.pdf?x-r=pcfile_d) *Research in the Teaching of English* 24 (4): 362–396.
 
 Nosich, Gerald. 2011. [*Learning to Think Things Through: A Guide to Critical Thinking Across the Curriculum*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL6447755W%2FLearning_to_Think_Things_Through&sa=D&sntz=1&usg=AFQjCNGKon9gLqTOo_YOHQibY3m-x8m2kg), 4th edition. Upper Saddle River, NJ: Prentice Hall.
 
@@ -293,9 +293,9 @@ Rogers, Nancy, and Robert Ottman. 2014. [*Music for Sight Singing.*](http://www.
 
 Rorbaugh, Pete. 2012. [“Occupy the Digital: Critical Pedagogy and New Media.”](http://www.google.com/url?q=http%3A%2F%2Fwww.hybridpedagogy.com%2Fjournal%2Foccupy-the-digital-critical-pedagogy-and-new-media%2F&sa=D&sntz=1&usg=AFQjCNGNWxWw6bcrBNbjZJ3ey0dFZ65-EA) *Hybrid Pedagogy*, August 6.
 
-Rust, Chris. 2002. ["The impact of assessment on student learning"](http://uncw.edu/cas/documents/Rust2002.pdf). *The Institute for Learning and Teaching in Higher Education and Sage Publications* 3(2): 145–58. 
+Rust, Chris. 2002. ["The impact of assessment on student learning"](http://uncw.edu/cas/documents/Rust2002.pdf). *The Institute for Learning and Teaching in Higher Education and Sage Publications* 3 (2): 145–58. 
 
-Savery, J. R. 1999. “Enhancing motivation and learning through collaboration and the use of problems.” [*Inspiring students: Case studies in motivating the learner*](https://openlibrary.org/works/OL9182073W/INSPIRING_STUDENTS), edited by S. Fellows & K. Ahmet, 33–42. London: Kogan Page.
+Savery, J. R. 1999. “Enhancing motivation and learning through collaboration and the use of problems.” In [*Inspiring students: Case studies in motivating the learner*](https://openlibrary.org/works/OL9182073W/INSPIRING_STUDENTS), edited by S. Fellows & K. Ahmet, 33–42. London: Kogan Page.
 
 Savin-Baden, Maggi and Kay Wilkie, eds. 2004. <a href="https://openlibrary.org/books/OL9734827M/Challenging_Research_in_Problem_Based_Learning_(Understanding_Social_Research)">*Challenging Research in Problem-based Learning*.</a> Berkshire: Open University Press.
 
@@ -316,9 +316,7 @@ Educational Psychology* 95 (2): 426–42.
 
 Schwartz, Peter, Stewart Mennin, and Graham Webb. 2001. [*Problem-based Learning: Case Studies, Experience, and Practice*.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9648209M%2FPROBLEM_BASED_LEARNING&sa=D&sntz=1&usg=AFQjCNG_OHBsGdOYJqOMHiyAZZoTEcJHIQ) London: Kogan Page.
 
-———.[“My Undergraduate Skills-Intensive Counterpoint Learning Environment (MUSICLE).”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fschubert.html&sa=D&sntz=1&usg=AFQjCNHWU6wL0p_qdFS3fkoq9QiqpqIK8g) *Engaging Students: Essays in Music Pedagogy*.  Accessed July 2, 2014.
-
-Seaton, Douglass. 2010. “Teaching Music History: Principles, Problems, and Proposals. [Vitalizing Music History Teaching](https://openlibrary.org/works/OL15489350W/Vitalizing_music_history_teaching).  Ed. James Briscoe. Monographs and Bibliographies in American Music. Nr. 20. Ed. Michael J. Budds. New York: Pendragon Press.
+Seaton, Douglass. 2010. “Teaching Music History: Principles, Problems, and Proposals. In [*Vitalizing Music History Teaching*](https://openlibrary.org/works/OL15489350W/Vitalizing_music_history_teaching).  Ed. James Briscoe. Monographs and Bibliographies in American Music. Nr. 20. Ed. Michael J. Budds. New York: Pendragon Press.
 
 Shadle, Douglas. 2012. “[Nothing Ordinary About It: The Mass Proper as Early Music Jigsaw Puzzle](http://www.google.com/url?q=http%3A%2F%2Fwww.ams-net.org%2Fojs%2Findex.php%2Fjmhp%2Farticle%2Fview%2F66&sa=D&sntz=1&usg=AFQjCNEC31TwPh4fZpdxK2QMpKkx9M4CDg).”  *Journal of Music History Pedagogy* 3 (1): 1–37.
 
@@ -342,7 +340,7 @@ Shaffer, Kris. 2012. “[Introduction to Criterion-Referenced Grading](http://ww
 
 ———. 2014. [“Why Grade?”](http://www.google.com/url?q=http%3A%2F%2Fkris.shaffermusic.com%2F2014%2F07%2Fwhy-grade%2F&sa=D&sntz=1&usg=AFQjCNHo8hXApvRz2G7ajCEZ4JXr0y9-xw) *Personal blog.* July 8, 2014. Accessed July 16, 2014.
 
-Shaffer, Kris and Bryn Hughes. 2013. [“Flipping the Classroom: Three Methods.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fshafferintro.html&sa=D&sntz=1&usg=AFQjCNHdo8F-0-l1EfsZ7XkcIsQnd1IutQ) In *Engaging Students: Essays in Music Pedagogy*.
+Shaffer, Kris and Bryn Hughes. 2013. [“Flipping the Classroom: Three Methods.”](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fshafferintro.html&sa=D&sntz=1&usg=AFQjCNHdo8F-0-l1EfsZ7XkcIsQnd1IutQ) *Engaging Students: Essays in Music Pedagogy*.
 
 Sharp, Gene. 1973. [*The Politics of Nonviolent Action*.](http://books.google.com/books/about/The_Politics_of_Nonviolent_Action.html?id=gA0XAAAAIAAJ&redir_esc=y) (3 vols.) Boston: Porter Sargent.
 
@@ -379,13 +377,13 @@ Vega, Vanessa. 2012. “[Project-based Learning Research Review.](http://www.goo
 
 Walvoord, Barbara E. Fassler. 1986. [*Helping Students Write Well*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL2719190M%2FHelping_students_write_well&sa=D&sntz=1&usg=AFQjCNFyIZZfDs5MQkGtMC8a_rwpDPBgXw). 2nd edition. New York: The Modern Language Association of America.
 
-Warfield, Scott. 2012. [“The Research Paper.”](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16557937W%2FThe_music_history_classroom&sa=D&sntz=1&usg=AFQjCNE-PrdoQcwihlzYZJbAyp8Cfl59pA) *The Music History Classroom*, edited by James A. Davis, 125-140. Farnham, Surrey, England: Ashgate.
+Warfield, Scott. 2012. [“The Research Paper.”](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL16557937W%2FThe_music_history_classroom&sa=D&sntz=1&usg=AFQjCNE-PrdoQcwihlzYZJbAyp8Cfl59pA)  In *The Music History Classroom*, edited by James A. Davis, 125-140. Farnham, Surrey, England: Ashgate.
 
 Weimer, Maryellen. 2008. [*Learner-Centered Teaching: Five Key Changes to Practice*](http://books.google.com/books?id=X6IfawF1RNwC&pg=PR5&source=gbs_selected_pages&cad=3#v=onepage&q&f=false). San Francisco: John Wiley & Sons.
 
-White, Harold B. III. 2001a. “[A PBL Course that Uses Research Articles as Problems.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 131–40. Sterling, VA: Stylus.
+White, Harold B. III. 2001a. “[A PBL Course that Uses Research Articles as Problems.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” In *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 131–40. Sterling, VA: Stylus.
 
-White, Harold B. III. 2001b. “[Getting Started in Problem-Based Learning.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 69–78. Sterling, VA: Stylus.
+———. 2001b. “[Getting Started in Problem-Based Learning.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL9728080M%2FThe_Power_of_Problem-Based_Learning&sa=D&sntz=1&usg=AFQjCNF4lOzHkR24BaxLElMXjeTt_59M9Q)” In *The Power of Problem-based Learning: A Practical “How-to” for Teaching Undergraduate Courses in Any Discipline*, edited by Barbara J. Duch, Susan E. Groh, and Deborah E. Allen, 69–78. Sterling, VA: Stylus.
 
 Wolsey, Thomas DeVere, et al. 2012. [“Students' and Teachers' Perceptions: An Inquiry Into Academic Writing.”](http://www.fisherandfrey.com.previewdns.com/_admin/_filemanager/File/Writing_Percept_JAAL.pdf) *Journal of Adolescent & Adult Literacy* 55, No. 8: 714–724.
 
