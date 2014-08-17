@@ -24,7 +24,7 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 [Erinn Knyt]({{ site.baseurl }}/essays/knyt.html), University of Massachusetts Amherst  
 [Gregory R. McCandless]({{ site.baseurl }}/essays/mccandless.html), Full Sail University  
 [Garrett Michaelsen]({{ site.baseurl }}/essays/michaelsen.html), University of Massachusetts Lowell  
-[Jan Miyake]({{ site.baseurl }}/essays/miyake1.html), Oberlin College and Conservatory  
+Jan Miyake ([1]({{ site.baseurl }}/essays/miyake1.html), [2]({{ site.baseurl }}/essays/miyake2.html)), Oberlin College and Conservatory  
 [Brian Moseley]({{ site.baseurl }}/essays/moseley.html), The University at Buffalo, SUNY  
 [Meghan Naxer]({{ site.baseurl }}/essays/kulmaNaxer.html), University of Oregon  
 [Deborah Rifkin]({{ site.baseurl }}/essays/rifkin.html), Ithaca College  
