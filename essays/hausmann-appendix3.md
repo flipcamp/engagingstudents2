@@ -45,11 +45,9 @@ Create a 10 minute podcast or video that analyzes a song of your choosing and pr
 
 ### Write a thesis statement and an outline.
 
--   Your thesis statement describes the main point of your argument in one or two sentences description that summarizes
--   Your outline explains the structure of your argument and how you will prove your thesis statement.
-
--   I’ve used this format for the songs we’ve discussed throughout the course, but if you’d like to see a more explicit example, you can look at my example (posted on the course website). Include a YouTube link to the version of the song you will be writing about.
-
+-   Your thesis statement describes the main point of your argument in one or two sentences.  
+-   Your outline explains the structure of your argument and how you will prove your thesis statement.  
+-   I’ve used this format for the songs we’ve discussed throughout the course, but if you’d like to see a more explicit example, you can look at my example (posted on the course website). Include a YouTube link to the version of the song you will be writing about.  
 -   Submit these in a post to the course blog by [date].
 
 ### Write a rough draft of your essay.
