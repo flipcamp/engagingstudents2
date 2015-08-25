@@ -9,36 +9,97 @@ This volume contains essays dealing with teaching philosophy ([Alegant]({{ site.
 We hope that you enjoy reading this volume as much as we have enjoyed putting it together.
  
 
-### Authors ###
+## Front matter
 
-[Brian Alegant]({{ site.baseurl }}/essays/alegant.html), Oberlin College and Conservatory  
-[Sara Bakker]({{ site.baseurl }}/essays/bakkerchenette.html), Utah State University  
-[Janet Bourne]({{ site.baseurl }}/essays/bourne.html), Northwestern University  
-[Timothy Chenette]({{ site.baseurl }}/essays/bakkerchenette.html), Utah State University  
-[Trevor de Clercq]({{ site.baseurl }}/essays/declercq.html), Middle Tennessee State University  
-[Philip Duker]({{ site.baseurl }}/essays/duker.html), University of Delaware  
-[Roger Graybill]({{ site.baseurl }}/essays/graybill.html), New England Conservatory  
-[John Hausmann]({{ site.baseurl }}/essays/hausmann.html), University of Cincinnati College-Conservatory of Music    
-[Shersten Johnson]({{ site.baseurl }}/essays/johnson.html), University of St. Thomas  
-[David Kulma]({{ site.baseurl }}/essays/kulmaNaxer.html), Winthrop University  
-[Erinn Knyt]({{ site.baseurl }}/essays/knyt.html), University of Massachusetts Amherst  
-[Gregory R. McCandless]({{ site.baseurl }}/essays/mccandless.html), Full Sail University  
-[Garrett Michaelsen]({{ site.baseurl }}/essays/michaelsen.html), University of Massachusetts Lowell  
-Jan Miyake ([1]({{ site.baseurl }}/essays/miyake1.html), [2]({{ site.baseurl }}/essays/miyake2.html)), Oberlin College and Conservatory  
-[Brian Moseley]({{ site.baseurl }}/essays/moseley.html), The University at Buffalo, SUNY  
-[Meghan Naxer]({{ site.baseurl }}/essays/kulmaNaxer.html), University of Oregon  
-[Deborah Rifkin]({{ site.baseurl }}/essays/rifkin.html), Ithaca College  
-[Nancy Rogers]({{ site.baseurl }}/essays/rogers.html), Florida State University  
-[Peter Schubert]({{ site.baseurl }}/essays/schubert.html), Schulich School of Music, McGill University  
-[Kris Shaffer]({{ site.baseurl }}/essays/shaffer.html), University of Colorado–Boulder  
-[Yona Stamatis]({{ site.baseurl }}/essays/stamatis.html), University of Illinois–Springfield  
-[Anna Stephan-Robinson]({{ site.baseurl }}/essays/stephanRobinson.html), West Liberty University  
-[Daniel Stevens]({{ site.baseurl }}/essays/stevens.html), University of Delaware  
-[Scott M. Strovas]({{ site.baseurl }}/essays/strovas.html), Wayland Baptist University  
-[Aaron Ziegel]({{ site.baseurl }}/essays/ziegel.html), Towson University  
+[Foreword]({{ site.baseurl }}/essays/rogers.html)  
+*Nancy Rogers*
+
+## Philosophy
+
+[On “scuba diving,” or the advantages of a less-is-more approach]({{ site.baseurl }}/essays/alegant.html)  
+*Brian Alegant*
+
+[Thinking “in” and “about” Music: Implications for the Theory Curriculum]({{ site.baseurl }}/essays/graybill.html)  
+*Roger Graybill*  
+
+[Content in the Learner-centered Non-major Classroom: Thinking and Listening Like a Musicologist]({{ site.baseurl }}/essays/hausmann.html)  
+*John Hausmann*  
+
+[Beyond Part Writing&#58; Modernizing the Curriculum]({{ site.baseurl }}/essays/kulmaNaxer.html)  
+*David Kulma and Meghan Naxer*
+
+[Towards a Philosophy of Student-Centered Music and Social Justice Learning]({{ site.baseurl }}/essays/stamatis.html)  
+*Yona Stamatis*
 
 
-### Editorial Board ###
+## Practice
+
+[Problem-Based Learning in Music&#58; A Guide for Instructors]({{ site.baseurl }}/essays/dukerShafferStevens.html)  
+*Philip Duker, Kris Shaffer, and Daniel Stevens*
+
+[Recomposition as Low-Stakes Analysis]({{ site.baseurl }}/essays/johnson.html)  
+*Shersten Johnson*  
+
+[Student Performance as Pedagogy in the Music History Survey Course]({{ site.baseurl }}/essays/knyt.html)  
+*Erinn Knyt*  
+
+[Improvising to Learn/Learning to Improvise: Designing Scaffolded Group Improvisations for the Music Theory Classroom]({{ site.baseurl }}/essays/michaelsen.html)  
+*Garrett Michaelsen*  
+
+[Cultivating Creativity in the Music Theory Classroom&#58; Telling Tales with Texture and Timbre]({{ site.baseurl }}/essays/rifkin.html)  
+*Deborah Rifkin*
+
+[Teaching Music Analysis through Improvisation]({{ site.baseurl }}/essays/schubert.html)  
+*Peter Schubert*
+
+[Active Listening, Aural Imagination, and 19th-Century Program Music&#58; An In-Class "Experiment"]({{ site.baseurl }}/essays/ziegel.html)  
+*Aaron Ziegel*
+
+
+## Writing
+
+[Writing Across the Music Theory Curriculum]({{ site.baseurl }}/essays/bakkerchenette.html)  
+*Sara Bakker and Timothy Chenette*
+
+[Weekly (or more) Writing in the Music Theory Classroom]({{ site.baseurl }}/essays/miyake2.html)  
+*Jan Miyake*  
+
+[Making Writing Matter&#58; Two Rhetorical Scenarios for the Music History Term Paper]({{ site.baseurl }}/essays/strovas.html)  
+*Scott M. Strovas*
+
+
+
+## Assessment
+
+[CAT got your tongue? Adapting Classroom Assessment Techniques (CATs) for the Music Classroom]({{ site.baseurl }}/essays/bourne.html)  
+*Janet Bourne*
+
+[Using Criterion-Referenced Assessment to Encourage Active Analytical Listening]({{ site.baseurl }}/essays/moseley.html)  
+*Brian Moseley*
+
+(See also [Assessing Problem-Based Learning]({{ site.baseurl }}/essays/shaffer.html).)
+
+## Technology
+
+[Grooves, Drones, and Loops: Enhancing Aural Skills Exercises with Rock Music Contexts]({{ site.baseurl }}/essays/declercq.html)  
+*Trevor de Clercq*  
+
+[On the Assessment of Technological Competence in Online Music Courses]({{ site.baseurl }}/essays/mccandless.html)  
+*Gregory R. McCandless*  
+
+[A Mini-Flip of the Music Theory Classroom]({{ site.baseurl }}/essays/miyake1.html)  
+*Jan Miyake*  
+
+[Enhanced Podcasts as a Tool for the Academic Music Classroom]({{ site.baseurl }}/essays/stephanRobinson.html)  
+*Anna Stephan-Robinson*
+
+
+## Back matter
+
+[Bibliography]({{ site.baseurl }}/bibliography.html)
+
+
+## Editorial Board
 
 Sean Atkinson, Texas Christian University  
 Carla Colletti, Webster University  
