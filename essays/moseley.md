@@ -59,7 +59,7 @@ Students, of course, learn this dependence at different paces, which may or may 
 
 [![](images/BM-image03.png)](images/BM-image03.png)
 
-#vCRA as a Way to Fuse Written and Aural Skills
+# CRA as a Way to Fuse Written and Aural Skills
 
 In my experience, blending written theory and analysis with analytical listening encourages the development of what Bruce Benward called the “hearing eye” and “seeing ear”—which is especially important as students learn to visualize the formal structures they are hearing. CRA can better fuse these two aspects of the curriculum by unifying the conceptual objectives in the two courses: in a classical form unit, written and aural theory can share the same core concepts.
 
